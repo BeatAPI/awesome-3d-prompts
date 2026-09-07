@@ -8,7 +8,7 @@
 
 32 hand-reviewed, source-backed 3D prompts for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results, original sources, and creator attribution.
 
-**[Browse all 32 prompts](#prompt-gallery)** · **[Use GPT-6 Astra via API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[中文说明](./README.zh-CN.md)** · **[Contribute a prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
+**[Browse all 32 prompts](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[Use GPT-6 Astra via API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[中文说明](./README.zh-CN.md)** · **[Contribute a prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
 
 32 source-backed cases · 6 workflows · 32 visual previews · exact/derived fidelity labels
 

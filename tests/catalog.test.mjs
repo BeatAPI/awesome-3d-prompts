@@ -45,13 +45,14 @@ test('the public contribution link opens a structured prompt submission form', a
   await access(new URL('.github/ISSUE_TEMPLATE/prompt.yml', root));
 });
 
-test('the generated first screen names Astra clearly and avoids the unpublished gallery route', async () => {
+test('the generated first screen links to the live Astra 3D gallery', async () => {
   const readme = await readFile(new URL('README.md', root), 'utf8');
   const readmeZh = await readFile(new URL('README.zh-CN.md', root), 'utf8');
   assert.match(readme, /^# Awesome GPT-6 Astra 3D Prompts$/m);
   assert.match(readme, /assets\/readme-hero\.webp/);
   assert.match(readmeZh, /assets\/readme-hero\.webp/);
   await access(new URL('assets/readme-hero.webp', root));
+  assert.match(readme, /\[Browse all 32 prompts\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
+  assert.match(readmeZh, /\[浏览全部 32 条 Prompt\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
   assert.match(readme, /Use GPT-6 Astra via API/);
-  assert.doesNotMatch(readme, /https:\/\/beatapi\.io\/(?:zh\/)?3d-prompts/);
 });

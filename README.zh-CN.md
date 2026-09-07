@@ -8,7 +8,7 @@
 
 32 条经过人工审核、可追溯来源的 GPT-6 Astra 3D Prompt，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果、原始来源和作者署名。
 
-**[浏览全部 32 条 Prompt](#prompt-gallery)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
+**[浏览全部 32 条 Prompt](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
 
 32 source-backed cases · 6 workflows · 32 visual previews · exact/derived fidelity labels
 
