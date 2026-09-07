@@ -47,7 +47,11 @@ test('the public contribution link opens a structured prompt submission form', a
 
 test('the generated first screen names Astra clearly and avoids the unpublished gallery route', async () => {
   const readme = await readFile(new URL('README.md', root), 'utf8');
+  const readmeZh = await readFile(new URL('README.zh-CN.md', root), 'utf8');
   assert.match(readme, /^# Awesome GPT-6 Astra 3D Prompts$/m);
+  assert.match(readme, /assets\/readme-hero\.webp/);
+  assert.match(readmeZh, /assets\/readme-hero\.webp/);
+  await access(new URL('assets/readme-hero.webp', root));
   assert.match(readme, /Use GPT-6 Astra via API/);
   assert.doesNotMatch(readme, /https:\/\/beatapi\.io\/(?:zh\/)?3d-prompts/);
 });
