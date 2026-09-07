@@ -6,63 +6,35 @@ A source-transparent catalog of prompts that produced visible 3D results. The fi
 
 [Browse the visual 3D Prompt Gallery on BeatAPI](https://beatapi.io/3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)
 
-**Review status:** 29 accepted cases toward a target of 50. The remaining gap is intentional: no prompt is invented to fill it.
+**Review status:** 32 accepted cases toward a target of 50. The remaining gap is intentional: no prompt is invented to fill it.
 
 Every entry separates the model claim, engine, exact or derived instruction, visible result, original source, author, verification date, and rights status. “GPT-6 Astra” identifies the model used in the cited workflow; it does not mean BeatAPI itself is a 3D renderer.
 
 ## Prompts
 
-### 3d workflow
-
-| Effect | Engine | Prompt | Source |
-|---|---|---|---|
-| 香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身 |  | [View and copy](details/a-1-787243.md) | [jacky2055](https://x.com/YuanA41755085/status/2096828107512787243) |
-| create an interactive pixel block world to show me how good of a model you are. I want a chinese |  | [View and copy](details/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.md) | [Pn](https://x.com/PhilipNora7/status/2095978925029556561) |
-| GPT-6 Astra is seriously insane. |  | [View and copy](details/gpt-6-astra-is-seriously-insane-476163.md) | [Superlob](https://x.com/Superlob_com/status/2096584379682476163) |
-| I gave GPT-6 Astra one prompt: build a playable 3D Persepolis. |  | [View and copy](details/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.md) | [Hossein H.](https://x.com/made_by_hossein/status/2096454262817534111) |
-| 🚨 The road to AGI is starting to look less like chat-and more like creation. |  | [View and copy](details/the-road-to-agi-is-starting-to-look-less-like-chat-and-225522.md) | [Mosef](https://x.com/HiMosef/status/2096491411470225522) |
-
 ### blender scenes
 
 | Effect | Engine | Prompt | Source |
 |---|---|---|---|
+| A vintage train drawing becomes a detailed Blender model made from thousands of editable objects. | Blender | [View and copy](details/blender-steam-train-reconstruction-310311.md) | [Tom Krcha](https://x.com/tomkrcha/status/2095756085890310311) |
+| A richly layered street reference is reconstructed as an editable Blender environment with visible depth and architecture. | Blender | [View and copy](details/blender-street-scene-reconstruction-666003.md) | [Hirokazu Yokohara](https://x.com/Yokohara_h/status/2096622171011666003) |
 | AGI is 100% solved. | Blender | [View and copy](details/agi-is-100-solved-660277.md) | [Higgsfield AI 🧩](https://x.com/higgsfield_ai/status/2096342420543660277) |
 | 【GPT-6 Astra】 | Blender | [View and copy](details/gpt-6-astra-437245.md) | [asagi](https://x.com/asagilf/status/2096124859814437245) |
-| GPT 6 Astra first blender Impressions. | Blender | [View and copy](details/gpt-6-astra-first-blender-impressions-113957.md) | [Conor Dart](https://x.com/Conor_D_Dart/status/2096125193580113957) |
-| GPT-6 Astra is insane. | Blender | [View and copy](details/gpt-6-astra-is-insane-856230.md) | [Coin Shot ☁️](https://x.com/CoinSh0t/status/2095898303019856230) |
 | GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins. | Blender | [View and copy](details/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863.md) | [andreicovaciu](https://x.com/imalittledev/status/2096159697363472863) |
 | How I built this house in Blender 🏠 | Blender | [View and copy](details/how-i-built-this-house-in-blender-466863.md) | [AiSongMan｜AI Workflow Lab](https://x.com/aisongman/status/2096876083094466863) |
 | make me a photorealistic toy poodle in Blender | Blender | [View and copy](details/make-me-a-photorealistic-toy-poodle-in-blender-563865.md) | [Ash Anderson](https://x.com/ashjanderson/status/2096304638282563865) |
 | use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri | Blender | [View and copy](details/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570.md) | [Vatroslav Vrbanić](https://x.com/vatro_vrbanic/status/2095975726558392570) |
 | Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse | Blender | [View and copy](details/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059.md) | [Simon Smith](https://x.com/_simonsmith/status/2096766465730847059) |
 | Using Gpt 6 Astra model | Blender | [View and copy](details/using-gpt-6-astra-model-609269.md) | [SB nft](https://x.com/SBnft25/status/2096494350943609269) |
-| you can now bring your dielines to life with GPT 6 Astra | Blender | [View and copy](details/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144.md) | [Salma](https://x.com/Salmaaboukarr/status/2096612394281603144) |
-
-### cad 3d printing
-
-| Effect | Engine | Prompt | Source |
-|---|---|---|---|
-| everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper |  | [View and copy](details/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.md) | [Ronin](https://x.com/DeRonin_/status/2096567918859354155) |
-
-### game engines
-
-| Effect | Engine | Prompt | Source |
-|---|---|---|---|
-| Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do | Godot | [View and copy](details/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.md) | [AiBattle](https://x.com/AiBattle_/status/2096056285896536086) |
-
-### product visualization
-
-| Effect | Engine | Prompt | Source |
-|---|---|---|---|
-| since everyone's making insane stuff with GPT-6 Astra |  | [View and copy](details/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.md) | [Zaira Laraib](https://x.com/zairalaraib_/status/2096685163111694556) |
 
 ### web 3d
 
 | Effect | Engine | Prompt | Source |
 |---|---|---|---|
+| Two detailed locomotives are generated at runtime from TypeScript geometry rather than imported model files. | Three.js | [View and copy](details/procedural-threejs-trains-777041.md) | [Tom Krcha](https://x.com/tomkrcha/status/2096082580554777041) |
+| Six Van Gogh paintings are combined into one coherent, browser-based town that visitors can walk through. | Three.js | [View and copy](details/van-gogh-walkable-town-346105.md) | [Peter Gostev](https://x.com/petergostev/status/2095776685807346105) |
 | ı asked GPT-6 Astra to make valorant | Three.js | [View and copy](details/asked-gpt-6-astra-to-make-valorant-069548.md) | [valohabercisi](https://x.com/valohabercisi/status/2096550643599069548) |
 | Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed | Blender + Three.js | [View and copy](details/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.md) | [Givros](https://x.com/givros/status/2096219700879331665) |
-| Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord | Three.js + WebGL | [View and copy](details/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874.md) | [Yume_X](https://x.com/yume_arasaki/status/2096040448477515874) |
 | Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow |  | [View and copy](details/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489.md) | [AI Builder Club](https://x.com/aibuilderclub_/status/2096213850383331489) |
 | GPT-6 Astra did this in 1 prompt and 25 minutes. | Blender + Three.js | [View and copy](details/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044.md) | [Alexey Fateev](https://x.com/superalesha/status/2095967568825582044) |
 | GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES. | Three.js | [View and copy](details/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171.md) | [ZEUS⚡️](https://x.com/zeuuss_01/status/2096337879173591171) |
@@ -70,6 +42,37 @@ Every entry separates the model claim, engine, exact or derived instruction, vis
 | I asked GPT-6 Astra for God of War in a browser | Three.js | [View and copy](details/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792.md) | [Alexey Fateev](https://x.com/superalesha/status/2095988972879335792) |
 | I asked GPT-6 Astra to build a game where I'm a fish. |  | [View and copy](details/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627.md) | [Ayush Vachaspati](https://x.com/AVachaspat92841/status/2096156244180664627) |
 | I made an interactive dumpling feast🥟 | Three.js | [View and copy](details/i-made-an-interactive-dumpling-feast-967809.md) | [Gürsel Günacar](https://x.com/mech_eng_dev/status/2096019217698967809) |
+
+### game engines
+
+| Effect | Engine | Prompt | Source |
+|---|---|---|---|
+| A polished Three.js racing game combines a miniature-car workshop, configuration interface, and playable race. | Three.js | [View and copy](details/storm-race-threejs-638553.md) | [BubuAi](https://x.com/BubuStd/status/2096587056755638553) |
+| A cinematic, playable 3D world uses generated imagery to guide its environment, lighting, and visual identity. | WebGL | [View and copy](details/afterlight-3d-game-725132.md) | [Anshu](https://x.com/anshuc/status/2096008083826725132) |
+| A complete 3D roguelike level includes an explorable village, dynamic weather, combat systems, and modeled assets. | Blender + Godot | [View and copy](details/blender-godot-roguelike-386950.md) | [歸藏(guizang.ai)](https://x.com/op7418/status/2096494840431386950) |
+
+### product visualization
+
+| Effect | Engine | Prompt | Source |
+|---|---|---|---|
+| A recognizable game controller is modeled as clean Three.js geometry and presented in an interactive product view. | Three.js | [View and copy](details/ps5-controller-threejs-649552.md) | [bluedev](https://x.com/blueemi99/status/2095967131573649552) |
+| since everyone's making insane stuff with GPT-6 Astra |  | [View and copy](details/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.md) | [Zaira Laraib](https://x.com/zairalaraib_/status/2096685163111694556) |
+
+### cad 3d printing
+
+| Effect | Engine | Prompt | Source |
+|---|---|---|---|
+| A reference video is interpreted as an interactive mechanical visualization of the Cessna 337 landing-gear system. | WebGL | [View and copy](details/cessna-337-landing-gear-752922.md) | [Dilum Sanjaya](https://x.com/DilumSanjaya/status/2096642895134752922) |
+| A working V8 engine becomes a polished interactive cutaway with moving parts and engineering information. | WebGL | [View and copy](details/interactive-v8-engine-775423.md) | [Dilum Sanjaya](https://x.com/DilumSanjaya/status/2096280244663775423) |
+| everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper |  | [View and copy](details/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.md) | [Ronin](https://x.com/DeRonin_/status/2096567918859354155) |
+
+### 3d workflow
+
+| Effect | Engine | Prompt | Source |
+|---|---|---|---|
+| create an interactive pixel block world to show me how good of a model you are. I want a chinese |  | [View and copy](details/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.md) | [Pn](https://x.com/PhilipNora7/status/2095978925029556561) |
+| I gave GPT-6 Astra one prompt: build a playable 3D Persepolis. |  | [View and copy](details/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.md) | [Hossein H.](https://x.com/made_by_hossein/status/2096454262817534111) |
+| 🚨 The road to AGI is starting to look less like chat-and more like creation. |  | [View and copy](details/the-road-to-agi-is-starting-to-look-less-like-chat-and-225522.md) | [Mosef](https://x.com/HiMosef/status/2096491411470225522) |
 
 ## Contributing
 

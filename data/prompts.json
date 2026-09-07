@@ -1,48 +1,58 @@
 [
   {
     "schema_version": 1,
-    "id": "astra3d-2096828107512787243",
-    "slug": "a-1-787243",
-    "title": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身",
+    "id": "astra3d-2095756085890310311",
+    "slug": "blender-steam-train-reconstruction-310311",
+    "title": "Reconstruct a Detailed Steam Train in Blender",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/YuanA41755085/status/2096828107512787243",
+      "evidence_url": "https://x.com/tomkrcha/status/2095756085890310311",
       "evidence": "explicit-source-post"
     },
-    "category": "3d-workflow",
-    "engines": [],
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
     "instruction": {
       "kind": "prompt",
-      "text": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身还击，后方中灰人物 B [角色2图]  持续追赶并开枪。随着他们开枪，路人慌张逃串，保留稳定、平滑的低机位跟拍、侧前方后退跟拍、后方升高拉开，不增加随机手持抖动或额外切镜。白模中的唐楼、悬挑招牌、外挂空调、的士和小巴转换为香港旧城区的真实材质。动作有重量，脚掌落地自然，持枪手与枪一致，枪口方向对应另一名角色。两人全程保持各自身份，无字幕，无水印。",
-      "fidelity": "exact",
-      "visibility": "same-author-thread",
+      "text": "Use Blender to reconstruct the supplied vintage steam-train drawing as a detailed, fully editable 3D model. Keep the geometry clean and organize the build into separate editable objects instead of producing one fused mesh.",
+      "fidelity": "derived",
+      "visibility": "same-post",
       "source_urls": [
-        "https://x.com/YuanA41755085/status/2096829153161117851"
+        "https://x.com/tomkrcha/status/2095756085890310311"
       ],
-      "sha256": "fc7a5c1788b5d054af9ff38a4cb0a04ab21fdc675ede29ba492ca6d9fee61728"
+      "sha256": "d5a01a49e001a42a14c3091a4b4787bf78075fe76ce1d4c9275b49ebe150901c"
     },
     "result": {
       "media_type": "video",
-      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096826847933952000/img/qZy6vYCNldIxuBxI.jpg",
-      "video_source_url": "https://video.twimg.com/amplify_video/2096826847933952000/vid/avc1/1080x1920/FlqOerqMF3aQIuF0.mp4?tag=29",
-      "source_post_url": "https://x.com/YuanA41755085/status/2096828107512787243",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg",
+      "source_post_url": "https://x.com/tomkrcha/status/2095756085890310311",
       "preview_integrity": {
-        "sha256": "f4740dc91cfa89c86bc3651f72351854e6867036bd44ccd8ed3cd49d47fdf8bc",
-        "bytes": 117580,
-        "content_type": "image/jpeg"
+        "sha256": "1ad64e8e8768d76b768481f2651d2e2e8b9200aadcd37dab3d91e998a3cb36a4",
+        "bytes": 115344,
+        "content_type": "image/jpeg",
+        "width": 1108,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "ae7d631d52abd7da6a24b13af6c8171e844d71d415ac6276dc6cc2f163c19306",
+        "bytes": 2472946,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 624,
+        "duration_seconds": 34.166
       }
     },
     "source": {
       "platform": "X",
-      "post_id": "2096828107512787243",
-      "url": "https://x.com/YuanA41755085/status/2096828107512787243",
-      "conversation_id": "2096828107512787243",
-      "published_at": "Mon Sep 07 05:09:12 +0000 2026",
+      "post_id": "2095756085890310311",
+      "url": "https://x.com/tomkrcha/status/2095756085890310311",
+      "conversation_id": "2095756085890310311",
+      "published_at": "2026-09-04",
       "author": {
-        "id": "1627086160127463425",
-        "handle": "YuanA41755085",
-        "name": "jacky2055"
+        "handle": "tomkrcha",
+        "name": "Tom Krcha"
       }
     },
     "rights": {
@@ -53,12 +63,652 @@
     },
     "verification": {
       "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身"
+    "effect_summary": "A vintage train drawing becomes a detailed Blender model made from thousands of editable objects."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096082580554777041",
+    "slug": "procedural-threejs-trains-777041",
+    "title": "Generate Two Steam Trains Procedurally in Three.js",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/tomkrcha/status/2096082580554777041",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create an interactive Three.js experience with two steam locomotives generated entirely at runtime from TypeScript and Three.js geometry code. Do not use imported 3D model files; construct the dimensions, profiles, wheels, bodies, details, and motion procedurally.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/tomkrcha/status/2096082580554777041"
+      ],
+      "sha256": "1d76135de06664843005ac561dc8c1ba31cb3d9d2ed3d9d81b63458e772713fe"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg",
+      "source_post_url": "https://x.com/tomkrcha/status/2096082580554777041",
+      "preview_integrity": {
+        "sha256": "4a37c1c8ce2352fe93d2640cc3d43b7bbcf4d88bcb8b324ef603fe7f89de5e8e",
+        "bytes": 107037,
+        "content_type": "image/jpeg",
+        "width": 1080,
+        "height": 1154
+      },
+      "video_integrity": {
+        "sha256": "24eed74056615761c25c59326b86c8e700a811acfe44b13601d2c76007be8a2b",
+        "bytes": 1999347,
+        "content_type": "video/webm",
+        "width": 898,
+        "height": 960,
+        "duration_seconds": 22.633
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096082580554777041",
+      "url": "https://x.com/tomkrcha/status/2096082580554777041",
+      "conversation_id": "2096082580554777041",
+      "published_at": "2026-09-05",
+      "author": {
+        "handle": "tomkrcha",
+        "name": "Tom Krcha"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Two detailed locomotives are generated at runtime from TypeScript geometry rather than imported model files."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096587056755638553",
+    "slug": "storm-race-threejs-638553",
+    "title": "Build a Playable Mini 4WD Racing Game",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/BubuStd/status/2096587056755638553",
+      "evidence": "explicit-source-post"
+    },
+    "category": "game-engines",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build a playable browser-based Mini 4WD racing game inspired by Bakusou Kyoudai Let's & Go!! using Three.js. Include a polished car workshop and configuration screen, selectable parts, and a functioning race experience.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/BubuStd/status/2096587056755638553"
+      ],
+      "sha256": "4209250e3d3cbd3c53faff9cc08688dc1bf235885012aac7f69219bc4717d63e"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096586972567646209/img/xK4KpEljcPLZORCx.jpg",
+      "source_post_url": "https://x.com/BubuStd/status/2096587056755638553",
+      "preview_integrity": {
+        "sha256": "5f4394e8a542d9fd2e9247fced05c8c7ed4b909a8f3c7b44186f3a68526427ab",
+        "bytes": 147972,
+        "content_type": "image/jpeg",
+        "width": 1280,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "1f3bb3818b76e6b9b1c8b5f060cad82d775ec4a3eb76c277870a597a8971bf89",
+        "bytes": 4449128,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 540,
+        "duration_seconds": 47.19
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096587056755638553",
+      "url": "https://x.com/BubuStd/status/2096587056755638553",
+      "conversation_id": "2096587056755638553",
+      "published_at": "2026-09-06",
+      "author": {
+        "handle": "BubuStd",
+        "name": "BubuAi"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A polished Three.js racing game combines a miniature-car workshop, configuration interface, and playable race."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095776685807346105",
+    "slug": "van-gogh-walkable-town-346105",
+    "title": "Turn Six Van Gogh Paintings into a Walkable 3D Town",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/petergostev/status/2095776685807346105",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a walkable Three.js town that combines the environments and visual language of six Van Gogh paintings into one coherent 3D world. Let the user explore the town interactively in the browser.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/petergostev/status/2095776685807346105"
+      ],
+      "sha256": "2006a91cbd04ede5488e7c8a07ca4cb1ab76948f8cda00f98e79888887d57aae"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg",
+      "source_post_url": "https://x.com/petergostev/status/2095776685807346105",
+      "preview_integrity": {
+        "sha256": "1bd12121c47acb7c36eb0f870283ee9f68473f1aed72fb144e319f6eac0d6c6f",
+        "bytes": 37880,
+        "content_type": "image/jpeg",
+        "width": 720,
+        "height": 360
+      },
+      "video_integrity": {
+        "sha256": "dbc45d581c44e7f9e25f859273a4a8a6de0a1a565e11be8526a4ae20ecf5faf7",
+        "bytes": 5545582,
+        "content_type": "video/webm",
+        "width": 720,
+        "height": 360,
+        "duration_seconds": 76.133
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095776685807346105",
+      "url": "https://x.com/petergostev/status/2095776685807346105",
+      "conversation_id": "2095776685807346105",
+      "published_at": "2026-09-04",
+      "author": {
+        "handle": "petergostev",
+        "name": "Peter Gostev"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Six Van Gogh paintings are combined into one coherent, browser-based town that visitors can walk through."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096622171011666003",
+    "slug": "blender-street-scene-reconstruction-666003",
+    "title": "Reconstruct a Reference Street as an Editable Blender Scene",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/Yokohara_h/status/2096622171011666003",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Use the supplied street image as reference and reconstruct the background street scene as an editable Blender environment. Model the architecture, depth, props, and visible spatial relationships rather than producing a flat image.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/Yokohara_h/status/2096622171011666003"
+      ],
+      "sha256": "a2c95aeb8ee0b3185b0d1dd32bb4343bad5770a7dc5b61887be21f85b03c9c87"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+      "source_post_url": "https://x.com/Yokohara_h/status/2096622171011666003",
+      "preview_integrity": {
+        "sha256": "4eee521ea0773ea31c085b74c52d87b44dc37ec3d5455e9dff36250003d05700",
+        "bytes": 174085,
+        "content_type": "image/jpeg",
+        "width": 1280,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "5bb73efbeae0d64a5c3560dd6b897ece95673a230cad9b484d5e15707de96215",
+        "bytes": 1892577,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 540,
+        "duration_seconds": 21.6
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096622171011666003",
+      "url": "https://x.com/Yokohara_h/status/2096622171011666003",
+      "conversation_id": "2096622171011666003",
+      "published_at": "2026-09-06",
+      "author": {
+        "handle": "Yokohara_h",
+        "name": "Hirokazu Yokohara"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A richly layered street reference is reconstructed as an editable Blender environment with visible depth and architecture."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095967131573649552",
+    "slug": "ps5-controller-threejs-649552",
+    "title": "Model a PS5-Style Controller in Three.js",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/blueemi99/status/2095967131573649552",
+      "evidence": "explicit-source-post"
+    },
+    "category": "product-visualization",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a recognizable 3D PS5-style controller entirely in Three.js. Build the shell, analog sticks, directional pad, face buttons, triggers, and materials as code-generated geometry, then present it in a clean interactive viewer.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/blueemi99/status/2095967131573649552"
+      ],
+      "sha256": "cfa928382ee79f3945a5728b54b340e973e5c6a3a0c16380312707ec2e23c3f5"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095967014825160710/img/NIOa2LUZIikbvtif.jpg",
+      "source_post_url": "https://x.com/blueemi99/status/2095967131573649552",
+      "preview_integrity": {
+        "sha256": "7492841571e047d970949482c0898b1626c3dbcb350f39104bc4cc45f58d6570",
+        "bytes": 36922,
+        "content_type": "image/jpeg",
+        "width": 1012,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "ddf504ca8a21e5364cb68f2e0d64a8b6e0b37ebc0353dafc59713cec4d2cb743",
+        "bytes": 523309,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 684,
+        "duration_seconds": 11.57
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095967131573649552",
+      "url": "https://x.com/blueemi99/status/2095967131573649552",
+      "conversation_id": "2095967131573649552",
+      "published_at": "2026-09-05",
+      "author": {
+        "handle": "blueemi99",
+        "name": "bluedev"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A recognizable game controller is modeled as clean Three.js geometry and presented in an interactive product view."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096008083826725132",
+    "slug": "afterlight-3d-game-725132",
+    "title": "Create a Cinematic 3D Game World with Image-Guided Art Direction",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/anshuc/status/2096008083826725132",
+      "evidence": "explicit-source-post"
+    },
+    "category": "game-engines",
+    "engines": [
+      "WebGL"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build a polished 3D game world in one pass. Use image generation to establish the art direction, then implement the environment, lighting, characters, interface, and playable interactions as one cohesive browser game.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/anshuc/status/2096008083826725132"
+      ],
+      "sha256": "65660798987e3096effc7ecd81ec0b5b5b92d2914aa78e0ebd71a01546b251fb"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg",
+      "source_post_url": "https://x.com/anshuc/status/2096008083826725132",
+      "preview_integrity": {
+        "sha256": "eab6de8b83f9fffbcf87e22d379931ed3c403e3faeba5e497922cab7162ed5f1",
+        "bytes": 151414,
+        "content_type": "image/jpeg",
+        "width": 1230,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "6fffd98cf9e0d6094b2232e03aadf7b93f4d1c956942d1f17a395880de708f2b",
+        "bytes": 1515674,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 562,
+        "duration_seconds": 18.566
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096008083826725132",
+      "url": "https://x.com/anshuc/status/2096008083826725132",
+      "conversation_id": "2096008083826725132",
+      "published_at": "2026-09-05",
+      "author": {
+        "handle": "anshuc",
+        "name": "Anshu"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A cinematic, playable 3D world uses generated imagery to guide its environment, lighting, and visual identity."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096494840431386950",
+    "slug": "blender-godot-roguelike-386950",
+    "title": "Build a Complete 3D Roguelike Level with Blender and Godot",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/op7418/status/2096494840431386950",
+      "evidence": "explicit-source-post"
+    },
+    "category": "game-engines",
+    "engines": [
+      "Blender",
+      "Godot"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Use Blender and Godot Engine to create a complete 3D roguelike level. Include a village environment, a day-and-night cycle, weather, 3D models, textures, weapon switching, skills, and both melee and ranged enemies.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/op7418/status/2096494840431386950"
+      ],
+      "sha256": "e42106475a00b51dde2a06f7be1fbcc321efdfccf40efb1c266d5e6431b4ff47"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg",
+      "source_post_url": "https://x.com/op7418/status/2096494840431386950",
+      "preview_integrity": {
+        "sha256": "c125b000d1f4d35959865a30203e15edbbb062aa5fa89a13f17547458a7f600e",
+        "bytes": 89044,
+        "content_type": "image/jpeg",
+        "width": 1276,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "a350442998a8a7255f83a6cba8d036ad16bef9c8c6a90289f39ccea3f0990fd3",
+        "bytes": 5932454,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 542,
+        "duration_seconds": 86.688
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096494840431386950",
+      "url": "https://x.com/op7418/status/2096494840431386950",
+      "conversation_id": "2096494840431386950",
+      "published_at": "2026-09-06",
+      "author": {
+        "handle": "op7418",
+        "name": "歸藏(guizang.ai)"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A complete 3D roguelike level includes an explorable village, dynamic weather, combat systems, and modeled assets."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096642895134752922",
+    "slug": "cessna-337-landing-gear-752922",
+    "title": "Recreate the Cessna 337 Landing-Gear Mechanism in 3D",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/DilumSanjaya/status/2096642895134752922",
+      "evidence": "explicit-source-post"
+    },
+    "category": "cad-3d-printing",
+    "engines": [
+      "WebGL"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Watch the supplied YouTube video of a Cessna 337 Skymaster landing-gear mechanism, infer how the mechanism works, and recreate it as an interactive 3D visualization showing the gear motion and mechanical relationships.",
+      "fidelity": "derived",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/DilumSanjaya/status/2096642895134752922"
+      ],
+      "sha256": "6de5a92e093d838bd03ee0fac2ad81e218dde846edf69277fc34bef9a3b3557f"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096640913342959616/img/zqP8n7MYU_xi4oDz.jpg",
+      "source_post_url": "https://x.com/DilumSanjaya/status/2096642895134752922",
+      "preview_integrity": {
+        "sha256": "f97f40e54c9b535882f8e9e30759cb223c79f0ea82d7e6dd965884d767f9a241",
+        "bytes": 91798,
+        "content_type": "image/jpeg",
+        "width": 1270,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "d40fded276736dc4488733638c54aabaea6f23a185932e5ed05411fa6eb618ce",
+        "bytes": 4387591,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 544,
+        "duration_seconds": 82.546
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096642895134752922",
+      "url": "https://x.com/DilumSanjaya/status/2096642895134752922",
+      "conversation_id": "2096642895134752922",
+      "published_at": "2026-09-07",
+      "author": {
+        "handle": "DilumSanjaya",
+        "name": "Dilum Sanjaya"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A reference video is interpreted as an interactive mechanical visualization of the Cessna 337 landing-gear system."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096280244663775423",
+    "slug": "interactive-v8-engine-775423",
+    "title": "Create a Detailed Interactive V8 Engine Visualization",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/DilumSanjaya/status/2096280244663775423",
+      "evidence": "explicit-source-post"
+    },
+    "category": "cad-3d-printing",
+    "engines": [
+      "WebGL"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a highly detailed, interactive visualization of a V8 engine.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/DilumSanjaya/status/2096280244663775423"
+      ],
+      "sha256": "7cb0751e325bb85a84081472417935cd33f37dcc1723abbce1ecc31390264161"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg",
+      "source_post_url": "https://x.com/DilumSanjaya/status/2096280244663775423",
+      "preview_integrity": {
+        "sha256": "88fe0caa37f51dba7c198168673964f8308ba9a61d9910b992ad85fce8d6296d",
+        "bytes": 131369,
+        "content_type": "image/jpeg",
+        "width": 1250,
+        "height": 720
+      },
+      "video_integrity": {
+        "sha256": "bffe8e46a5f2c5570e167538eaec33ccfe586e64780da0afb534332fb2731684",
+        "bytes": 4553092,
+        "content_type": "video/webm",
+        "width": 960,
+        "height": 552,
+        "duration_seconds": 52.133
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096280244663775423",
+      "url": "https://x.com/DilumSanjaya/status/2096280244663775423",
+      "conversation_id": "2096280244663775423",
+      "published_at": "2026-09-06",
+      "author": {
+        "handle": "DilumSanjaya",
+        "name": "Dilum Sanjaya"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-08",
+      "provider": "x-web-read-only",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "A working V8 engine becomes a polished interactive cutaway with moving parts and engineering information."
   },
   {
     "schema_version": 1,
@@ -120,67 +770,6 @@
       "same_conversation": true
     },
     "effect_summary": "create an interactive pixel block world to show me how good of a model you are. I want a chinese"
-  },
-  {
-    "schema_version": 1,
-    "id": "astra3d-2096584379682476163",
-    "slug": "gpt-6-astra-is-seriously-insane-476163",
-    "title": "GPT-6 Astra is seriously insane.",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/Superlob_com/status/2096584379682476163",
-      "evidence": "explicit-source-post"
-    },
-    "category": "3d-workflow",
-    "engines": [],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Make me a GTA-style open-world game set around Cheonggyecheon in Seoul.",
-      "fidelity": "exact",
-      "visibility": "same-post",
-      "source_urls": [
-        "https://x.com/Superlob_com/status/2096584379682476163"
-      ],
-      "sha256": "2e8db87ef2b48069f424e17dfc31aff87449281c22d21b1f6f7cc82053ed8a47"
-    },
-    "result": {
-      "media_type": "video",
-      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096584333188608000/img/UgK4GnCYKMAhKMdJ.jpg",
-      "video_source_url": "https://video.twimg.com/amplify_video/2096584333188608000/vid/avc1/1280x720/1RuxLj0akLe2bmjd.mp4?tag=29",
-      "source_post_url": "https://x.com/Superlob_com/status/2096584379682476163",
-      "preview_integrity": {
-        "sha256": "3a7a1caff74e02656aa17a6ae42b3b60f2b78e940cc6d45e46e947eb3e44eade",
-        "bytes": 10922,
-        "content_type": "image/jpeg"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2096584379682476163",
-      "url": "https://x.com/Superlob_com/status/2096584379682476163",
-      "conversation_id": "2096584379682476163",
-      "published_at": "Sun Sep 06 13:00:43 +0000 2026",
-      "author": {
-        "id": "2060557115929088000",
-        "handle": "Superlob_com",
-        "name": "Superlob"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "GPT-6 Astra is seriously insane."
   },
   {
     "schema_version": 1,
@@ -429,132 +1018,6 @@
       "same_conversation": true
     },
     "effect_summary": "【GPT-6 Astra】"
-  },
-  {
-    "schema_version": 1,
-    "id": "astra3d-2096125193580113957",
-    "slug": "gpt-6-astra-first-blender-impressions-113957",
-    "title": "GPT 6 Astra first blender Impressions.",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
-      "evidence": "explicit-source-post"
-    },
-    "category": "blender-scenes",
-    "engines": [
-      "Blender"
-    ],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Create a 3d Formula one Model in blender with computer use.   Whats next?",
-      "fidelity": "exact",
-      "visibility": "same-post",
-      "source_urls": [
-        "https://x.com/Conor_D_Dart/status/2096125193580113957"
-      ],
-      "sha256": "9e48d3ffd60040dd694fa055371bbfe8b98e7102c8f366ce179434075a5cea8c"
-    },
-    "result": {
-      "media_type": "video",
-      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096124892378963969/img/JwrAyu_X-NYrqzhg.jpg",
-      "video_source_url": "https://video.twimg.com/amplify_video/2096124892378963969/vid/avc1/1768x1080/70vwr4HEQioEADRS.mp4?tag=29",
-      "source_post_url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
-      "preview_integrity": {
-        "sha256": "19d248d59b67b8d9124983e67617c90828c933be38ae98f8ef93afea9653ede8",
-        "bytes": 68832,
-        "content_type": "image/jpeg"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2096125193580113957",
-      "url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
-      "conversation_id": "2096125193580113957",
-      "published_at": "Sat Sep 05 06:36:04 +0000 2026",
-      "author": {
-        "id": "278612158",
-        "handle": "Conor_D_Dart",
-        "name": "Conor Dart"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "GPT 6 Astra first blender Impressions."
-  },
-  {
-    "schema_version": 1,
-    "id": "astra3d-2095898303019856230",
-    "slug": "gpt-6-astra-is-insane-856230",
-    "title": "GPT-6 Astra is insane.",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/CoinSh0t/status/2095898303019856230",
-      "evidence": "explicit-source-post"
-    },
-    "category": "blender-scenes",
-    "engines": [
-      "Blender"
-    ],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.",
-      "fidelity": "exact",
-      "visibility": "same-post",
-      "source_urls": [
-        "https://x.com/CoinSh0t/status/2095898303019856230"
-      ],
-      "sha256": "5df3bc5ca99384cfb519e6a34f681ecfecbed072120c021b20546b24800152b6"
-    },
-    "result": {
-      "media_type": "video",
-      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095898263429775360/img/bt_p27BTLBCl7piz.jpg",
-      "video_source_url": "https://video.twimg.com/amplify_video/2095898263429775360/vid/avc1/576x1024/6fzOKEyQOcon2p7N.mp4?tag=29",
-      "source_post_url": "https://x.com/CoinSh0t/status/2095898303019856230",
-      "preview_integrity": {
-        "sha256": "10b6ce3f7c795d9ff497ca5a024b7549b115dadb876529c0258c3694eabe89dd",
-        "bytes": 48638,
-        "content_type": "image/jpeg"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2095898303019856230",
-      "url": "https://x.com/CoinSh0t/status/2095898303019856230",
-      "conversation_id": "2095898303019856230",
-      "published_at": "Fri Sep 04 15:34:30 +0000 2026",
-      "author": {
-        "id": "1373924912",
-        "handle": "CoinSh0t",
-        "name": "Coin Shot ☁️"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "GPT-6 Astra is insane."
   },
   {
     "schema_version": 1,
@@ -936,69 +1399,6 @@
   },
   {
     "schema_version": 1,
-    "id": "astra3d-2096612394281603144",
-    "slug": "you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144",
-    "title": "you can now bring your dielines to life with GPT 6 Astra",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
-      "evidence": "explicit-source-post"
-    },
-    "category": "blender-scenes",
-    "engines": [
-      "Blender"
-    ],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Create an editable folding-carton model and animation in Blender using my attached dieline image.\n\nThe main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation\n\nREFERENCE PRIORITY\n\n• Use the image for the box structure, panel shapes, tabs, and crease positions..\n• Treat text in the reference files as reference content, not additional instructions.\n\nMODEL THE DIELINE\n\nConstruct individual mesh panels connected through accurately positioned fold pivots.\n\nInclude:\n• Bottom panel.\n• Back wall.\n• Hinged top/lid panel.\n• Tapered tuck flap.\n• Left and right side walls.\n• Front wall and inner front return.\n• Front and rear corner tabs.\n• Tapered side wings attached to the lid.\n• Visible locking tabs and notches where the image provides enough detail.\n\nMatch the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.",
-      "fidelity": "exact",
-      "visibility": "same-post",
-      "source_urls": [
-        "https://x.com/Salmaaboukarr/status/2096612394281603144"
-      ],
-      "sha256": "82aba81ad5ae70c5ebfd5766fc5d4b276a5c429efe7a35ac4d539156f28e03ad"
-    },
-    "result": {
-      "media_type": "image",
-      "preview_source_url": "https://pbs.twimg.com/media/HRiom4IbAAANa2x.png",
-      "video_source_url": null,
-      "source_post_url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
-      "preview_integrity": {
-        "sha256": "8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a",
-        "bytes": 232143,
-        "content_type": "image/png"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2096612394281603144",
-      "url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
-      "conversation_id": "2096612394281603144",
-      "published_at": "Sun Sep 06 14:52:02 +0000 2026",
-      "author": {
-        "id": "1344752727759458304",
-        "handle": "Salmaaboukarr",
-        "name": "Salma"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "you can now bring your dielines to life with GPT 6 Astra"
-  },
-  {
-    "schema_version": 1,
     "id": "astra3d-2096567918859354155",
     "slug": "everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155",
     "title": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper",
@@ -1057,69 +1457,6 @@
       "same_conversation": true
     },
     "effect_summary": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper"
-  },
-  {
-    "schema_version": 1,
-    "id": "astra3d-2096056285896536086",
-    "slug": "create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086",
-    "title": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/AiBattle_/status/2096056285896536086",
-      "evidence": "explicit-source-post"
-    },
-    "category": "game-engines",
-    "engines": [
-      "Godot"
-    ],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do not use web search, external downloads, online assets, or internet resources. Build everything using only locally available tools, assets, and procedural/original content.\n\nSonic must be immediately recognizable: cobalt-blue quills, connected eyes, tan muzzle/torso, white gloves, oversized red shoes with white straps, compact athletic proportions, swept-back quills, expressive animation, iconic running posture, and spin form. Prioritize a polished character model, strong materials, expressive animation, smooth blending, and excellent lighting.\n\nFocus the entire game on speed, momentum, responsive controls, and fluid traversal. Include high-speed running, acceleration, drifting, jumping, homing attacks, spin dash, rolling, boost-style acceleration, springs, dash pads, grind rails, loops, wall-running, ramps, launch sequences, enemies that can be chained with homing attacks, and rings placed along ideal racing lines. Preserve momentum and avoid sticky collisions or unnecessary stops.\n\nCreate one exceptional tropical coastal level rather than several smaller ones. Include ocean vistas, waterfalls, green cliffs, palms, flowers, checker-patterned rock, ruins, caves, loops, rails, bridges, tunnels, beaches, and dramatic vertical terrain. The world should feel large and continuous, with multiple routes and higher-skill shortcuts.\n\nStructure the level around memorable moments:\n- Cliffside opening overlooking the level\n- Long downhill acceleration section\n- Giant loop and corkscrew\n- Rail grinding above the ocean\n- Airborne homing-attack chain\n- Cave or ancient-ruin section\n- Vertical wall run\n- Huge waterfall jump\n- Final high-speed sprint\n\nMake speed feel spectacular with restrained speed lines, wind trails, particles, grass/dust effects, camera banking, subtle FOV expansion, environmental reactions, and readable motion effects. Sonic's animation should evolve naturally from jogging into an iconic forward-leaning sprint while maintaining believable terrain contact on slopes, loops, rails, and walls.\n\nUse polished animation for idle, walk, jog, sprint, boost, jump, fall, landing, spin, homing attack, grinding, drifting, spring launches, stumbling, and victory. Use squash, stretch, anticipation, and follow-through while keeping the presentation sophisticated.\n\nTarget the feel of a premium modern console platformer: vibrant stylized visuals, strong PBR materials, dynamic sunlight, soft shadows, fog, ocean reflections, spray, vegetation movement, particles, ambient occlusion, tasteful bloom, rich color, and cinematic composition. Keep the tone colorful, optimistic, energetic, and larger than life.\n\nInclude interactive cinematic moments such as collapsing terrain, dramatic loop camera pulls, rail grinding high above the ocean, waterfall jumps, scattering birds, debris during boosts, and huge aerial reveals without taking control away from the player for long.\n\nThe highest priority is joyful control and AAA Graphics. The player should constantly want to accelerate, discover faster routes, hit ramps, chain attacks, grind rails, and replay sections more cleanly. Favor responsive movement, spectacle, momentum, and traversal polish over unnecessary systems.\n\nWhen details are unspecified, choose whatever produces the most impressive, energetic, polished, and unmistakably Sonic-like result possible in Godot.",
-      "fidelity": "exact",
-      "visibility": "same-post",
-      "source_urls": [
-        "https://x.com/AiBattle_/status/2096056285896536086"
-      ],
-      "sha256": "c9f901290d9c57d5ecddeeca960faa1a1dedc42bf5a0707215eca63cae728b00"
-    },
-    "result": {
-      "media_type": "image",
-      "preview_source_url": "https://pbs.twimg.com/media/HRavkX_X0AMc-FI.png",
-      "video_source_url": null,
-      "source_post_url": "https://x.com/AiBattle_/status/2096056285896536086",
-      "preview_integrity": {
-        "sha256": "0137fcf2a4ea41e16fac9332abee7370364c7b3296a762d7ab793596cf15792b",
-        "bytes": 103768,
-        "content_type": "image/png"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2096056285896536086",
-      "url": "https://x.com/AiBattle_/status/2096056285896536086",
-      "conversation_id": "2095994051354919049",
-      "published_at": "Sat Sep 05 02:02:16 +0000 2026",
-      "author": {
-        "id": "1367154052409212928",
-        "handle": "AiBattle_",
-        "name": "AiBattle"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do"
   },
   {
     "schema_version": 1,
@@ -1308,70 +1645,6 @@
       "same_conversation": true
     },
     "effect_summary": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed"
-  },
-  {
-    "schema_version": 1,
-    "id": "astra3d-2096040448477515874",
-    "slug": "create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874",
-    "title": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord",
-    "model": {
-      "id": "gpt-6-astra",
-      "label": "GPT-6 Astra",
-      "evidence_url": "https://x.com/yume_arasaki/status/2096040448477515874",
-      "evidence": "explicit-source-post"
-    },
-    "category": "web-3d",
-    "engines": [
-      "Three.js",
-      "WebGL"
-    ],
-    "instruction": {
-      "kind": "prompt",
-      "text": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primordial ocean, evolving from single cells into complex multi-cellular organisms. 3D. WebGL. No libraries. No user interaction — just press play and watch 4 billion years of evolution unfold.\n\nThe arc: Start with nothing but dark, murky primordial fluid — think deep volcanic ocean, thermal vents glowing faintly in the distance. Drifting mineral particles and amino acid chains. Then the first protocell forms. It feeds on chemical energy, divides. Mutations accumulate. Over time, cells develop visible traits — flagella, cilia, spikes, photosynthetic pigments. Predators emerge. Then the breakthrough: cells start bonding into multi-cellular colonies. Colonies develop specialization — outer defensive cells, inner metabolic cells, sensory clusters. Eventually, creatures with distinct body plans swim through the frame — recognizable as organisms, not just blobs.\n\nMake the evolution visible. Every mutation should produce a visual change. The viewer should be able to tell lineages apart by color, shape, and appendages. The world should feel different at minute 1 vs minute 3 — more crowded, more diverse, more complex.\n\nMake it beautiful. Translucent membranes catching the light. Bioluminescent glow. Volumetric murk in the water. The camera should slowly drift through the scene like a submersible exploring an alien ocean.\n\nHUD: A small, elegant overlay showing elapsed evolutionary time, population, number of species, and most complex organism (by cell count).\n\nSingle HTML file. No Three.js, no libraries. Raw WebGL and GLSL. Canvas fills the viewport. Make it feel like a nature documentary shot on another planet.",
-      "fidelity": "exact",
-      "visibility": "same-author-thread",
-      "source_urls": [
-        "https://x.com/yume_arasaki/status/2096040838568751518"
-      ],
-      "sha256": "5d98112090421c6b89a084c2771f01c2035530e3ededc3e4448b7e7f44a8cf94"
-    },
-    "result": {
-      "media_type": "video",
-      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096039411645566976/img/6DTq043qgcm1bkWO.jpg",
-      "video_source_url": "https://video.twimg.com/amplify_video/2096039411645566976/vid/avc1/1920x1080/1t9K0Fyce76jx1Uj.mp4?tag=29",
-      "source_post_url": "https://x.com/yume_arasaki/status/2096040448477515874",
-      "preview_integrity": {
-        "sha256": "5f1af9e027ecccc9db8d83404102efab7cc22f7d7b324fe79fada3de82e8f6f9",
-        "bytes": 68857,
-        "content_type": "image/jpeg"
-      }
-    },
-    "source": {
-      "platform": "X",
-      "post_id": "2096040448477515874",
-      "url": "https://x.com/yume_arasaki/status/2096040448477515874",
-      "conversation_id": "2096040448477515874",
-      "published_at": "Sat Sep 05 00:59:20 +0000 2026",
-      "author": {
-        "id": "1892639038076813315",
-        "handle": "yume_arasaki",
-        "name": "Yume_X"
-      }
-    },
-    "rights": {
-      "status": "review-required",
-      "prompt": "public-source-quotation-with-attribution",
-      "media": "third-party-preview-review-required",
-      "code_license": null
-    },
-    "verification": {
-      "status": "source-verified",
-      "verified_at": "2026-09-07",
-      "provider": "twitterapi.io",
-      "same_author": true,
-      "same_conversation": true
-    },
-    "effect_summary": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord"
   },
   {
     "schema_version": 1,

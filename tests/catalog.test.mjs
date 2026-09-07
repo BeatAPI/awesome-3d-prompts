@@ -6,7 +6,7 @@ const root = new URL('..', import.meta.url);
 const prompts = JSON.parse(await readFile(new URL('data/prompts.json', root), 'utf8'));
 
 test('catalog keeps evidence boundaries explicit', () => {
-  assert.equal(prompts.length, 29);
+  assert.equal(prompts.length, 32);
   for (const item of prompts) {
     assert.equal(item.model.id, 'gpt-6-astra');
     assert.equal(item.source.platform, 'X');
@@ -20,5 +20,5 @@ test('catalog keeps evidence boundaries explicit', () => {
 test('generated readmes expose one primary funnel', async () => {
   const readme = await readFile(new URL('README.md', root), 'utf8');
   assert.match(readme, /Browse the visual 3D Prompt Gallery on BeatAPI/);
-  assert.match(readme, /29 accepted cases toward a target of 50/);
+  assert.match(readme, /32 accepted cases toward a target of 50/);
 });
