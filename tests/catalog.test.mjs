@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { access, readFile } from 'node:fs/promises';
 import test from 'node:test';
 
 const root = new URL('..', import.meta.url);
@@ -17,8 +18,36 @@ test('catalog keeps evidence boundaries explicit', () => {
   }
 });
 
-test('generated readmes expose one primary funnel', async () => {
+test('generated readmes surface every result with a stable local preview', async () => {
   const readme = await readFile(new URL('README.md', root), 'utf8');
-  assert.match(readme, /Browse the visual 3D Prompt Gallery on BeatAPI/);
-  assert.match(readme, /32 accepted cases toward a target of 50/);
+  for (const item of prompts) {
+    const extension = item.result.preview_integrity.content_type === 'image/png' ? 'png' : 'jpg';
+    const relativePath = `assets/readme-previews/${item.slug}.${extension}`;
+    await access(new URL(relativePath, root));
+    assert.match(readme, new RegExp(relativePath.replaceAll('.', '\\.') ));
+
+    const preview = await readFile(new URL(relativePath, root));
+    assert.equal(
+      createHash('sha256').update(preview).digest('hex'),
+      item.result.preview_integrity.sha256,
+      `preview hash mismatch: ${item.slug}`,
+    );
+
+    const detail = await readFile(new URL(`details/${item.slug}.md`, root), 'utf8');
+    assert.match(detail, new RegExp(`\.\./${relativePath.replaceAll('.', '\\.')}`));
+    assert.match(detail, new RegExp(item.source.url.replaceAll('.', '\\.')));
+  }
+});
+
+test('the public contribution link opens a structured prompt submission form', async () => {
+  const readme = await readFile(new URL('README.md', root), 'utf8');
+  assert.match(readme, /issues\/new\?template=prompt\.yml/);
+  await access(new URL('.github/ISSUE_TEMPLATE/prompt.yml', root));
+});
+
+test('the generated first screen names Astra clearly and avoids the unpublished gallery route', async () => {
+  const readme = await readFile(new URL('README.md', root), 'utf8');
+  assert.match(readme, /^# Awesome GPT-6 Astra 3D Prompts$/m);
+  assert.match(readme, /Use GPT-6 Astra via API/);
+  assert.doesNotMatch(readme, /https:\/\/beatapi\.io\/(?:zh\/)?3d-prompts/);
 });

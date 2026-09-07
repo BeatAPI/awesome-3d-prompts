@@ -2,26 +2,34 @@
 
 # Reconstruct a Reference Street as an Editable Blender Scene
 
-[View the result at its original source](https://x.com/Yokohara_h/status/2096622171011666003)
+<a href="https://x.com/Yokohara_h/status/2096622171011666003">
+  <img src="../assets/readme-previews/blender-street-scene-reconstruction-666003.jpg" alt="Reconstruct a Reference Street as an Editable Blender Scene result preview" width="900" />
+</a>
 
 A richly layered street reference is reconstructed as an editable Blender environment with visible depth and architecture.
 
-- Model: GPT-6 Astra
-- Engine: Blender
-- Category: blender-scenes
-- Fidelity: derived
-- Verified: 2026-09-08
-- Creator: [Hirokazu Yokohara](https://x.com/Yokohara_h/status/2096622171011666003)
-- Rights: review-required; preview and prompt retain source attribution
+- **Model:** GPT-6 Astra
+- **Engine:** Blender
+- **Category:** Blender Scenes
+- **Prompt fidelity:** Derived from the public source
+- **Source checked:** 2026-09-08
+- **Creator:** [Hirokazu Yokohara](https://x.com/Yokohara_h/status/2096622171011666003)
+- **Rights:** review-required; preview and prompt retain source attribution
 
 ## Prompt
 
-```text
+~~~~text
 Use the supplied street image as reference and reconstruct the background street scene as an editable Blender environment. Model the architecture, depth, props, and visible spatial relationships rather than producing a flat image.
-```
+~~~~
+
+## Original result and attribution
+
+[View the original post and result on X](https://x.com/Yokohara_h/status/2096622171011666003)
 
 ## Run it with GPT-6 Astra
 
 [Open GPT-6 Astra API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=detail&utm_campaign=awesome-3d-prompts)
 
 > BeatAPI provides model API access. The 3D application, MCP integration, assets, and rendering pipeline remain separate parts of the workflow.
+
+[← Back to the full prompt gallery](../README.md#prompt-gallery)

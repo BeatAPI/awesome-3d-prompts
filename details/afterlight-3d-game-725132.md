@@ -2,26 +2,34 @@
 
 # Create a Cinematic 3D Game World with Image-Guided Art Direction
 
-[View the result at its original source](https://x.com/anshuc/status/2096008083826725132)
+<a href="https://x.com/anshuc/status/2096008083826725132">
+  <img src="../assets/readme-previews/afterlight-3d-game-725132.jpg" alt="Create a Cinematic 3D Game World with Image-Guided Art Direction result preview" width="900" />
+</a>
 
 A cinematic, playable 3D world uses generated imagery to guide its environment, lighting, and visual identity.
 
-- Model: GPT-6 Astra
-- Engine: WebGL
-- Category: game-engines
-- Fidelity: derived
-- Verified: 2026-09-08
-- Creator: [Anshu](https://x.com/anshuc/status/2096008083826725132)
-- Rights: review-required; preview and prompt retain source attribution
+- **Model:** GPT-6 Astra
+- **Engine:** WebGL
+- **Category:** Game Engines
+- **Prompt fidelity:** Derived from the public source
+- **Source checked:** 2026-09-08
+- **Creator:** [Anshu](https://x.com/anshuc/status/2096008083826725132)
+- **Rights:** review-required; preview and prompt retain source attribution
 
 ## Prompt
 
-```text
+~~~~text
 Build a polished 3D game world in one pass. Use image generation to establish the art direction, then implement the environment, lighting, characters, interface, and playable interactions as one cohesive browser game.
-```
+~~~~
+
+## Original result and attribution
+
+[View the original post and result on X](https://x.com/anshuc/status/2096008083826725132)
 
 ## Run it with GPT-6 Astra
 
 [Open GPT-6 Astra API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=detail&utm_campaign=awesome-3d-prompts)
 
 > BeatAPI provides model API access. The 3D application, MCP integration, assets, and rendering pipeline remain separate parts of the workflow.
+
+[← Back to the full prompt gallery](../README.md#prompt-gallery)

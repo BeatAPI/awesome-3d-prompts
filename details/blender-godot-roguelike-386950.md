@@ -2,26 +2,34 @@
 
 # Build a Complete 3D Roguelike Level with Blender and Godot
 
-[View the result at its original source](https://x.com/op7418/status/2096494840431386950)
+<a href="https://x.com/op7418/status/2096494840431386950">
+  <img src="../assets/readme-previews/blender-godot-roguelike-386950.jpg" alt="Build a Complete 3D Roguelike Level with Blender and Godot result preview" width="900" />
+</a>
 
 A complete 3D roguelike level includes an explorable village, dynamic weather, combat systems, and modeled assets.
 
-- Model: GPT-6 Astra
-- Engine: Blender + Godot
-- Category: game-engines
-- Fidelity: derived
-- Verified: 2026-09-08
-- Creator: [歸藏(guizang.ai)](https://x.com/op7418/status/2096494840431386950)
-- Rights: review-required; preview and prompt retain source attribution
+- **Model:** GPT-6 Astra
+- **Engine:** Blender + Godot
+- **Category:** Game Engines
+- **Prompt fidelity:** Derived from the public source
+- **Source checked:** 2026-09-08
+- **Creator:** [歸藏(guizang.ai)](https://x.com/op7418/status/2096494840431386950)
+- **Rights:** review-required; preview and prompt retain source attribution
 
 ## Prompt
 
-```text
+~~~~text
 Use Blender and Godot Engine to create a complete 3D roguelike level. Include a village environment, a day-and-night cycle, weather, 3D models, textures, weapon switching, skills, and both melee and ranged enemies.
-```
+~~~~
+
+## Original result and attribution
+
+[View the original post and result on X](https://x.com/op7418/status/2096494840431386950)
 
 ## Run it with GPT-6 Astra
 
 [Open GPT-6 Astra API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=detail&utm_campaign=awesome-3d-prompts)
 
 > BeatAPI provides model API access. The 3D application, MCP integration, assets, and rendering pipeline remain separate parts of the workflow.
+
+[← Back to the full prompt gallery](../README.md#prompt-gallery)

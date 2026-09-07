@@ -2,26 +2,34 @@
 
 # Turn Six Van Gogh Paintings into a Walkable 3D Town
 
-[View the result at its original source](https://x.com/petergostev/status/2095776685807346105)
+<a href="https://x.com/petergostev/status/2095776685807346105">
+  <img src="../assets/readme-previews/van-gogh-walkable-town-346105.jpg" alt="Turn Six Van Gogh Paintings into a Walkable 3D Town result preview" width="900" />
+</a>
 
 Six Van Gogh paintings are combined into one coherent, browser-based town that visitors can walk through.
 
-- Model: GPT-6 Astra
-- Engine: Three.js
-- Category: web-3d
-- Fidelity: derived
-- Verified: 2026-09-08
-- Creator: [Peter Gostev](https://x.com/petergostev/status/2095776685807346105)
-- Rights: review-required; preview and prompt retain source attribution
+- **Model:** GPT-6 Astra
+- **Engine:** Three.js
+- **Category:** Web 3D
+- **Prompt fidelity:** Derived from the public source
+- **Source checked:** 2026-09-08
+- **Creator:** [Peter Gostev](https://x.com/petergostev/status/2095776685807346105)
+- **Rights:** review-required; preview and prompt retain source attribution
 
 ## Prompt
 
-```text
+~~~~text
 Create a walkable Three.js town that combines the environments and visual language of six Van Gogh paintings into one coherent 3D world. Let the user explore the town interactively in the browser.
-```
+~~~~
+
+## Original result and attribution
+
+[View the original post and result on X](https://x.com/petergostev/status/2095776685807346105)
 
 ## Run it with GPT-6 Astra
 
 [Open GPT-6 Astra API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=detail&utm_campaign=awesome-3d-prompts)
 
 > BeatAPI provides model API access. The 3D application, MCP integration, assets, and rendering pipeline remain separate parts of the workflow.
+
+[← Back to the full prompt gallery](../README.md#prompt-gallery)

@@ -714,7 +714,7 @@
     "schema_version": 1,
     "id": "astra3d-2095978925029556561",
     "slug": "create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561",
-    "title": "create an interactive pixel block world to show me how good of a model you are. I want a chinese",
+    "title": "Build a Floating Chinese Temple Pixel World",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -769,13 +769,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "create an interactive pixel block world to show me how good of a model you are. I want a chinese"
+    "effect_summary": "An interactive voxel island combines a Chinese temple, cherry blossoms, waterfalls, mountains, and a day-night switch."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096454262817534111",
     "slug": "i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111",
-    "title": "I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.",
+    "title": "Build a Playable 3D Reconstruction of Persepolis",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -830,13 +830,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "I gave GPT-6 Astra one prompt: build a playable 3D Persepolis."
+    "effect_summary": "The ancient city of Persepolis becomes a navigable 3D environment built from one concise instruction."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096491411470225522",
     "slug": "the-road-to-agi-is-starting-to-look-less-like-chat-and-225522",
-    "title": "🚨 The road to AGI is starting to look less like chat-and more like creation.",
+    "title": "Build an Interactive V8 Engine Simulation",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -891,13 +891,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "🚨 The road to AGI is starting to look less like chat-and more like creation."
+    "effect_summary": "A V8 engine is presented as an interactive 3D mechanical simulation with visible internal structure."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096342420543660277",
     "slug": "agi-is-100-solved-660277",
-    "title": "AGI is 100% solved.",
+    "title": "Create, Rig, and Animate a Production-Ready 3D Character",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -954,13 +954,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "AGI is 100% solved."
+    "effect_summary": "An end-to-end agent workflow designs a character, builds and retopologizes it in Blender, rigs it, evaluates it, and turns it into an animation."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096124859814437245",
     "slug": "gpt-6-astra-437245",
-    "title": "【GPT-6 Astra】",
+    "title": "Model a Luxury Concrete Residence in Blender",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1017,13 +1017,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "【GPT-6 Astra】"
+    "effect_summary": "A stylish reinforced-concrete residence is modeled and rendered as a polished architectural visualization in Blender."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096159697363472863",
     "slug": "gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863",
-    "title": "GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.",
+    "title": "Reconstruct an Apartment from a Reference Image in Blender",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1080,13 +1080,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins."
+    "effect_summary": "A supplied apartment reference is reconstructed as a complete editable Blender scene."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096876083094466863",
     "slug": "how-i-built-this-house-in-blender-466863",
-    "title": "How I built this house in Blender 🏠",
+    "title": "Rebuild a House from Reference Video with Blender Python",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1143,13 +1143,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "How I built this house in Blender 🏠"
+    "effect_summary": "A reference video guides a detailed Blender reconstruction of a house, including architecture, furniture, materials, lighting, and cameras."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096304638282563865",
     "slug": "make-me-a-photorealistic-toy-poodle-in-blender-563865",
-    "title": "make me a photorealistic toy poodle in Blender",
+    "title": "Model a Photorealistic Toy Poodle in Blender",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1206,13 +1206,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "make me a photorealistic toy poodle in Blender"
+    "effect_summary": "A photorealistic toy poodle is modeled and rendered as a complete Blender scene."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2095975726558392570",
     "slug": "use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570",
-    "title": "use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri",
+    "title": "Build and Rig a Mech from AI-Generated Blueprints",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1269,13 +1269,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri"
+    "effect_summary": "Headless Blender turns inconsistent blueprint references into a coherent rigged mech and a short weapons-and-agility animation."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096766465730847059",
     "slug": "use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059",
-    "title": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse",
+    "title": "Create a LEGO-Style Game Character with Blender MCP",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1332,13 +1332,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse"
+    "effect_summary": "Blender MCP produces a detailed LEGO-style character designed for use as a polished game asset."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096494350943609269",
     "slug": "using-gpt-6-astra-model-609269",
-    "title": "Using Gpt 6 Astra model",
+    "title": "Reconstruct a Reference Image as a 3D Blender Model",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1395,13 +1395,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "Using Gpt 6 Astra model"
+    "effect_summary": "A reference image is interpreted as a detailed editable 3D model inside Blender."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096567918859354155",
     "slug": "everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155",
-    "title": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper",
+    "title": "Prototype a Full Microduck Robot Assembly",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1456,13 +1456,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper"
+    "effect_summary": "A compact biped robot is expanded into an inspectable parametric assembly with structured parts and hardware."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096685163111694556",
     "slug": "since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556",
-    "title": "since everyone's making insane stuff with GPT-6 Astra",
+    "title": "Build an Interactive Exploded Smartphone Visualization",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1517,13 +1517,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "since everyone's making insane stuff with GPT-6 Astra"
+    "effect_summary": "A modern smartphone becomes an interactive exploded view with isolated components, explanations, and reassembly controls."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096550643599069548",
     "slug": "asked-gpt-6-astra-to-make-valorant-069548",
-    "title": "ı asked GPT-6 Astra to make valorant",
+    "title": "Recreate a VALORANT-Style FPS in Three.js",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1580,13 +1580,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "ı asked GPT-6 Astra to make valorant"
+    "effect_summary": "A recognizable tactical first-person shooter experience is recreated as a playable Three.js scene."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096219700879331665",
     "slug": "build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665",
-    "title": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed",
+    "title": "Build a Polished Roblox Kart Racer with Blender and Three.js",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1644,13 +1644,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed"
+    "effect_summary": "A complete Roblox racing circuit combines generated 3D assets, responsive driving, AI opponents, race flow, lighting, effects, audio, and UI."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096213850383331489",
     "slug": "create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489",
-    "title": "Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow",
+    "title": "Animate a Pelican Riding a Bicycle in an Interactive 3D Scene",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1705,13 +1705,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow"
+    "effect_summary": "A cycling pelican becomes a polished browser-based 3D scene with smooth pedaling, adjustable speed, rotation, and zoom controls."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2095967568825582044",
     "slug": "gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044",
-    "title": "GPT-6 Astra did this in 1 prompt and 25 minutes.",
+    "title": "Build an Anti-Gravity Combat Racer with Three.js Shaders",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1769,13 +1769,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "GPT-6 Astra did this in 1 prompt and 25 minutes."
+    "effect_summary": "A fast browser racing game combines drifting, boosts, weapons, AI opponents, banking cameras, and neon shader lighting."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096337879173591171",
     "slug": "gpt-6-astra-one-shotted-this-game-in-43-minutes-591171",
-    "title": "GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.",
+    "title": "Build a Complete Low-Poly Crab Adventure Game",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1832,13 +1832,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES."
+    "effect_summary": "A low-poly tropical island becomes a complete playable crab adventure with exploration, collectibles, progression, interactions, and a tightly constrained art direction."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096236137266512181",
     "slug": "gpt-6-astra-struggles-with-a-flight-simulator-512181",
-    "title": "GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭",
+    "title": "Build a Playable Browser-Based 3D Flight Simulator",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1893,13 +1893,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭"
+    "effect_summary": "A browser flight simulator includes an airport, controllable aircraft, basic flight physics, HUD, objectives, takeoff, landing, and failure states."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2095988972879335792",
     "slug": "i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792",
-    "title": "I asked GPT-6 Astra for God of War in a browser",
+    "title": "Build a God of War-Style Browser Hack-and-Slash Game",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -1956,13 +1956,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "I asked GPT-6 Astra for God of War in a browser"
+    "effect_summary": "A Three.js arena game combines third-person sword combat, dodging, weighted attacks, enemy hordes, magic, shaders, and responsive camera work."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096156244180664627",
     "slug": "i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627",
-    "title": "I asked GPT-6 Astra to build a game where I'm a fish.",
+    "title": "Build a Fish Growth Simulator from Aquarium to Ocean",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -2017,13 +2017,13 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "I asked GPT-6 Astra to build a game where I'm a fish."
+    "effect_summary": "A fish-growth game progresses from a home aquarium to larger environments and the ocean through feeding, hazards, upgrades, and level design."
   },
   {
     "schema_version": 1,
     "id": "astra3d-2096019217698967809",
     "slug": "i-made-an-interactive-dumpling-feast-967809",
-    "title": "I made an interactive dumpling feast🥟",
+    "title": "Build an Interactive 3D Dumpling Club Experience",
     "model": {
       "id": "gpt-6-astra",
       "label": "GPT-6 Astra",
@@ -2080,6 +2080,6 @@
       "same_author": true,
       "same_conversation": true
     },
-    "effect_summary": "I made an interactive dumpling feast🥟"
+    "effect_summary": "A cozy Three.js food experience turns expressive dumplings, chopsticks, sauce, sound, animation, controls, and local recording into an interactive tasting scene."
   }
 ]
