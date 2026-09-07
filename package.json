@@ -1,0 +1,12 @@
+{
+  "name": "awesome-3d-prompts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import-source": "node scripts/import-source.mjs",
+    "generate": "node scripts/generate.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run generate && npm run validate && npm test"
+  }
+}

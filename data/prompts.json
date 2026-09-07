@@ -1,0 +1,1812 @@
+[
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096828107512787243",
+    "slug": "a-1-787243",
+    "title": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/YuanA41755085/status/2096828107512787243",
+      "evidence": "explicit-source-post"
+    },
+    "category": "3d-workflow",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身还击，后方中灰人物 B [角色2图]  持续追赶并开枪。随着他们开枪，路人慌张逃串，保留稳定、平滑的低机位跟拍、侧前方后退跟拍、后方升高拉开，不增加随机手持抖动或额外切镜。白模中的唐楼、悬挑招牌、外挂空调、的士和小巴转换为香港旧城区的真实材质。动作有重量，脚掌落地自然，持枪手与枪一致，枪口方向对应另一名角色。两人全程保持各自身份，无字幕，无水印。",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/YuanA41755085/status/2096829153161117851"
+      ],
+      "sha256": "fc7a5c1788b5d054af9ff38a4cb0a04ab21fdc675ede29ba492ca6d9fee61728"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096826847933952000/img/qZy6vYCNldIxuBxI.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096826847933952000/vid/avc1/1080x1920/FlqOerqMF3aQIuF0.mp4?tag=29",
+      "source_post_url": "https://x.com/YuanA41755085/status/2096828107512787243",
+      "preview_integrity": {
+        "sha256": "f4740dc91cfa89c86bc3651f72351854e6867036bd44ccd8ed3cd49d47fdf8bc",
+        "bytes": 117580,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096828107512787243",
+      "url": "https://x.com/YuanA41755085/status/2096828107512787243",
+      "conversation_id": "2096828107512787243",
+      "published_at": "Mon Sep 07 05:09:12 +0000 2026",
+      "author": {
+        "id": "1627086160127463425",
+        "handle": "YuanA41755085",
+        "name": "jacky2055"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "香港街头写实电影级别动作片。在香港街头，路人众多；严格参考 [视频 的三镜头顺序、切点、摄影机轨迹、人物站位、前后追逐关系、车辆通行方向和开枪时机。前方浅灰人物 A [角色1图]  边跑边回身"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095978925029556561",
+    "slug": "create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561",
+    "title": "create an interactive pixel block world to show me how good of a model you are. I want a chinese",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/PhilipNora7/status/2095978925029556561",
+      "evidence": "explicit-source-post"
+    },
+    "category": "3d-workflow",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/PhilipNora7/status/2095979067124195834"
+      ],
+      "sha256": "5e3e62c02a48efc9e1157066997a6d0863b62a80ab33578525b64447d8289e00"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095978790073806848/img/Q_r61s0-8s1G4b0V.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2095978790073806848/vid/avc1/1260x976/kkpbkYIdtjvhZaQa.mp4?tag=29",
+      "source_post_url": "https://x.com/PhilipNora7/status/2095978925029556561",
+      "preview_integrity": {
+        "sha256": "e998185eb1d42a0bb358d94a5410436a48b33641f5f4d1680e41a752081a362a",
+        "bytes": 128934,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095978925029556561",
+      "url": "https://x.com/PhilipNora7/status/2095978925029556561",
+      "conversation_id": "2095978925029556561",
+      "published_at": "Fri Sep 04 20:54:51 +0000 2026",
+      "author": {
+        "id": "1553360279207124999",
+        "handle": "PhilipNora7",
+        "name": "Pn"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "create an interactive pixel block world to show me how good of a model you are. I want a chinese"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096584379682476163",
+    "slug": "gpt-6-astra-is-seriously-insane-476163",
+    "title": "GPT-6 Astra is seriously insane.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/Superlob_com/status/2096584379682476163",
+      "evidence": "explicit-source-post"
+    },
+    "category": "3d-workflow",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Make me a GTA-style open-world game set around Cheonggyecheon in Seoul.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/Superlob_com/status/2096584379682476163"
+      ],
+      "sha256": "2e8db87ef2b48069f424e17dfc31aff87449281c22d21b1f6f7cc82053ed8a47"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096584333188608000/img/UgK4GnCYKMAhKMdJ.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096584333188608000/vid/avc1/1280x720/1RuxLj0akLe2bmjd.mp4?tag=29",
+      "source_post_url": "https://x.com/Superlob_com/status/2096584379682476163",
+      "preview_integrity": {
+        "sha256": "3a7a1caff74e02656aa17a6ae42b3b60f2b78e940cc6d45e46e947eb3e44eade",
+        "bytes": 10922,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096584379682476163",
+      "url": "https://x.com/Superlob_com/status/2096584379682476163",
+      "conversation_id": "2096584379682476163",
+      "published_at": "Sun Sep 06 13:00:43 +0000 2026",
+      "author": {
+        "id": "2060557115929088000",
+        "handle": "Superlob_com",
+        "name": "Superlob"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 Astra is seriously insane."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096454262817534111",
+    "slug": "i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111",
+    "title": "I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/made_by_hossein/status/2096454262817534111",
+      "evidence": "explicit-source-post"
+    },
+    "category": "3d-workflow",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "build a playable 3D Persepolis.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/made_by_hossein/status/2096454262817534111"
+      ],
+      "sha256": "67aa7cd5e2c30772e5615a95b607e1c8b7222ee714a7e87891b3b1cd3ce0be60"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096453010536751104/img/LeLi8P1JX8Ulsk8L.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096453010536751104/vid/avc1/1330x720/nChgcBIaVJTeyjBA.mp4?tag=14",
+      "source_post_url": "https://x.com/made_by_hossein/status/2096454262817534111",
+      "preview_integrity": {
+        "sha256": "8d79d1e267ce59b0917a24f8796732b2b6c56536e9505b32237cabb636707c9e",
+        "bytes": 86221,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096454262817534111",
+      "url": "https://x.com/made_by_hossein/status/2096454262817534111",
+      "conversation_id": "2096454262817534111",
+      "published_at": "Sun Sep 06 04:23:41 +0000 2026",
+      "author": {
+        "id": "2019114481414991873",
+        "handle": "made_by_hossein",
+        "name": "Hossein H."
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "I gave GPT-6 Astra one prompt: build a playable 3D Persepolis."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096491411470225522",
+    "slug": "the-road-to-agi-is-starting-to-look-less-like-chat-and-225522",
+    "title": "🚨 The road to AGI is starting to look less like chat-and more like creation.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/HiMosef/status/2096491411470225522",
+      "evidence": "explicit-source-post"
+    },
+    "category": "3d-workflow",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build an interactive V8 engine simulation.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/HiMosef/status/2096491411470225522"
+      ],
+      "sha256": "3513c8c13a88f7289a6041164edcd5bc79b91b282c1238368d572e1fd348bf59"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096490930874298369/img/Zkz0zPzlaxM2iRv1.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096490930874298369/vid/avc1/3840x2160/DqqpHc76DW30E8XV.mp4?tag=29",
+      "source_post_url": "https://x.com/HiMosef/status/2096491411470225522",
+      "preview_integrity": {
+        "sha256": "f359107583aa6e8107a19d951bb68f983e2628099eaaa0376aac1fe0ff0e6d60",
+        "bytes": 76689,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096491411470225522",
+      "url": "https://x.com/HiMosef/status/2096491411470225522",
+      "conversation_id": "2096491411470225522",
+      "published_at": "Sun Sep 06 06:51:18 +0000 2026",
+      "author": {
+        "id": "1292699146525331456",
+        "handle": "HiMosef",
+        "name": "Mosef"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "🚨 The road to AGI is starting to look less like chat-and more like creation."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096342420543660277",
+    "slug": "agi-is-100-solved-660277",
+    "title": "AGI is 100% solved.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/higgsfield_ai/status/2096342420543660277",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Take control of my computer using GPT-6 Astra and do the following:\n\n1. design a character concept using Higgsfield Soul 2.0,\n\n2. build a textured 3D model of it,\n\n3. import it into Blender,\n\n4. retopologize the mesh,\n\n5. create a UV map,\n\n6. build a character rig,\n\n7. evaluate how production-ready the model is,\n\n8. redo previous steps if you're not satisfied with results,\n\n9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/higgsfield_ai/status/2096342420543660277"
+      ],
+      "sha256": "0fc741793b2837d6592a1911d2923c30bf9555cc28383227c993d80f8a22946f"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096341503576813568/img/3eik2RZLUmxGS43M.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096341503576813568/vid/avc1/1080x1822/YjYV7jEo4kIhCI3L.mp4?tag=29",
+      "source_post_url": "https://x.com/higgsfield_ai/status/2096342420543660277",
+      "preview_integrity": {
+        "sha256": "1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716",
+        "bytes": 96909,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096342420543660277",
+      "url": "https://x.com/higgsfield_ai/status/2096342420543660277",
+      "conversation_id": "2096342420543660277",
+      "published_at": "Sat Sep 05 20:59:15 +0000 2026",
+      "author": {
+        "id": "1712267009483022336",
+        "handle": "higgsfield_ai",
+        "name": "Higgsfield AI 🧩"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "AGI is 100% solved."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096124859814437245",
+    "slug": "gpt-6-astra-437245",
+    "title": "【GPT-6 Astra】",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/asagilf/status/2096124859814437245",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "blender つかってめちゃくちゃオシャレな戸建てRC住宅でお金持ちが港区に立てそうな住宅のモデリングして",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/asagilf/status/2096124859814437245"
+      ],
+      "sha256": "19c43acaa8147f7c350658e90aea653c36cda4e62a4a5e4f251a233299cc4579"
+    },
+    "result": {
+      "media_type": "image",
+      "preview_source_url": "https://pbs.twimg.com/media/HRbtjqQb0AA3Q9q.jpg",
+      "video_source_url": null,
+      "source_post_url": "https://x.com/asagilf/status/2096124859814437245",
+      "preview_integrity": {
+        "sha256": "cc5b98f0d93835335590b7e48e80c33e6cdd7dbbb15a85ec09c7efb450a6fc32",
+        "bytes": 64419,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096124859814437245",
+      "url": "https://x.com/asagilf/status/2096124859814437245",
+      "conversation_id": "2096124859814437245",
+      "published_at": "Sat Sep 05 06:34:45 +0000 2026",
+      "author": {
+        "id": "1999757773060603904",
+        "handle": "asagilf",
+        "name": "asagi"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "【GPT-6 Astra】"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096125193580113957",
+    "slug": "gpt-6-astra-first-blender-impressions-113957",
+    "title": "GPT 6 Astra first blender Impressions.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a 3d Formula one Model in blender with computer use.   Whats next?",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/Conor_D_Dart/status/2096125193580113957"
+      ],
+      "sha256": "9e48d3ffd60040dd694fa055371bbfe8b98e7102c8f366ce179434075a5cea8c"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096124892378963969/img/JwrAyu_X-NYrqzhg.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096124892378963969/vid/avc1/1768x1080/70vwr4HEQioEADRS.mp4?tag=29",
+      "source_post_url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+      "preview_integrity": {
+        "sha256": "19d248d59b67b8d9124983e67617c90828c933be38ae98f8ef93afea9653ede8",
+        "bytes": 68832,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096125193580113957",
+      "url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+      "conversation_id": "2096125193580113957",
+      "published_at": "Sat Sep 05 06:36:04 +0000 2026",
+      "author": {
+        "id": "278612158",
+        "handle": "Conor_D_Dart",
+        "name": "Conor Dart"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT 6 Astra first blender Impressions."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095898303019856230",
+    "slug": "gpt-6-astra-is-insane-856230",
+    "title": "GPT-6 Astra is insane.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/CoinSh0t/status/2095898303019856230",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/CoinSh0t/status/2095898303019856230"
+      ],
+      "sha256": "5df3bc5ca99384cfb519e6a34f681ecfecbed072120c021b20546b24800152b6"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095898263429775360/img/bt_p27BTLBCl7piz.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2095898263429775360/vid/avc1/576x1024/6fzOKEyQOcon2p7N.mp4?tag=29",
+      "source_post_url": "https://x.com/CoinSh0t/status/2095898303019856230",
+      "preview_integrity": {
+        "sha256": "10b6ce3f7c795d9ff497ca5a024b7549b115dadb876529c0258c3694eabe89dd",
+        "bytes": 48638,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095898303019856230",
+      "url": "https://x.com/CoinSh0t/status/2095898303019856230",
+      "conversation_id": "2095898303019856230",
+      "published_at": "Fri Sep 04 15:34:30 +0000 2026",
+      "author": {
+        "id": "1373924912",
+        "handle": "CoinSh0t",
+        "name": "Coin Shot ☁️"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 Astra is insane."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096159697363472863",
+    "slug": "gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863",
+    "title": "GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/imalittledev/status/2096159697363472863",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "given the ref image, model it in 3d using blender",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/imalittledev/status/2096159699460665395"
+      ],
+      "sha256": "95671cc199c531e757dfd6c3bcdf803a95dd431c51f574d71c8349b055a31870"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096159119573217280/img/2OGrpwPo6B9JKZIY.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096159119573217280/vid/avc1/1280x720/aTCdE-urya01PpxF.mp4?tag=14",
+      "source_post_url": "https://x.com/imalittledev/status/2096159697363472863",
+      "preview_integrity": {
+        "sha256": "2979338c9240f36b6d7da0905714cd2460aecf79f3ead2fd6caeddb8800cd279",
+        "bytes": 104540,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096159697363472863",
+      "url": "https://x.com/imalittledev/status/2096159697363472863",
+      "conversation_id": "2096159697363472863",
+      "published_at": "Sat Sep 05 08:53:11 +0000 2026",
+      "author": {
+        "id": "3309398625",
+        "handle": "imalittledev",
+        "name": "andreicovaciu"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096876083094466863",
+    "slug": "how-i-built-this-house-in-blender-466863",
+    "title": "How I built this house in Blender 🏠",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/aisongman/status/2096876083094466863",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build an editable Blender scene through Blender Python API (bpy) based on the reference video. Recreate the architecture, joinery, furniture, planting, materials, lights, and cameras, and make everything match the reference as closely as possible.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/aisongman/status/2096876083094466863"
+      ],
+      "sha256": "a212435b8a4f1cca22e4f421277f6bef4a8f6a56c399a184438f3cf329254a1f"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096875879809105920/img/b88JaeJlw-0nUirl.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096875879809105920/vid/avc1/2346x1440/eB1B7ehV_oKkefFX.mp4?tag=29",
+      "source_post_url": "https://x.com/aisongman/status/2096876083094466863",
+      "preview_integrity": {
+        "sha256": "947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16",
+        "bytes": 170267,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096876083094466863",
+      "url": "https://x.com/aisongman/status/2096876083094466863",
+      "conversation_id": "2096876083094466863",
+      "published_at": "Mon Sep 07 08:19:50 +0000 2026",
+      "author": {
+        "id": "1942476700115226624",
+        "handle": "aisongman",
+        "name": "AiSongMan｜AI Workflow Lab"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "How I built this house in Blender 🏠"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096304638282563865",
+    "slug": "make-me-a-photorealistic-toy-poodle-in-blender-563865",
+    "title": "make me a photorealistic toy poodle in Blender",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/ashjanderson/status/2096304638282563865",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "make me a photorealistic toy poodle in Blender",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/ashjanderson/status/2096304638282563865"
+      ],
+      "sha256": "c5f616ebf21cdd4a6358b649e85d4806cc0bcb27576dc8396b9be9a781813589"
+    },
+    "result": {
+      "media_type": "image",
+      "preview_source_url": "https://pbs.twimg.com/media/HReRpwNbMAADX1D.png",
+      "video_source_url": null,
+      "source_post_url": "https://x.com/ashjanderson/status/2096304638282563865",
+      "preview_integrity": {
+        "sha256": "6e3dba3129f15d4b6cc7e9fe98022b72a0345b33f89a196462213c881e4cdfde",
+        "bytes": 660907,
+        "content_type": "image/png"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096304638282563865",
+      "url": "https://x.com/ashjanderson/status/2096304638282563865",
+      "conversation_id": "2096304638282563865",
+      "published_at": "Sat Sep 05 18:29:07 +0000 2026",
+      "author": {
+        "id": "1403487888",
+        "handle": "ashjanderson",
+        "name": "Ash Anderson"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "make me a photorealistic toy poodle in Blender"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095975726558392570",
+    "slug": "use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570",
+    "title": "use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/vatro_vrbanic/status/2095975726558392570",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.\n\nonly steering:\npick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/vatro_vrbanic/status/2095975729200517380"
+      ],
+      "sha256": "505ec316f9f1a5d48476ddb62e3d4ee61372c088d47c784806df4a121c0da7ff"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095972854944681985/img/PdMwKHYK3FzaDzf8.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2095972854944681985/vid/avc1/1920x1080/-zmPGRZAwlAATTRx.mp4?tag=29",
+      "source_post_url": "https://x.com/vatro_vrbanic/status/2095975726558392570",
+      "preview_integrity": {
+        "sha256": "4215fde8dc0110f06c49d67bce8fe6ebc1388cbc44dd11ead6b90c2fa70bda8d",
+        "bytes": 76529,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095975726558392570",
+      "url": "https://x.com/vatro_vrbanic/status/2095975726558392570",
+      "conversation_id": "2095975726558392570",
+      "published_at": "Fri Sep 04 20:42:09 +0000 2026",
+      "author": {
+        "id": "3375260195",
+        "handle": "vatro_vrbanic",
+        "name": "Vatroslav Vrbanić"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096766465730847059",
+    "slug": "use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059",
+    "title": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/_simonsmith/status/2096766465730847059",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/_simonsmith/status/2096766465730847059"
+      ],
+      "sha256": "6070e0040fe51b0533786b0d2dfc4ce0366f413d147ad50a77ec9bb7b0c3db30"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29",
+      "source_post_url": "https://x.com/_simonsmith/status/2096766465730847059",
+      "preview_integrity": {
+        "sha256": "2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d",
+        "bytes": 19830,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096766465730847059",
+      "url": "https://x.com/_simonsmith/status/2096766465730847059",
+      "conversation_id": "2096766465730847059",
+      "published_at": "Mon Sep 07 01:04:16 +0000 2026",
+      "author": {
+        "id": "1693585632965148672",
+        "handle": "_simonsmith",
+        "name": "Simon Smith"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096494350943609269",
+    "slug": "using-gpt-6-astra-model-609269",
+    "title": "Using Gpt 6 Astra model",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/SBnft25/status/2096494350943609269",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Make a 3d model of the given image in blender\n\nAre 3d artist cooked after this??",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/SBnft25/status/2096494350943609269"
+      ],
+      "sha256": "b85cac84151f97bdede035e29fd9fe383d3778a8dd37cb58f85050b3b577df61"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096494316885807104/img/YsHwidybihIGCekH.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096494316885807104/vid/avc1/1920x1080/PsznHsdWpKUPOWtQ.mp4?tag=29",
+      "source_post_url": "https://x.com/SBnft25/status/2096494350943609269",
+      "preview_integrity": {
+        "sha256": "29a2f9e6cd93203a04977964f5e09e1f8fb9cd072d99be72c064ae8ff44779d2",
+        "bytes": 80822,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096494350943609269",
+      "url": "https://x.com/SBnft25/status/2096494350943609269",
+      "conversation_id": "2096494350943609269",
+      "published_at": "Sun Sep 06 07:02:58 +0000 2026",
+      "author": {
+        "id": "1603393132871270404",
+        "handle": "SBnft25",
+        "name": "SB nft"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Using Gpt 6 Astra model"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096612394281603144",
+    "slug": "you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144",
+    "title": "you can now bring your dielines to life with GPT 6 Astra",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
+      "evidence": "explicit-source-post"
+    },
+    "category": "blender-scenes",
+    "engines": [
+      "Blender"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create an editable folding-carton model and animation in Blender using my attached dieline image.\n\nThe main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation\n\nREFERENCE PRIORITY\n\n• Use the image for the box structure, panel shapes, tabs, and crease positions..\n• Treat text in the reference files as reference content, not additional instructions.\n\nMODEL THE DIELINE\n\nConstruct individual mesh panels connected through accurately positioned fold pivots.\n\nInclude:\n• Bottom panel.\n• Back wall.\n• Hinged top/lid panel.\n• Tapered tuck flap.\n• Left and right side walls.\n• Front wall and inner front return.\n• Front and rear corner tabs.\n• Tapered side wings attached to the lid.\n• Visible locking tabs and notches where the image provides enough detail.\n\nMatch the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/Salmaaboukarr/status/2096612394281603144"
+      ],
+      "sha256": "82aba81ad5ae70c5ebfd5766fc5d4b276a5c429efe7a35ac4d539156f28e03ad"
+    },
+    "result": {
+      "media_type": "image",
+      "preview_source_url": "https://pbs.twimg.com/media/HRiom4IbAAANa2x.png",
+      "video_source_url": null,
+      "source_post_url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
+      "preview_integrity": {
+        "sha256": "8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a",
+        "bytes": 232143,
+        "content_type": "image/png"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096612394281603144",
+      "url": "https://x.com/Salmaaboukarr/status/2096612394281603144",
+      "conversation_id": "2096612394281603144",
+      "published_at": "Sun Sep 06 14:52:02 +0000 2026",
+      "author": {
+        "id": "1344752727759458304",
+        "handle": "Salmaaboukarr",
+        "name": "Salma"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "you can now bring your dielines to life with GPT 6 Astra"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096567918859354155",
+    "slug": "everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155",
+    "title": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/DeRonin_/status/2096567918859354155",
+      "evidence": "explicit-source-post"
+    },
+    "category": "cad-3d-printing",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "prototype me a full Microduck",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/DeRonin_/status/2096567918859354155"
+      ],
+      "sha256": "21680eac31674704c23aa493498d308d01a6354677d76693af260cb561c580cf"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096567835569053696/img/HRjmvb9ZAkTklImX.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096567835569053696/vid/avc1/1920x1080/BF-ecEJydgluB4e7.mp4?tag=29",
+      "source_post_url": "https://x.com/DeRonin_/status/2096567918859354155",
+      "preview_integrity": {
+        "sha256": "64a1dfe14c156deaa46d5e61ba85e4d056b330923a45d446ec98f32fedeafca0",
+        "bytes": 83340,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096567918859354155",
+      "url": "https://x.com/DeRonin_/status/2096567918859354155",
+      "conversation_id": "2096567918859354155",
+      "published_at": "Sun Sep 06 11:55:18 +0000 2026",
+      "author": {
+        "id": "1414948050817196037",
+        "handle": "DeRonin_",
+        "name": "Ronin"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096056285896536086",
+    "slug": "create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086",
+    "title": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/AiBattle_/status/2096056285896536086",
+      "evidence": "explicit-source-post"
+    },
+    "category": "game-engines",
+    "engines": [
+      "Godot"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do not use web search, external downloads, online assets, or internet resources. Build everything using only locally available tools, assets, and procedural/original content.\n\nSonic must be immediately recognizable: cobalt-blue quills, connected eyes, tan muzzle/torso, white gloves, oversized red shoes with white straps, compact athletic proportions, swept-back quills, expressive animation, iconic running posture, and spin form. Prioritize a polished character model, strong materials, expressive animation, smooth blending, and excellent lighting.\n\nFocus the entire game on speed, momentum, responsive controls, and fluid traversal. Include high-speed running, acceleration, drifting, jumping, homing attacks, spin dash, rolling, boost-style acceleration, springs, dash pads, grind rails, loops, wall-running, ramps, launch sequences, enemies that can be chained with homing attacks, and rings placed along ideal racing lines. Preserve momentum and avoid sticky collisions or unnecessary stops.\n\nCreate one exceptional tropical coastal level rather than several smaller ones. Include ocean vistas, waterfalls, green cliffs, palms, flowers, checker-patterned rock, ruins, caves, loops, rails, bridges, tunnels, beaches, and dramatic vertical terrain. The world should feel large and continuous, with multiple routes and higher-skill shortcuts.\n\nStructure the level around memorable moments:\n- Cliffside opening overlooking the level\n- Long downhill acceleration section\n- Giant loop and corkscrew\n- Rail grinding above the ocean\n- Airborne homing-attack chain\n- Cave or ancient-ruin section\n- Vertical wall run\n- Huge waterfall jump\n- Final high-speed sprint\n\nMake speed feel spectacular with restrained speed lines, wind trails, particles, grass/dust effects, camera banking, subtle FOV expansion, environmental reactions, and readable motion effects. Sonic's animation should evolve naturally from jogging into an iconic forward-leaning sprint while maintaining believable terrain contact on slopes, loops, rails, and walls.\n\nUse polished animation for idle, walk, jog, sprint, boost, jump, fall, landing, spin, homing attack, grinding, drifting, spring launches, stumbling, and victory. Use squash, stretch, anticipation, and follow-through while keeping the presentation sophisticated.\n\nTarget the feel of a premium modern console platformer: vibrant stylized visuals, strong PBR materials, dynamic sunlight, soft shadows, fog, ocean reflections, spray, vegetation movement, particles, ambient occlusion, tasteful bloom, rich color, and cinematic composition. Keep the tone colorful, optimistic, energetic, and larger than life.\n\nInclude interactive cinematic moments such as collapsing terrain, dramatic loop camera pulls, rail grinding high above the ocean, waterfall jumps, scattering birds, debris during boosts, and huge aerial reveals without taking control away from the player for long.\n\nThe highest priority is joyful control and AAA Graphics. The player should constantly want to accelerate, discover faster routes, hit ramps, chain attacks, grind rails, and replay sections more cleanly. Favor responsive movement, spectacle, momentum, and traversal polish over unnecessary systems.\n\nWhen details are unspecified, choose whatever produces the most impressive, energetic, polished, and unmistakably Sonic-like result possible in Godot.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/AiBattle_/status/2096056285896536086"
+      ],
+      "sha256": "c9f901290d9c57d5ecddeeca960faa1a1dedc42bf5a0707215eca63cae728b00"
+    },
+    "result": {
+      "media_type": "image",
+      "preview_source_url": "https://pbs.twimg.com/media/HRavkX_X0AMc-FI.png",
+      "video_source_url": null,
+      "source_post_url": "https://x.com/AiBattle_/status/2096056285896536086",
+      "preview_integrity": {
+        "sha256": "0137fcf2a4ea41e16fac9332abee7370364c7b3296a762d7ab793596cf15792b",
+        "bytes": 103768,
+        "content_type": "image/png"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096056285896536086",
+      "url": "https://x.com/AiBattle_/status/2096056285896536086",
+      "conversation_id": "2095994051354919049",
+      "published_at": "Sat Sep 05 02:02:16 +0000 2026",
+      "author": {
+        "id": "1367154052409212928",
+        "handle": "AiBattle_",
+        "name": "AiBattle"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096685163111694556",
+    "slug": "since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556",
+    "title": "since everyone's making insane stuff with GPT-6 Astra",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/zairalaraib_/status/2096685163111694556",
+      "evidence": "explicit-source-post"
+    },
+    "category": "product-visualization",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/zairalaraib_/status/2096685163111694556"
+      ],
+      "sha256": "a288e1c0bd7553b3e1b0a05c1b5cbe2553886f97c2c3f8b8cda488b44fb8daab"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096684671191166976/img/gpjZ0xHiIqU97yiM.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096684671191166976/vid/avc1/2940x1598/im645b1AzHvRMQch.mp4?tag=29",
+      "source_post_url": "https://x.com/zairalaraib_/status/2096685163111694556",
+      "preview_integrity": {
+        "sha256": "ca7a881edaf820451a0358b858ac684b9a3b3cff295976d5c456dde6482e5b2c",
+        "bytes": 41997,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096685163111694556",
+      "url": "https://x.com/zairalaraib_/status/2096685163111694556",
+      "conversation_id": "2096685163111694556",
+      "published_at": "Sun Sep 06 19:41:12 +0000 2026",
+      "author": {
+        "id": "1823960365857685504",
+        "handle": "zairalaraib_",
+        "name": "Zaira Laraib"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "since everyone's making insane stuff with GPT-6 Astra"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096550643599069548",
+    "slug": "asked-gpt-6-astra-to-make-valorant-069548",
+    "title": "ı asked GPT-6 Astra to make valorant",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/valohabercisi/status/2096550643599069548",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "hey gpt-6 astra, make me VALORANT in three.js, make no mistakes. as a map use valorants",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/valohabercisi/status/2096550643599069548"
+      ],
+      "sha256": "de3ff772be69cb1d6553fb8b5ecde6efb914e1c4883899eff20ef2ac5e2568c4"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096550124386217989/img/BV6neVPD0uUNnBfV.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096550124386217989/vid/avc1/1280x720/dU1St7nrDzQnncLu.mp4?tag=29",
+      "source_post_url": "https://x.com/valohabercisi/status/2096550643599069548",
+      "preview_integrity": {
+        "sha256": "32baea44492897165396a9ca601fad69a0fe3e8c219d4165c68f8b52d494c0c0",
+        "bytes": 86930,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096550643599069548",
+      "url": "https://x.com/valohabercisi/status/2096550643599069548",
+      "conversation_id": "2096550643599069548",
+      "published_at": "Sun Sep 06 10:46:40 +0000 2026",
+      "author": {
+        "id": "1516844178097033220",
+        "handle": "valohabercisi",
+        "name": "valohabercisi"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "ı asked GPT-6 Astra to make valorant"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096219700879331665",
+    "slug": "build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665",
+    "title": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/givros/status/2096219700879331665",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Blender",
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/givros/status/2096219703282733430"
+      ],
+      "sha256": "b46f062f8e8c4548290588f3dbeec04db7f2c2a986435ee3996df2d923bb7634"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096219608550461440/vid/avc1/1920x976/cPJ_r3RB21c570ZO.mp4?tag=29",
+      "source_post_url": "https://x.com/givros/status/2096219700879331665",
+      "preview_integrity": {
+        "sha256": "5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e",
+        "bytes": 105220,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096219700879331665",
+      "url": "https://x.com/givros/status/2096219700879331665",
+      "conversation_id": "2096219700879331665",
+      "published_at": "Sat Sep 05 12:51:37 +0000 2026",
+      "author": {
+        "id": "428437083",
+        "handle": "givros",
+        "name": "Givros"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096040448477515874",
+    "slug": "create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874",
+    "title": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/yume_arasaki/status/2096040448477515874",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js",
+      "WebGL"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primordial ocean, evolving from single cells into complex multi-cellular organisms. 3D. WebGL. No libraries. No user interaction — just press play and watch 4 billion years of evolution unfold.\n\nThe arc: Start with nothing but dark, murky primordial fluid — think deep volcanic ocean, thermal vents glowing faintly in the distance. Drifting mineral particles and amino acid chains. Then the first protocell forms. It feeds on chemical energy, divides. Mutations accumulate. Over time, cells develop visible traits — flagella, cilia, spikes, photosynthetic pigments. Predators emerge. Then the breakthrough: cells start bonding into multi-cellular colonies. Colonies develop specialization — outer defensive cells, inner metabolic cells, sensory clusters. Eventually, creatures with distinct body plans swim through the frame — recognizable as organisms, not just blobs.\n\nMake the evolution visible. Every mutation should produce a visual change. The viewer should be able to tell lineages apart by color, shape, and appendages. The world should feel different at minute 1 vs minute 3 — more crowded, more diverse, more complex.\n\nMake it beautiful. Translucent membranes catching the light. Bioluminescent glow. Volumetric murk in the water. The camera should slowly drift through the scene like a submersible exploring an alien ocean.\n\nHUD: A small, elegant overlay showing elapsed evolutionary time, population, number of species, and most complex organism (by cell count).\n\nSingle HTML file. No Three.js, no libraries. Raw WebGL and GLSL. Canvas fills the viewport. Make it feel like a nature documentary shot on another planet.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/yume_arasaki/status/2096040838568751518"
+      ],
+      "sha256": "5d98112090421c6b89a084c2771f01c2035530e3ededc3e4448b7e7f44a8cf94"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096039411645566976/img/6DTq043qgcm1bkWO.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096039411645566976/vid/avc1/1920x1080/1t9K0Fyce76jx1Uj.mp4?tag=29",
+      "source_post_url": "https://x.com/yume_arasaki/status/2096040448477515874",
+      "preview_integrity": {
+        "sha256": "5f1af9e027ecccc9db8d83404102efab7cc22f7d7b324fe79fada3de82e8f6f9",
+        "bytes": 68857,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096040448477515874",
+      "url": "https://x.com/yume_arasaki/status/2096040448477515874",
+      "conversation_id": "2096040448477515874",
+      "published_at": "Sat Sep 05 00:59:20 +0000 2026",
+      "author": {
+        "id": "1892639038076813315",
+        "handle": "yume_arasaki",
+        "name": "Yume_X"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096213850383331489",
+    "slug": "create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489",
+    "title": "Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/aibuilderclub_/status/2096213850383331489",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.\nLet me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.\nMake the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.\nTest it in the browser yourself and fix any visual or interaction bugs before finishing.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/aibuilderclub_/status/2096213883983978900"
+      ],
+      "sha256": "bc971c96c38ce75badf1a2e4c04fffa90621027eab90bc7bd4bad62050d9a5a5"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096213723769958400/img/eZ6KJzlRf_TSYhOH.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096213723769958400/vid/avc1/3144x2160/Lw2VpC_GmiKS0KrU.mp4?tag=29",
+      "source_post_url": "https://x.com/aibuilderclub_/status/2096213850383331489",
+      "preview_integrity": {
+        "sha256": "bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e",
+        "bytes": 86539,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096213850383331489",
+      "url": "https://x.com/aibuilderclub_/status/2096213850383331489",
+      "conversation_id": "2096213850383331489",
+      "published_at": "Sat Sep 05 12:28:22 +0000 2026",
+      "author": {
+        "id": "1934180618235187200",
+        "handle": "aibuilderclub_",
+        "name": "AI Builder Club"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095967568825582044",
+    "slug": "gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044",
+    "title": "GPT-6 Astra did this in 1 prompt and 25 minutes.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/superalesha/status/2095967568825582044",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Blender",
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/superalesha/status/2095967568825582044"
+      ],
+      "sha256": "e765cfb3d5f5c308c7ef987bc708db52b3fc3a712350817f727f393583984de3"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2095966450385289216/vid/avc1/2498x1252/hsJ7zBJvJUKhbyMp.mp4?tag=29",
+      "source_post_url": "https://x.com/superalesha/status/2095967568825582044",
+      "preview_integrity": {
+        "sha256": "4ba207d953708cffd80b329f0d3db4413f0bd10e259c6b8cbcf7c6ecb93df226",
+        "bytes": 88128,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095967568825582044",
+      "url": "https://x.com/superalesha/status/2095967568825582044",
+      "conversation_id": "2095967568825582044",
+      "published_at": "Fri Sep 04 20:09:44 +0000 2026",
+      "author": {
+        "id": "2010272031603068928",
+        "handle": "superalesha",
+        "name": "Alexey Fateev"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 Astra did this in 1 prompt and 25 minutes."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096337879173591171",
+    "slug": "gpt-6-astra-one-shotted-this-game-in-43-minutes-591171",
+    "title": "GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/zeuuss_01/status/2096337879173591171",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.\nTHEN: /goal build this in three.js, read SPEC.md and follow it\nexactly, especially section 9.\n\n{ START }\n\n1 THE LOOK\n\nbright low poly, the way a modern mobile adventure looks. flat\nsingle colour surfaces, no textures, no photorealism. every shape\nchunky and rounded, built from big simple volumes. soft round\nshadows, not sharp ones. every colour saturated and warm, nothing\nwashed out.\n\nsand: warm cream, almost yellow\nshallow water: bright turquoise. deep water: strong teal\npalm leaves: fresh green. trunks: light brown\nrock: warm sandstone, dusty ochre, never cold or blue\nthe crab: deep coral red, darker at every joint\nits shell: pale bone white, the only near white in the scene\n\nclear gradient blue sky, three or four soft rounded clouds. sun\nhigh and slightly behind the camera.\nif a surface looks detailed, simplify it.\n\n2 THE CHARACTER\n\nthe player is a crab. both claws are the same build and the same\nsize, and each has to read as a pincer at a glance.\n\na crab claw is flattened side to side: narrow across, tall, long\nalong its own axis. built as a cube it reads as a box on a stick.\n\nbuild each claw from four parts, sized against the body width:\n\n1 upper arm. a rounded cylinder from the side of the body.\n  length 0.30, thickness 0.27.\n2 palm. a rounded box, flattened across: width 0.34, height\n  0.64, depth 0.54. depth is the long axis, running out along\n  the claw.\n3 fixed finger. grows out of the top front of the palm, length\n  0.80 of the palm depth. fat at the base, tapering, and hooked\n  hard downward over its last third.\n4 moving finger. the same shape mirrored below, hinged at the\n  palm, hooking up. the two are carried about sixty degrees\n  apart, so the pair reads as an open crescent.\n\nswing the claw 54 degrees out from the walking direction. not\nforward, because the camera rides behind and a forward claw is\nseen end on with the palm hiding the fingers. not ninety, which\nreads as a fork stuck out sideways.\n\nforbidden for the claw: no flat blades, no thin plates, no\nspikes, no arrow or dart shapes, no fins, no cube shaped palm,\nno fingers shorter than half the palm, no straight fingers.\n\nit carries a shell that is not its own. on the rear half of its\nback sits a smooth dome of pale bone white stone, flat on top,\nwith seven shallow round sockets cut into it in a ring. the dome\nsits behind the eyes and never over them: a shell on the back,\nnot a helmet and not a face.\n\nthe sockets are empty at the start. every crystal shard the crab\npicks up drops into the next socket and stays lit. by the end\nthe shell is a ring of seven lights and the crab is visibly a\ndifferent character than it started as.\n\nthe body is a rounded wedge, wider than tall. six short legs.\ntwo eyes on short stalks on the body, never on the shell.\n\nit faces the direction it is travelling and the camera sits\nbehind it. six legs scuttle. turning sharply, it plants a claw\nand pivots around it.\n\nstanding still, it taps a claw tip against the sand, twice, then\nwaits. that tap is the character.\n\n3 THE WORLD\n\na small tropical island seen from a low three quarter view. the\nplayable area is a curved beach wrapping the island, water on one\nside and land on the other.\n\na wide sand strip with a wet darker band at the waterline. palm\ntrees, every one leaning differently, never two the same height.\nwarm sandstone boulders, some standing in the shallows. driftwood\nlogs. a short wooden jetty. a cave mouth in a sandstone face at\none end. low green bushes in clumps along the back of the beach,\nchunky rounded leaves, flat colour, no individual blades. seven\nwooden chests scattered along the beach, closed. starfish and\nshells as small props.\n\nsmall waves push in and out in a slow loop. palm leaves sway.\nnothing else moves on its own.\n\n4 THE ACTIONS, DESCRIBED ONLY THROUGH USES\n\nthe crab scuttles across the sand and old dull gold coins lift\noff the ground, arc toward it and vanish into it as it passes. it\nnever has to touch them exactly.\n\nthe crab enters the shallow water and its legs kick up small\nwhite splashes.\n\nthe crab reaches a driftwood log, hops it, lands with a puff of\nsand.\n\nthe crab enters the cave mouth and the inside lights up around\nit.\n\nthe crab taps a wooden chest twice with a claw, the lid throws\nopen and what is inside rises out.\n\nthe crab touches a crystal shard. the shard rises, spins once,\nand drops into the next empty socket on its shell, where it stays\nlit for the rest of the game.\n\nshow all of this happening. never explain it in a caption.\n\n5 THE GOAL\n\nseven crystal shards are hidden around the island. collecting all\nseven fills the shell and finishes the game.\n\nplaced in rising difficulty:\n1 in plain sight on open sand, so the player learns the shape\n2 behind a clump of palms, seen only when walking past\n3 at the end of the wooden jetty\n4 in the shallows, half covered by a boulder\n5 inside the cave mouth\n6 on top of a rock the crab has to hop up to reach\n7 inside the seventh chest\n\nno two shards are the same colour. in order: amber, rose, violet,\ndeep blue, sea green, pale ice, and the last one burning orange.\nthe shell lights up in those colours as they land.\n\nsix of the seven chests hold a pile of coins, the seventh holds\nthe last shard. an opened chest stays open.\n\ncoins are everywhere and never required. they exist to make the\nspace between shards worth crossing.\n\n6 THE INTERFACE\n\na HUD is allowed. nothing else is.\n\ntop left: a coin icon and a number, a shard icon and a count out\nof seven. top right: one short line naming the objective.\n\nno health bar, no timer, no minimap, no joystick graphic, no\ntutorial popup, no floating labels in the world, no speech, no\ncaptions explaining what just happened.\n\nwhen the seventh shard lands, the objective line is replaced by a\nsingle line saying the island is clear.\n\n7 THE CAMERA\n\nbehind the crab and slightly above, roughly four crab lengths\nback, angled down about thirty degrees. it never leaves the crab.\nno cutscenes, no fly overs, no establishing shots, no orbits.\npassing close to a palm trunk, it eases in, then back out.\n\n8 NOTHING REPEATS\n\nno two palms share a height, a lean, or a leaf count. no two\nboulders share a silhouette. the seven shards differ in colour\nand in the shape of the cut. the beach is never symmetrical: the\njetty sits at one third of its length, the cave at the far end,\nnever centred. the crab is the only red object in the world. the\nshell is the only near white surface.\n\n9 BANNED, EACH ONE NAMED\n\ngameplay: no enemies, no combat, no health, no damage, no dying,\nno timer, no score multiplier, no lives, no shop, no upgrades, no\ndialogue, no cutscene, no loading screen art.\n\ncharacter: no spiral snail shell, no googly eyes, no hat, no\nclothing, no backpack, no face on the shell, no cartoon eyebrows,\nno sunglasses.\n\nscene: no beach umbrella, no deck chair, no pirate flag, no\nmessage in a bottle, no seagulls, no crabs other than the player,\nno fish, no beach ball, no sandcastle, no footprints trail, no\nfloating bubbles.\n\nrepeats of my earlier build: no grass field, no mushrooms, no\nwooden crates, no red round trees, no rolling green hills.\n\nrender: no realistic textures, no snow, no desert, no night, no\nsunset, no rain, no fog, no lens flare, no film grain, no\nletterboxing, no depth of field blur.\n\n{ END }\n\nthat fourth group is the one nobody writes. those five are from a\ngame I shipped in august. without them the model rebuilds it.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/zeuuss_01/status/2096337882931712076"
+      ],
+      "sha256": "d05542131cee50c66b728e34d555b0263acf5e39b457f64bf2bed12213566d41"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096337699737350144/img/Jaq84uNs4vyVtR40.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096337699737350144/vid/avc1/1920x1080/kCxZ5Leeg7_wzH5p.mp4?tag=29",
+      "source_post_url": "https://x.com/zeuuss_01/status/2096337879173591171",
+      "preview_integrity": {
+        "sha256": "0f611d83061b94424d002c61cd42b36c808d6474e69ece0a770c0cd4364c513e",
+        "bytes": 68598,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096337879173591171",
+      "url": "https://x.com/zeuuss_01/status/2096337879173591171",
+      "conversation_id": "2096337879173591171",
+      "published_at": "Sat Sep 05 20:41:13 +0000 2026",
+      "author": {
+        "id": "1558054593241776128",
+        "handle": "zeuuss_01",
+        "name": "ZEUS⚡️"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096236137266512181",
+    "slug": "gpt-6-astra-struggles-with-a-flight-simulator-512181",
+    "title": "GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/adxtyahq/status/2096236137266512181",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build a polished, playable browser-based 3D flight simulator game from scratch.\n\nThe goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.\n\nGAMEPLAY\n- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.\n- Place a recognizable passenger airplane at the airport.\n- The player must be able to control the aircraft with the keyboard.\n- Implement throttle, pitch, roll, yaw and braking.\n- The aircraft must have basic believable flight physics, momentum and acceleration.\n- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.\n- Add a simple objective: take off, complete a short flight around the airport and land safely.\n- Include crash/failure detection and a restart option.\n\nCONTROLS\nDisplay controls clearly:\n- W/S: Pitch\n- A/D: Roll\n- Q/E: Yaw\n- Shift/Ctrl: Throttle\n- Space: Brake\n\nCAMERA\n- Use a smooth third-person chase camera behind the aircraft.\n- Keep the aircraft clearly visible during flight.\n- Camera should smoothly follow movement and respond subtly to acceleration.\n\nHUD\nCreate a polished aviation-style HUD showing:\n- Airspeed\n- Altitude\n- Heading\n- Throttle\n- Vertical speed\n- Flight status\n- Current objective\n\nInclude a compact controls/help panel that can be hidden.\n\nSTART + RESULTS\nCreate a start screen with:",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/adxtyahq/status/2096256412263604522"
+      ],
+      "sha256": "b1931899cc427b45bf42f42bd99929f6c81d822cba36047e695a0b9c4aa9193f"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096234110025142272/img/bvP_Rcq1v3QtQx_v.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096234110025142272/vid/avc1/1920x1080/YcwTguhKM_PBFUSx.mp4?tag=29",
+      "source_post_url": "https://x.com/adxtyahq/status/2096236137266512181",
+      "preview_integrity": {
+        "sha256": "bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8",
+        "bytes": 120750,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096236137266512181",
+      "url": "https://x.com/adxtyahq/status/2096236137266512181",
+      "conversation_id": "2096236137266512181",
+      "published_at": "Sat Sep 05 13:56:55 +0000 2026",
+      "author": {
+        "id": "1035145780754087936",
+        "handle": "adxtyahq",
+        "name": "aditya"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2095988972879335792",
+    "slug": "i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792",
+    "title": "I asked GPT-6 Astra for God of War in a browser",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/superalesha/status/2095988972879335792",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Make me the most insane and blast of a third-person hack-and-slash action game you can possibly build on ThreeJS + Web shaders bro! The most important things are combat dynamics, swordplay, brutal hit impact, juicy blood and gore, magic effects, and insane graphics. It's a beautifully designed arena where enemies swarm in hordes. Must have a responsive third-person camera, dodging, and real weapon inertia/weight behind every swing. 3 attack types: fast light sword combos, a crushing heavy two-handed blade, and flashy area-of-effect magic spells. This is a Devil May Cry / God of War style AAA slasher in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself.\nPlease don't read the memory, don't read anything. Start from a blank slate.",
+      "fidelity": "exact",
+      "visibility": "same-post",
+      "source_urls": [
+        "https://x.com/superalesha/status/2095988972879335792"
+      ],
+      "sha256": "72a9437ba49dde4889ebd1167e107b5520d31b2d2701299d089ab9bb97e6585d"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2095988588534272001/vid/avc1/2494x1242/lVQSxG_HwpJhyTZE.mp4?tag=29",
+      "source_post_url": "https://x.com/superalesha/status/2095988972879335792",
+      "preview_integrity": {
+        "sha256": "13c80efc9ab25281f8003751942ad0805806b4e0e43727cc085d6aa406280495",
+        "bytes": 97723,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2095988972879335792",
+      "url": "https://x.com/superalesha/status/2095988972879335792",
+      "conversation_id": "2095988972879335792",
+      "published_at": "Fri Sep 04 21:34:47 +0000 2026",
+      "author": {
+        "id": "2010272031603068928",
+        "handle": "superalesha",
+        "name": "Alexey Fateev"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "I asked GPT-6 Astra for God of War in a browser"
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096156244180664627",
+    "slug": "i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627",
+    "title": "I asked GPT-6 Astra to build a game where I'm a fish.",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/AVachaspat92841/status/2096156244180664627",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [],
+    "instruction": {
+      "kind": "prompt",
+      "text": "I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.\nFirst define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/AVachaspat92841/status/2096156365047886100"
+      ],
+      "sha256": "b4802794edece3b13500128d13f99c85f16d61a1396d9ac619c7af625aab9409"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096155867003670528/img/LanIbV6rD19LftoZ.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096155867003670528/vid/avc1/1920x1080/YfAF-QWqMj7RHGqR.mp4?tag=29",
+      "source_post_url": "https://x.com/AVachaspat92841/status/2096156244180664627",
+      "preview_integrity": {
+        "sha256": "2ae4309573af43a9e501f6cf1f7088a1783b6f410eaa20efa7dbaabf3dc3a5f8",
+        "bytes": 77909,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096156244180664627",
+      "url": "https://x.com/AVachaspat92841/status/2096156244180664627",
+      "conversation_id": "2096156244180664627",
+      "published_at": "Sat Sep 05 08:39:27 +0000 2026",
+      "author": {
+        "id": "1749487668516544514",
+        "handle": "AVachaspat92841",
+        "name": "Ayush Vachaspati"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "I asked GPT-6 Astra to build a game where I'm a fish."
+  },
+  {
+    "schema_version": 1,
+    "id": "astra3d-2096019217698967809",
+    "slug": "i-made-an-interactive-dumpling-feast-967809",
+    "title": "I made an interactive dumpling feast🥟",
+    "model": {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "evidence_url": "https://x.com/mech_eng_dev/status/2096019217698967809",
+      "evidence": "explicit-source-post"
+    },
+    "category": "web-3d",
+    "engines": [
+      "Three.js"
+    ],
+    "instruction": {
+      "kind": "prompt",
+      "text": "Build a complete, polished interactive 3D website called “The Dumpling Club” using Three.js and the provided dumpling GLB model.\n\nArt direction:\nCreate a cozy miniature food scene with a warm cream background, terracotta accents, soft studio lighting, realistic shadows, and elegant typography. Pair an expressive serif headline with clean sans-serif controls. Use the headline “Small bites. Big feelings.” Give the scene plenty of breathing room.\n\nThe serving:\nPlace five adorable dumplings inside a round bamboo steamer with layered wooden walls, subtle grain, woven details, and parchment liners. Make the bamboo steamer the default, with a porcelain plate alternative. Add a small bowl of soy sauce beside it.\n\nThe personalities:\nGive each dumpling a distinct face, blinking eyes, rosy cheeks, and playful expressions. Add delicate rising steam and occasional squash-and-stretch animations. Keep jumps extremely low, almost touching the serving surface. The dumplings should feel soft and alive.\n\nThe interaction:\nClick a dumpling to make chopsticks gently pick it up, dip it into soy sauce, and bring it toward the camera for a bite. Add sauce ripples, droplets, a glossy dipped edge, tiny crumbs, and a brief English reaction. Let the remaining dumplings watch and react. Make the timing charming and satisfying.\n\nControls:\nInclude portions of 3, 5, or 8, refill, autoplay, sound, steam and sauce toggles, a “Boing!” button, and a mode that hides the interface. Add gentle synthesized sound effects.\n\nVideo:\nInclude a “Record a bite” button that creates a short automatic tasting with a live square preview. Export locally at 1080 × 1080 and 30 fps, preferring MP4 with WebM fallback.\n\nUse English throughout. Support mobile, keyboard interaction, and reduced motion. Keep assets local and deliver a fully working experience with polished animation and composition.",
+      "fidelity": "exact",
+      "visibility": "same-author-thread",
+      "source_urls": [
+        "https://x.com/mech_eng_dev/status/2096019920974725280"
+      ],
+      "sha256": "571a61a34bb2a1374c7c77ea26caaa298d2f4f818ca8a15de64ea0dc58635d68"
+    },
+    "result": {
+      "media_type": "video",
+      "preview_source_url": "https://pbs.twimg.com/amplify_video_thumb/2096017976885706752/img/KX9bumXOb5Q_5jcL.jpg",
+      "video_source_url": "https://video.twimg.com/amplify_video/2096017976885706752/vid/avc1/1912x1060/VcqKJ1c6I5KywXUq.mp4?tag=29",
+      "source_post_url": "https://x.com/mech_eng_dev/status/2096019217698967809",
+      "preview_integrity": {
+        "sha256": "08c0e8882b686635128d560c7f94fbb9575b105f416693ea0296971adca968d5",
+        "bytes": 65241,
+        "content_type": "image/jpeg"
+      }
+    },
+    "source": {
+      "platform": "X",
+      "post_id": "2096019217698967809",
+      "url": "https://x.com/mech_eng_dev/status/2096019217698967809",
+      "conversation_id": "2096019217698967809",
+      "published_at": "Fri Sep 04 23:34:58 +0000 2026",
+      "author": {
+        "id": "1793997703904407552",
+        "handle": "mech_eng_dev",
+        "name": "Gürsel Günacar"
+      }
+    },
+    "rights": {
+      "status": "review-required",
+      "prompt": "public-source-quotation-with-attribution",
+      "media": "third-party-preview-review-required",
+      "code_license": null
+    },
+    "verification": {
+      "status": "source-verified",
+      "verified_at": "2026-09-07",
+      "provider": "twitterapi.io",
+      "same_author": true,
+      "same_conversation": true
+    },
+    "effect_summary": "I made an interactive dumpling feast🥟"
+  }
+]

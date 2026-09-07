@@ -1,0 +1,28 @@
+name: Prompt case or correction
+description: Propose a source-verified case, correction, removal, or rights update.
+title: "[case]: "
+labels: [provenance-review]
+body:
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request type
+      options: [New case, Source correction, Rights update, Removal request]
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original public source URL
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Model, prompt, result, and authorship evidence
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights or redistribution notes
