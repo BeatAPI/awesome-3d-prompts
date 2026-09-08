@@ -7,6 +7,7 @@ const catalogDir = new URL('catalog/', root);
 const videoCount = prompts.filter((item) => item.result.media_type === 'video').length;
 const imageCount = prompts.length - videoCount;
 const fidelityCounts = Object.groupBy(prompts, (item) => item.instruction.fidelity);
+const publicPromptCount = prompts.length >= 300 ? '300+' : `${prompts.length}`;
 
 const categoryOrder = [
   'blender-scenes',
@@ -20,8 +21,8 @@ const categoryOrder = [
 const copy = {
   en: {
     title: 'Awesome GPT-6 Astra 3D Prompts',
-    description: `${prompts.length} hand-reviewed, source-backed GPT-6 Astra 3D prompts and stated instructions for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results and creator attribution.`,
-    browse: `Browse all ${prompts.length} prompts`,
+    description: `${publicPromptCount} hand-reviewed, source-backed GPT-6 Astra 3D prompts and stated instructions for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results and creator attribution.`,
+    browse: `Browse all ${publicPromptCount} prompts`,
     api: 'Use GPT-6 Astra via API',
     language: '中文说明',
     contribute: 'Contribute a prompt',
@@ -32,7 +33,7 @@ const copy = {
     engine: 'Engine',
     fidelity: 'Prompt fidelity',
     source: 'Source',
-    stats: `${prompts.length} source-backed cases · ${categoryOrder.length} workflows · ${videoCount} WebM videos · ${imageCount} WebP images · ${fidelityCounts.exact?.length ?? 0} verbatim · ${fidelityCounts['creator-stated']?.length ?? 0} creator-stated · ${fidelityCounts['source-stated']?.length ?? 0} source-stated`,
+    stats: `${publicPromptCount} source-backed cases · ${categoryOrder.length} workflows · ${videoCount} WebM videos · ${imageCount} WebP images · ${fidelityCounts.exact?.length ?? 0} verbatim · ${fidelityCounts['creator-stated']?.length ?? 0} creator-stated · ${fidelityCounts['source-stated']?.length ?? 0} source-stated`,
     original: 'Original post and result',
     detail: 'Full evidence and rights notes',
     categories: {
@@ -46,8 +47,8 @@ const copy = {
   },
   zh: {
     title: 'Awesome GPT-6 Astra 3D Prompts 中文版',
-    description: `${prompts.length} 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 3D Prompt 与明确陈述的制作指令，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。`,
-    browse: `浏览全部 ${prompts.length} 条 Prompt`,
+    description: `${publicPromptCount} 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 3D Prompt 与明确陈述的制作指令，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。`,
+    browse: `浏览全部 ${publicPromptCount} 条 Prompt`,
     api: '通过 API 使用 GPT-6 Astra',
     language: 'English',
     contribute: '贡献 Prompt',
@@ -58,7 +59,7 @@ const copy = {
     engine: '引擎',
     fidelity: 'Prompt 类型',
     source: '来源',
-    stats: `${prompts.length} 条来源可追溯案例 · ${categoryOrder.length} 类工作流 · ${videoCount} 段 WebM 视频 · ${imageCount} 张 WebP 图片 · ${fidelityCounts.exact?.length ?? 0} 条逐字原文 · ${fidelityCounts['creator-stated']?.length ?? 0} 条作者陈述 · ${fidelityCounts['source-stated']?.length ?? 0} 条来源陈述`,
+    stats: `${publicPromptCount} 条来源可追溯案例 · ${categoryOrder.length} 类工作流 · ${videoCount} 段 WebM 视频 · ${imageCount} 张 WebP 图片 · ${fidelityCounts.exact?.length ?? 0} 条逐字原文 · ${fidelityCounts['creator-stated']?.length ?? 0} 条作者陈述 · ${fidelityCounts['source-stated']?.length ?? 0} 条来源陈述`,
     original: '原始帖子与结果',
     detail: '完整证据与版权说明',
     categories: {
@@ -199,15 +200,15 @@ function buildReadme(language) {
     gallery(language),
     '',
     language === 'zh'
-      ? `**[查看 GitHub 完整 ${prompts.length} 条目录](catalog/README.md)** · **[在 BeatAPI 可视化浏览全部案例](${galleryUrl})**`
-      : `**[Open the complete ${prompts.length}-item GitHub catalog](catalog/README.md)** · **[Browse every result visually on BeatAPI](${galleryUrl})**`,
+      ? `**[查看 GitHub 完整 ${publicPromptCount} 条目录](catalog/README.md)** · **[在 BeatAPI 可视化浏览全部案例](${galleryUrl})**`
+      : `**[Open the complete ${publicPromptCount} prompt GitHub catalog](catalog/README.md)** · **[Browse every result visually on BeatAPI](${galleryUrl})**`,
   );
 
   if (language === 'zh') {
     sections.push(
       '## 核验方法',
       '',
-      `当前版本收录 ${prompts.length} 条通过审核的案例。每条都需要公开 X 来源、GPT-6 Astra 模型证据、公开 Prompt 或明确陈述的制作指令，以及可见结果。我们不会为了数量补写或反推 Prompt。Prompt fidelity 字段区分逐字原文、作者明确陈述与来源明确陈述；模型归因来自公开来源，不代表所有案例都经过独立复现。`,
+      `当前版本收录 ${publicPromptCount} 条通过审核的案例。每条都需要公开 X 来源、GPT-6 Astra 模型证据、公开 Prompt 或明确陈述的制作指令，以及可见结果。我们不会为了数量补写或反推 Prompt。Prompt fidelity 字段区分逐字原文、作者明确陈述与来源明确陈述；模型归因来自公开来源，不代表所有案例都经过独立复现。`,
       '',
       '## 更多 BeatAPI Prompt 合集',
       '',
@@ -226,7 +227,7 @@ function buildReadme(language) {
     sections.push(
       '## Verification methodology',
       '',
-      `The current release contains ${prompts.length} accepted cases. Every entry needs a public X source, GPT-6 Astra model evidence, a publicly stated prompt or production instruction, and a visible result. We do not reconstruct prompts merely to hit a number. The prompt fidelity field distinguishes verbatim, creator-stated, and source-stated instructions. Model attribution follows public evidence; it does not mean every case was independently reproduced.`,
+      `The current release contains ${publicPromptCount} accepted cases. Every entry needs a public X source, GPT-6 Astra model evidence, a publicly stated prompt or production instruction, and a visible result. We do not reconstruct prompts merely to hit a number. The prompt fidelity field distinguishes verbatim, creator-stated, and source-stated instructions. Model attribution follows public evidence; it does not mean every case was independently reproduced.`,
       '',
       '## More prompt collections from BeatAPI',
       '',
@@ -302,7 +303,7 @@ for (const item of prompts) {
 const catalogIndex = [
   '# Complete GPT-6 Astra 3D Prompt Catalog',
   '',
-  `${prompts.length} source-backed prompt/result pairs. Open a workflow page below or use the [visual BeatAPI gallery](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=catalog&utm_campaign=awesome-3d-prompts).`,
+  `${publicPromptCount} source-backed prompt/result pairs. Open a workflow page below or use the [visual BeatAPI gallery](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=catalog&utm_campaign=awesome-3d-prompts).`,
   '',
   ...categoryOrder.map((category) => `- [${copy.en.categories[category]} (${categories.get(category).length})](./${category}.md)`),
   '',

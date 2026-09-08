@@ -6,7 +6,7 @@ const root = new URL('..', import.meta.url);
 const prompts = JSON.parse(await readFile(new URL('data/prompts.json', root), 'utf8'));
 
 test('catalog keeps evidence and media boundaries explicit', () => {
-  assert.equal(prompts.length, 306);
+  assert.ok(prompts.length >= 300);
   assert.equal(prompts.filter((item) => item.result.media_type === 'video').length, 250);
   assert.equal(prompts.filter((item) => item.result.media_type === 'image').length, 56);
   for (const item of prompts) {
@@ -61,7 +61,7 @@ test('the generated first screen links to the live Astra 3D gallery', async () =
   assert.match(readme, /assets\/readme-hero\.webp/);
   assert.match(readmeZh, /assets\/readme-hero\.webp/);
   await access(new URL('assets/readme-hero.webp', root));
-  assert.match(readme, /\[Browse all 306 prompts\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
-  assert.match(readmeZh, /\[浏览全部 306 条 Prompt\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
+  assert.match(readme, /\[Browse all 300\+ prompts\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
+  assert.match(readmeZh, /\[浏览全部 300\+ 条 Prompt\]\(https:\/\/beatapi\.io\/gpt-6-astra-3d-prompts\?utm_source=github/);
   assert.match(readme, /Use GPT-6 Astra via API/);
 });

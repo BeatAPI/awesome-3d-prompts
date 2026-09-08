@@ -6,11 +6,11 @@
 
 # Awesome GPT-6 Astra 3D Prompts 中文版
 
-306 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 3D Prompt 与明确陈述的制作指令，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。
+300+ 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 3D Prompt 与明确陈述的制作指令，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。
 
-**[浏览全部 306 条 Prompt](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
+**[浏览全部 300+ 条 Prompt](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
 
-306 条来源可追溯案例 · 6 类工作流 · 250 段 WebM 视频 · 56 张 WebP 图片 · 47 条逐字原文 · 163 条作者陈述 · 96 条来源陈述
+300+ 条来源可追溯案例 · 6 类工作流 · 250 段 WebM 视频 · 56 张 WebP 图片 · 47 条逐字原文 · 163 条作者陈述 · 96 条来源陈述
 
 ## 按工作流浏览
 
@@ -931,10 +931,10 @@ Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.
 ---
 
 
-**[查看 GitHub 完整 306 条目录](catalog/README.md)** · **[在 BeatAPI 可视化浏览全部案例](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)**
+**[查看 GitHub 完整 300+ 条目录](catalog/README.md)** · **[在 BeatAPI 可视化浏览全部案例](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)**
 ## 核验方法
 
-当前版本收录 306 条通过审核的案例。每条都需要公开 X 来源、GPT-6 Astra 模型证据、公开 Prompt 或明确陈述的制作指令，以及可见结果。我们不会为了数量补写或反推 Prompt。Prompt fidelity 字段区分逐字原文、作者明确陈述与来源明确陈述；模型归因来自公开来源，不代表所有案例都经过独立复现。
+当前版本收录 300+ 条通过审核的案例。每条都需要公开 X 来源、GPT-6 Astra 模型证据、公开 Prompt 或明确陈述的制作指令，以及可见结果。我们不会为了数量补写或反推 Prompt。Prompt fidelity 字段区分逐字原文、作者明确陈述与来源明确陈述；模型归因来自公开来源，不代表所有案例都经过独立复现。
 
 ## 更多 BeatAPI Prompt 合集
 
