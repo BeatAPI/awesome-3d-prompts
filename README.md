@@ -6,11 +6,11 @@
 
 # Awesome GPT-6 Astra 3D Prompts
 
-306 hand-reviewed, source-backed GPT-6 Astra 3D prompts and stated instructions for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results and creator attribution.
+300+ hand-reviewed, source-backed GPT-6 Astra 3D prompts and stated instructions for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results and creator attribution.
 
-**[Browse all 306 prompts](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[Use GPT-6 Astra via API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[中文说明](./README.zh-CN.md)** · **[Contribute a prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
+**[Browse all 300+ prompts](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[Use GPT-6 Astra via API](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[中文说明](./README.zh-CN.md)** · **[Contribute a prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
 
-306 source-backed cases · 6 workflows · 250 WebM videos · 56 WebP images · 47 verbatim · 163 creator-stated · 96 source-stated
+300+ source-backed cases · 6 workflows · 250 WebM videos · 56 WebP images · 47 verbatim · 163 creator-stated · 96 source-stated
 
 ## Explore by workflow
 
@@ -931,10 +931,10 @@ Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.
 ---
 
 
-**[Open the complete 306-item GitHub catalog](catalog/README.md)** · **[Browse every result visually on BeatAPI](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)**
+**[Open the complete 300+ prompt GitHub catalog](catalog/README.md)** · **[Browse every result visually on BeatAPI](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)**
 ## Verification methodology
 
-The current release contains 306 accepted cases. Every entry needs a public X source, GPT-6 Astra model evidence, a publicly stated prompt or production instruction, and a visible result. We do not reconstruct prompts merely to hit a number. The prompt fidelity field distinguishes verbatim, creator-stated, and source-stated instructions. Model attribution follows public evidence; it does not mean every case was independently reproduced.
+The current release contains 300+ accepted cases. Every entry needs a public X source, GPT-6 Astra model evidence, a publicly stated prompt or production instruction, and a visible result. We do not reconstruct prompts merely to hit a number. The prompt fidelity field distinguishes verbatim, creator-stated, and source-stated instructions. Model attribution follows public evidence; it does not mean every case was independently reproduced.
 
 ## More prompt collections from BeatAPI
 
