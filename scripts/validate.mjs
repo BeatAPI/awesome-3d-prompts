@@ -12,7 +12,7 @@ for (const item of prompts) {
   if (!item.source.url.startsWith('https://')) throw new Error(`invalid source: ${item.id}`);
   if (item.source.platform !== 'X') throw new Error(`non-X source in final catalog: ${item.id}`);
   if (!item.result.preview_source_url.startsWith('https://')) throw new Error(`missing preview: ${item.id}`);
-  if (!['exact', 'derived'].includes(item.instruction.fidelity)) throw new Error(`invalid fidelity: ${item.id}`);
+  if (item.instruction.fidelity !== 'exact') throw new Error(`non-original prompt: ${item.id}`);
   if (item.instruction.text.trim().length < 20) throw new Error(`short prompt: ${item.id}`);
   if (!item.verification.verified_at) throw new Error(`unverified: ${item.id}`);
   if (item.result.local_preview) throw new Error(`non-portable local preview path: ${item.id}`);

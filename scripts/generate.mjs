@@ -16,7 +16,7 @@ const categoryOrder = [
 const copy = {
   en: {
     title: 'Awesome GPT-6 Astra 3D Prompts',
-    description: `${prompts.length} hand-reviewed, source-backed 3D prompts for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results, original sources, and creator attribution.`,
+    description: `${prompts.length} hand-reviewed original GPT-6 Astra 3D prompts for Blender, Three.js, WebGL, games, CAD, product visualization, and agent workflows—with visual results, X sources, and creator attribution.`,
     browse: `Browse all ${prompts.length} prompts`,
     api: 'Use GPT-6 Astra via API',
     language: '中文说明',
@@ -41,7 +41,7 @@ const copy = {
   },
   zh: {
     title: 'Awesome GPT-6 Astra 3D Prompts 中文版',
-    description: `${prompts.length} 条经过人工审核、可追溯来源的 GPT-6 Astra 3D Prompt，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果、原始来源和作者署名。`,
+    description: `${prompts.length} 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 原始 3D Prompt，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。`,
     browse: `浏览全部 ${prompts.length} 条 Prompt`,
     api: '通过 API 使用 GPT-6 Astra',
     language: 'English',
@@ -163,7 +163,7 @@ function buildReadme(language) {
     '',
     `**[${labels.browse}](${galleryUrl})** · **[${labels.api}](${apiUrl})** · **[${labels.language}](${alternateReadme})** · **[${labels.contribute}](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**`,
     '',
-    `${prompts.length} source-backed cases · ${categoryOrder.length} workflows · ${prompts.length} visual previews · exact/derived fidelity labels`,
+    `${prompts.length} source-backed cases · ${categoryOrder.length} workflows · ${prompts.length} visual previews · 100% original prompts`,
     '',
     `## ${labels.explore}`,
     '',
@@ -175,7 +175,7 @@ function buildReadme(language) {
     sections.push(
       '## 这个合集有什么不同',
       '',
-      '这里不只罗列 Prompt。每条案例都会展示实际结果预览、可复制的 Prompt 或 Agent 指令、原始作者与帖子、使用的 3D 引擎、核验日期，以及该指令是原文还是根据公开来源整理。',
+      '这里不只罗列 Prompt。每条案例都会展示实际结果预览、可复制的原始 Prompt 或 Agent 指令、原始作者与帖子、使用的 3D 引擎和核验日期。',
       '',
       '> GPT-6 Astra 是来源所述工作流使用的模型。BeatAPI 提供模型 API；Blender、Three.js、WebGL、Godot、MCP 服务和渲染工具属于工作流中的独立部分。',
       '',
@@ -184,7 +184,7 @@ function buildReadme(language) {
     sections.push(
       '## What makes this collection useful',
       '',
-      'This is more than a list of prompt text. Every case shows the visible result, a copyable prompt or agent instruction, the original creator and post, the 3D engine, the verification date, and whether the instruction is exact or derived from the public source.',
+      'This is more than a list of prompt text. Every case shows the visible result, the creator’s copyable original prompt or agent instruction, the original post, the 3D engine, and the verification date.',
       '',
       '> GPT-6 Astra identifies the model used in the cited workflow. BeatAPI provides model API access; Blender, Three.js, WebGL, Godot, MCP servers, and rendering tools remain separate parts of the workflow.',
       '',
@@ -203,7 +203,7 @@ function buildReadme(language) {
     sections.push(
       '## 核验方法',
       '',
-      `当前版本收录 ${prompts.length} 条通过审核的案例。每条都需要公开来源、明确的 GPT-6 Astra 模型声明、可复制指令和可见结果。我们宁可保留较小但可追溯的合集，也不会为了数量虚构 Prompt。模型归因来自原作者公开说明，不代表所有案例都经过独立复现。`,
+      `当前版本收录 ${prompts.length} 条通过审核的案例。每条都需要公开 X 来源、明确的 GPT-6 Astra 模型声明、公开可复制的原始指令和可见结果。我们宁可保留较小但可追溯的合集，也不会为了数量补写或反推 Prompt。模型归因来自原作者公开说明，不代表所有案例都经过独立复现。`,
       '',
       '## 更多 BeatAPI Prompt 合集',
       '',
@@ -222,7 +222,7 @@ function buildReadme(language) {
     sections.push(
       '## Verification methodology',
       '',
-      `The current release contains ${prompts.length} accepted cases. Every entry needs a public source, an explicit GPT-6 Astra model claim, a copyable instruction, and a visible result. We prefer a smaller traceable collection over invented prompts added to hit a number. Model attribution follows the creator’s public statement; it does not mean every case was independently reproduced.`,
+      `The current release contains ${prompts.length} accepted cases. Every entry needs a public X source, an explicit GPT-6 Astra model claim, the creator’s publicly copyable original instruction, and a visible result. We prefer a smaller traceable collection over prompts reconstructed merely to hit a number. Model attribution follows the creator’s public statement; it does not mean every case was independently reproduced.`,
       '',
       '## More prompt collections from BeatAPI',
       '',
