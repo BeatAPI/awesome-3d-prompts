@@ -3,7 +3,7 @@
 # 1 shotted this w/ GPT-6 Astra
 
 <a href="https://x.com/d4m1n/status/2096258259459964963">
-  <img src="../assets/readme-previews/1-shotted-this-w-gpt-6-astra-964963.jpg" alt="1 shotted this w/ GPT-6 Astra result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-shotted-this-w-gpt-6-astra-964963/poster-37602db5b169.webp" alt="1 shotted this w/ GPT-6 Astra result preview" width="900" />
 </a>
 
 1 shotted this w/ GPT-6 Astra
@@ -11,7 +11,7 @@
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Dan ⚡️](https://x.com/d4m1n/status/2096258259459964963)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -27,6 +27,8 @@ make an intro video of 30-60s showing nice visuals (maybe the 3d of the car)? an
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/d4m1n/status/2096258259459964963)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-shotted-this-w-gpt-6-astra-964963/video-90bce189147d.webm)
 
 ## Run it with GPT-6 Astra
 

@@ -3,7 +3,7 @@
 # AGI is 100% solved.
 
 <a href="https://x.com/higgsfield_ai/status/2096342420543660277">
-  <img src="../assets/readme-previews/agi-is-100-solved-660277.jpg" alt="AGI is 100% solved. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-100-solved-660277/poster-414e669f3b09.webp" alt="AGI is 100% solved. result preview" width="900" />
 </a>
 
 AGI is 100% solved.
@@ -11,7 +11,7 @@ AGI is 100% solved.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai/status/2096342420543660277)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -43,6 +43,8 @@ Take control of my computer using GPT-6 Astra and do the following:
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/higgsfield_ai/status/2096342420543660277)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-100-solved-660277/video-868d8555a801.webm)
 
 ## Run it with GPT-6 Astra
 

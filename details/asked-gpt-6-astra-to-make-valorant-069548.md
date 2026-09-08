@@ -3,7 +3,7 @@
 # ı asked GPT-6 Astra to make valorant
 
 <a href="https://x.com/valohabercisi/status/2096550643599069548">
-  <img src="../assets/readme-previews/asked-gpt-6-astra-to-make-valorant-069548.jpg" alt="ı asked GPT-6 Astra to make valorant result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-make-valorant-069548/poster-9e859d71f3d7.webp" alt="ı asked GPT-6 Astra to make valorant result preview" width="900" />
 </a>
 
 ı asked GPT-6 Astra to make valorant
@@ -11,7 +11,7 @@
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [valohabercisi](https://x.com/valohabercisi/status/2096550643599069548)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ hey gpt-6 astra, make me VALORANT in three.js, make no mistakes. as a map use va
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/valohabercisi/status/2096550643599069548)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-make-valorant-069548/video-701f79da4797.webm)
 
 ## Run it with GPT-6 Astra
 

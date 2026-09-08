@@ -3,7 +3,7 @@
 # I made an interactive dumpling feast🥟
 
 <a href="https://x.com/mech_eng_dev/status/2096019217698967809">
-  <img src="../assets/readme-previews/i-made-an-interactive-dumpling-feast-967809.jpg" alt="I made an interactive dumpling feast🥟 result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-interactive-dumpling-feast-967809/poster-f1860ca30c06.webp" alt="I made an interactive dumpling feast🥟 result preview" width="900" />
 </a>
 
 I made an interactive dumpling feast🥟
@@ -11,7 +11,7 @@ I made an interactive dumpling feast🥟
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Gürsel Günacar](https://x.com/mech_eng_dev/status/2096019217698967809)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -45,6 +45,8 @@ Use English throughout. Support mobile, keyboard interaction, and reduced motion
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/mech_eng_dev/status/2096019217698967809)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-interactive-dumpling-feast-967809/video-fd77d3ab1d4a.webm)
 
 ## Run it with GPT-6 Astra
 

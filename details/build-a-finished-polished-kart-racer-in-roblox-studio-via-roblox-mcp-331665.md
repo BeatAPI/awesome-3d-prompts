@@ -3,7 +3,7 @@
 # Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed
 
 <a href="https://x.com/givros/status/2096219700879331665">
-  <img src="../assets/readme-previews/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.jpg" alt="Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665/poster-d1c280380f15.webp" alt="Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed result preview" width="900" />
 </a>
 
 Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed
@@ -11,7 +11,7 @@ Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create co
 - **Model:** GPT-6 Astra
 - **Engine:** Blender + Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Givros](https://x.com/givros/status/2096219700879331665)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create co
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/givros/status/2096219700879331665)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665/video-46c58fdbf0b7.webm)
 
 ## Run it with GPT-6 Astra
 

@@ -3,7 +3,7 @@
 # GPT-6 Astra is insane.
 
 <a href="https://x.com/CoinSh0t/status/2095898303019856230">
-  <img src="../assets/readme-previews/gpt-6-astra-is-insane-856230.jpg" alt="GPT-6 Astra is insane. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-856230/poster-81d07f657318.webp" alt="GPT-6 Astra is insane. result preview" width="900" />
 </a>
 
 GPT-6 Astra is insane.
@@ -11,7 +11,7 @@ GPT-6 Astra is insane.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Coin Shot ☁️](https://x.com/CoinSh0t/status/2095898303019856230)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/CoinSh0t/status/2095898303019856230)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-856230/video-ff8e588cf3be.webm)
 
 ## Run it with GPT-6 Astra
 

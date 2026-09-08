@@ -3,7 +3,7 @@
 # I asked GPT-6 Astra to build a game where I'm a fish.
 
 <a href="https://x.com/AVachaspat92841/status/2096156244180664627">
-  <img src="../assets/readme-previews/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627.jpg" alt="I asked GPT-6 Astra to build a game where I'm a fish. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627/poster-09dab5911806.webp" alt="I asked GPT-6 Astra to build a game where I'm a fish. result preview" width="900" />
 </a>
 
 I asked GPT-6 Astra to build a game where I'm a fish.
@@ -11,7 +11,7 @@ I asked GPT-6 Astra to build a game where I'm a fish.
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Ayush Vachaspati](https://x.com/AVachaspat92841/status/2096156244180664627)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -26,6 +26,8 @@ First define the full gameply loop and level designs and stuff for this game int
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/AVachaspat92841/status/2096156244180664627)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627/video-f24a59ce06a6.webm)
 
 ## Run it with GPT-6 Astra
 

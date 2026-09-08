@@ -3,7 +3,7 @@
 # Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse
 
 <a href="https://x.com/_simonsmith/status/2096766465730847059">
-  <img src="../assets/readme-previews/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059.jpg" alt="Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059/poster-cb8eb022f18f.webp" alt="Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse result preview" width="900" />
 </a>
 
 Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse
@@ -11,7 +11,7 @@ Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can us
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Simon Smith](https://x.com/_simonsmith/status/2096766465730847059)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can us
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/_simonsmith/status/2096766465730847059)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059/video-0e4834adbe5c.webm)
 
 ## Run it with GPT-6 Astra
 

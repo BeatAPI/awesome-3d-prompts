@@ -3,7 +3,7 @@
 # Using Gpt 6 Astra model
 
 <a href="https://x.com/SBnft25/status/2096494350943609269">
-  <img src="../assets/readme-previews/using-gpt-6-astra-model-609269.jpg" alt="Using Gpt 6 Astra model result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/using-gpt-6-astra-model-609269/poster-aa1f989cccf5.webp" alt="Using Gpt 6 Astra model result preview" width="900" />
 </a>
 
 Using Gpt 6 Astra model
@@ -11,7 +11,7 @@ Using Gpt 6 Astra model
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [SB nft](https://x.com/SBnft25/status/2096494350943609269)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -27,6 +27,8 @@ Are 3d artist cooked after this??
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/SBnft25/status/2096494350943609269)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/using-gpt-6-astra-model-609269/video-ba9bcc4a5233.webm)
 
 ## Run it with GPT-6 Astra
 

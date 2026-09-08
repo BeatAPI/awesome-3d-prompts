@@ -3,7 +3,7 @@
 # I jumped on the bandwagon for making a GPT-6 Astra game using three.JS
 
 <a href="https://x.com/thomasunise/status/2097121832159609145">
-  <img src="../assets/readme-previews/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145.jpg" alt="I jumped on the bandwagon for making a GPT-6 Astra game using three.JS result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145/poster-5854c1f91585.webp" alt="I jumped on the bandwagon for making a GPT-6 Astra game using three.JS result preview" width="900" />
 </a>
 
 I jumped on the bandwagon for making a GPT-6 Astra game using three.JS
@@ -11,7 +11,7 @@ I jumped on the bandwagon for making a GPT-6 Astra game using three.JS
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Thomas Unise](https://x.com/thomasunise/status/2097121832159609145)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ make me a walkable monopoly game using three.JS I can play in the browser
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/thomasunise/status/2097121832159609145)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145/video-1cedfc9b1ca8.webm)
 
 ## Run it with GPT-6 Astra
 

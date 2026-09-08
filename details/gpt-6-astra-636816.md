@@ -3,7 +3,7 @@
 # GPT-6 Astraのモデル性能評価
 
 <a href="https://x.com/StelsRay2/status/2096083014845636816">
-  <img src="../assets/readme-previews/gpt-6-astra-636816.jpg" alt="GPT-6 Astraのモデル性能評価 result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-636816/image-af4ea8d84147.webp" alt="GPT-6 Astraのモデル性能評価 result preview" width="900" />
 </a>
 
 GPT-6 Astraのモデル性能評価
@@ -11,7 +11,7 @@ GPT-6 Astraのモデル性能評価
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [ステスロス@2号機](https://x.com/StelsRay2/status/2096083014845636816)
 - **Rights:** review-required; preview and prompt retain source attribution

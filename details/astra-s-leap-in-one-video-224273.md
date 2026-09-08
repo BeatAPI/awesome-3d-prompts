@@ -3,7 +3,7 @@
 # Astra’s leap, in one video.
 
 <a href="https://x.com/world_0618/status/2096960373136224273">
-  <img src="../assets/readme-previews/astra-s-leap-in-one-video-224273.jpg" alt="Astra’s leap, in one video. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/astra-s-leap-in-one-video-224273/poster-4306cdfa32af.webp" alt="Astra’s leap, in one video. result preview" width="900" />
 </a>
 
 Astra’s leap, in one video.
@@ -11,7 +11,7 @@ Astra’s leap, in one video.
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [谢世杰｜AI游民](https://x.com/world_0618/status/2096960373136224273)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Make an HTML game exactly like the one in this video.
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/world_0618/status/2096960373136224273)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/astra-s-leap-in-one-video-224273/video-3bbb43c846e0.webm)
 
 ## Run it with GPT-6 Astra
 

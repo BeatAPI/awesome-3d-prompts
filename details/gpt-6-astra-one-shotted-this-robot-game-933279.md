@@ -3,7 +3,7 @@
 # GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME
 
 <a href="https://x.com/zeuuss_01/status/2097004192627933279">
-  <img src="../assets/readme-previews/gpt-6-astra-one-shotted-this-robot-game-933279.jpg" alt="GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shotted-this-robot-game-933279/poster-9d8e10501b26.webp" alt="GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME result preview" width="900" />
 </a>
 
 GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME
@@ -11,7 +11,7 @@ GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [ZEUS⚡️](https://x.com/zeuuss_01/status/2097004192627933279)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -264,6 +264,8 @@ robot on a beautiful bench.
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/zeuuss_01/status/2097004192627933279)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shotted-this-robot-game-933279/video-152586278dbc.webm)
 
 ## Run it with GPT-6 Astra
 

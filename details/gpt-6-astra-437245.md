@@ -3,7 +3,7 @@
 # 【GPT-6 Astra】
 
 <a href="https://x.com/asagilf/status/2096124859814437245">
-  <img src="../assets/readme-previews/gpt-6-astra-437245.jpg" alt="【GPT-6 Astra】 result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-437245/image-aca12bcf9cdd.webp" alt="【GPT-6 Astra】 result preview" width="900" />
 </a>
 
 【GPT-6 Astra】
@@ -11,7 +11,7 @@
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [asagi](https://x.com/asagilf/status/2096124859814437245)
 - **Rights:** review-required; preview and prompt retain source attribution

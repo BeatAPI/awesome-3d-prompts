@@ -3,7 +3,7 @@
 # GPT 6 Astra first blender Impressions.
 
 <a href="https://x.com/Conor_D_Dart/status/2096125193580113957">
-  <img src="../assets/readme-previews/gpt-6-astra-first-blender-impressions-113957.jpg" alt="GPT 6 Astra first blender Impressions. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-first-blender-impressions-113957/poster-fd2fe102763b.webp" alt="GPT 6 Astra first blender Impressions. result preview" width="900" />
 </a>
 
 GPT 6 Astra first blender Impressions.
@@ -11,7 +11,7 @@ GPT 6 Astra first blender Impressions.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Conor Dart](https://x.com/Conor_D_Dart/status/2096125193580113957)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Create a 3d Formula one Model in blender with computer use.   Whats next?
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/Conor_D_Dart/status/2096125193580113957)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-first-blender-impressions-113957/video-dd4d6660654e.webm)
 
 ## Run it with GPT-6 Astra
 

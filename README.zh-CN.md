@@ -6,34 +6,99 @@
 
 # Awesome GPT-6 Astra 3D Prompts 中文版
 
-38 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 原始 3D Prompt，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。
+306 条经过人工审核、可追溯 X 来源的 GPT-6 Astra 3D Prompt 与明确陈述的制作指令，覆盖 Blender、Three.js、WebGL、游戏、CAD、产品可视化和 Agent 工作流，并展示真实结果与作者署名。
 
-**[浏览全部 38 条 Prompt](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
+**[浏览全部 306 条 Prompt](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[通过 API 使用 GPT-6 Astra](https://beatapi.io/gpt-6-astra-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)** · **[English](./README.md)** · **[贡献 Prompt](https://github.com/BeatAPI/awesome-3d-prompts/issues/new?template=prompt.yml)**
 
-38 source-backed cases · 6 workflows · 38 visual previews · 100% original prompts
+306 条来源可追溯案例 · 6 类工作流 · 250 段 WebM 视频 · 56 张 WebP 图片 · 47 条逐字原文 · 163 条作者陈述 · 96 条来源陈述
 
 ## 按工作流浏览
 
-[Blender 场景 (13)](#blender-scenes) · [Web 3D (13)](#web-3d) · [游戏引擎 (1)](#game-engines) · [产品可视化 (1)](#product-visualization) · [CAD 与 3D 打印 (1)](#cad-3d-printing) · [Agent 工作流 (9)](#3d-workflow)
+[Blender 场景 (84)](catalog/blender-scenes.md) · [Web 3D (59)](catalog/web-3d.md) · [游戏引擎 (15)](catalog/game-engines.md) · [产品可视化 (10)](catalog/product-visualization.md) · [CAD 与 3D 打印 (7)](catalog/cad-3d-printing.md) · [Agent 工作流 (131)](catalog/3d-workflow.md)
 
 ## 这个合集有什么不同
 
-这里不只罗列 Prompt。每条案例都会展示实际结果预览、可复制的原始 Prompt 或 Agent 指令、原始作者与帖子、使用的 3D 引擎和核验日期。
+这里不只罗列 Prompt。每条案例都会展示实际结果预览、公开 Prompt 或明确陈述的制作指令、原始作者与帖子、使用的 3D 引擎和核验日期，并标注证据层级。
 
 > GPT-6 Astra 是来源所述工作流使用的模型。BeatAPI 提供模型 API；Blender、Three.js、WebGL、Godot、MCP 服务和渲染工具属于工作流中的独立部分。
 
 <a id="prompt-gallery"></a>
 
-## Prompt 案例库
+## 精选 36 条
 
-<a id="blender-scenes"></a>
+#### 1. [20 m². Bed, desk, sofa, kitchen.](details/20-m-bed-desk-sofa-kitchen-409988.md)
 
-### Blender 场景 (13)
+<a href="https://x.com/groovestreetgen/status/2096377743701409988">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/20-m-bed-desk-sofa-kitchen-409988/poster-327f41c77cab.webp" alt="20 m². Bed, desk, sofa, kitchen. result preview" width="700" />
+</a>
 
-#### 1. [AGI is 100% solved.](details/agi-is-100-solved-660277.md)
+20 m². Bed, desk, sofa, kitchen.
+
+<details>
+<summary><strong>Prompt</strong> — I asked Astra to turn an empty room into a furnished 3D concept—and keep every object editable.</summary>
+
+~~~~text
+I asked Astra to turn an empty room into a furnished 3D concept—and keep every object editable.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Generator](https://x.com/groovestreetgen/status/2096377743701409988) · [原始帖子与结果](https://x.com/groovestreetgen/status/2096377743701409988) · [完整证据与版权说明](details/20-m-bed-desk-sofa-kitchen-409988.md)
+
+---
+
+#### 2. [「日本アニメでよく見られる、二脚人型の、いわゆる『リアルロボット』の3Dモデルを作成してください」として、GPT-6 Astraに作成させたもの。Blender-mcp経由。](details/3d-gpt-6-astra-blender-mcp-753410.md)
+
+<a href="https://x.com/hawkymisc/status/2096797700922753410">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/3d-gpt-6-astra-blender-mcp-753410/image-33227b080679.webp" alt="「日本アニメでよく見られる、二脚人型の、いわゆる『リアルロボット』の3Dモデルを作成してください」として、GPT-6 Astraに作成させたもの。Blender-mcp経由。 result preview" width="700" />
+</a>
+
+「日本アニメでよく見られる、二脚人型の、いわゆる『リアルロボット』の3Dモデルを作成してください」として、GPT-6 Astraに作成させたもの。Blender-mcp経由。
+
+<details>
+<summary><strong>Prompt</strong> — 「日本アニメでよく見られる、二脚人型の、いわゆる『リアルロボット』の3Dモデルを作成してください」として、GPT-6 Astraに作成させたもの。Blender-mcp経由。</summary>
+
+~~~~text
+「日本アニメでよく見られる、二脚人型の、いわゆる『リアルロボット』の3Dモデルを作成してください」として、GPT-6 Astraに作成させたもの。Blender-mcp経由。
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 来源明确陈述
+
+**来源:** [ほーきー(Hawkie) | AI× |||||||||||||||||||||||||||||](https://x.com/hawkymisc/status/2096797700922753410) · [原始帖子与结果](https://x.com/hawkymisc/status/2096797700922753410) · [完整证据与版权说明](details/3d-gpt-6-astra-blender-mcp-753410.md)
+
+---
+
+#### 3. [a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scrat](details/a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515.md)
+
+<a href="https://x.com/andreasxirtus/status/2095794528410124515">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515/image-099f2603d6ed.webp" alt="a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scrat result preview" width="700" />
+</a>
+
+a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scrat
+
+<details>
+<summary><strong>Prompt</strong> — a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scratch (from pure math, without Blender) by following a ruleset around math and anatomi…</summary>
+
+~~~~text
+a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scratch (from pure math, without Blender) by following a ruleset around math and anatomical vocabulary ( ϕ τ and π: super-quadratics exist as semantically meaningful object parts.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Andreas Xirtus 📐](https://x.com/andreasxirtus/status/2095794528410124515) · [原始帖子与结果](https://x.com/andreasxirtus/status/2095794528410124515) · [完整证据与版权说明](details/a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515.md)
+
+---
+
+#### 4. [AGI is 100% solved.](details/agi-is-100-solved-660277.md)
 
 <a href="https://x.com/higgsfield_ai/status/2096342420543660277">
-  <img src="./assets/readme-previews/agi-is-100-solved-660277.jpg" alt="AGI is 100% solved. result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-100-solved-660277/poster-414e669f3b09.webp" alt="AGI is 100% solved. result preview" width="700" />
 </a>
 
 AGI is 100% solved.
@@ -65,327 +130,85 @@ Take control of my computer using GPT-6 Astra and do the following:
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 逐字原文
 
 **来源:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai/status/2096342420543660277) · [原始帖子与结果](https://x.com/higgsfield_ai/status/2096342420543660277) · [完整证据与版权说明](details/agi-is-100-solved-660277.md)
 
 ---
 
-#### 2. [【GPT-6 Astra】](details/gpt-6-astra-437245.md)
+#### 5. [Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics f](details/asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512.md)
 
-<a href="https://x.com/asagilf/status/2096124859814437245">
-  <img src="./assets/readme-previews/gpt-6-astra-437245.jpg" alt="【GPT-6 Astra】 result preview" width="700" />
+<a href="https://x.com/arthurbfrd/status/2095849062545129512">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512/image-fda14ab1b297.webp" alt="Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics f result preview" width="700" />
 </a>
 
-【GPT-6 Astra】
+Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics f
 
 <details>
-<summary><strong>Prompt</strong> — blender つかってめちゃくちゃオシャレな戸建てRC住宅でお金持ちが港区に立てそうな住宅のモデリングして</summary>
+<summary><strong>Prompt</strong> — Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics from the 1800s + photos from recent renovation works to texture it and built it at t…</summary>
 
 ~~~~text
-blender つかってめちゃくちゃオシャレな戸建てRC住宅でお金持ちが港区に立てそうな住宅のモデリングして
+Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics from the 1800s + photos from recent renovation works to texture it and built it at the right scale
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 来源明确陈述
 
-**来源:** [asagi](https://x.com/asagilf/status/2096124859814437245) · [原始帖子与结果](https://x.com/asagilf/status/2096124859814437245) · [完整证据与版权说明](details/gpt-6-astra-437245.md)
+**来源:** [Arthur Bouffard](https://x.com/arthurbfrd/status/2095849062545129512) · [原始帖子与结果](https://x.com/arthurbfrd/status/2095849062545129512) · [完整证据与版权说明](details/asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512.md)
 
 ---
 
-#### 3. [GPT-6 Astra + ChatCut + Blender is insane.](details/gpt-6-astra-chatcut-blender-is-insane-330908.md)
+#### 6. [asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.](details/asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673.md)
 
-<a href="https://x.com/chatcutapp/status/2096925943575330908">
-  <img src="./assets/readme-previews/gpt-6-astra-chatcut-blender-is-insane-330908.jpg" alt="GPT-6 Astra + ChatCut + Blender is insane. result preview" width="700" />
+<a href="https://x.com/LeftWingFash/status/2097193662283161673">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673/poster-a74206d80996.webp" alt="asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender. result preview" width="700" />
 </a>
 
-GPT-6 Astra + ChatCut + Blender is insane.
+asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.
 
 <details>
-<summary><strong>Prompt</strong> — Connect to ChatCut Desktop and Blender on my computer, and recreate the reference video I provided. Carefully analyze each shot's modeling, materials, lighting, camera placement,…</summary>
+<summary><strong>Prompt</strong> — asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.</summary>
 
 ~~~~text
-Connect to ChatCut Desktop and Blender on my computer, and recreate the reference video I provided.
-
-Carefully analyze each shot's modeling, materials, lighting, camera placement, motion timing, and typography animation. Use Blender for 3D animation and ChatCut for editing, matching the reference as closely as possible.
+asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 来源明确陈述
 
-**来源:** [ChatCut](https://x.com/chatcutapp/status/2096925943575330908) · [原始帖子与结果](https://x.com/chatcutapp/status/2096925943575330908) · [完整证据与版权说明](details/gpt-6-astra-chatcut-blender-is-insane-330908.md)
+**来源:** [HeIsTrollingLolEhmmRofl ☭ᛦ](https://x.com/LeftWingFash/status/2097193662283161673) · [原始帖子与结果](https://x.com/LeftWingFash/status/2097193662283161673) · [完整证据与版权说明](details/asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673.md)
 
 ---
 
-#### 4. [GPT 6 Astra first blender Impressions.](details/gpt-6-astra-first-blender-impressions-113957.md)
+#### 7. [一张图，直接变成一个能“逛”的 3D 世界](details/3d-551649.md)
 
-<a href="https://x.com/Conor_D_Dart/status/2096125193580113957">
-  <img src="./assets/readme-previews/gpt-6-astra-first-blender-impressions-113957.jpg" alt="GPT 6 Astra first blender Impressions. result preview" width="700" />
+<a href="https://x.com/Adam38363368936/status/2096787471107551649">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/3d-551649/image-657458bc471a.webp" alt="一张图，直接变成一个能“逛”的 3D 世界 result preview" width="700" />
 </a>
 
-GPT 6 Astra first blender Impressions.
+一张图，直接变成一个能“逛”的 3D 世界
 
 <details>
-<summary><strong>Prompt</strong> — Create a 3d Formula one Model in blender with computer use. Whats next?</summary>
+<summary><strong>Prompt</strong> — 我把这张赛博城市概念图丢给 GPT-6 Astra，让它自己理解空间、光照和画面层次，然后直接用 Three.js 写成一个单文件 3D 场景。</summary>
 
 ~~~~text
-Create a 3d Formula one Model in blender with computer use.   Whats next?
+我把这张赛博城市概念图丢给 GPT-6 Astra，让它自己理解空间、光照和画面层次，然后直接用 Three.js 写成一个单文件 3D 场景。
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 来源明确陈述
 
-**来源:** [Conor Dart](https://x.com/Conor_D_Dart/status/2096125193580113957) · [原始帖子与结果](https://x.com/Conor_D_Dart/status/2096125193580113957) · [完整证据与版权说明](details/gpt-6-astra-first-blender-impressions-113957.md)
-
----
-
-#### 5. [GPT-6 Astra is insane.](details/gpt-6-astra-is-insane-856230.md)
-
-<a href="https://x.com/CoinSh0t/status/2095898303019856230">
-  <img src="./assets/readme-previews/gpt-6-astra-is-insane-856230.jpg" alt="GPT-6 Astra is insane. result preview" width="700" />
-</a>
-
-GPT-6 Astra is insane.
-
-<details>
-<summary><strong>Prompt</strong> — Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.</summary>
-
-~~~~text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Coin Shot ☁️](https://x.com/CoinSh0t/status/2095898303019856230) · [原始帖子与结果](https://x.com/CoinSh0t/status/2095898303019856230) · [完整证据与版权说明](details/gpt-6-astra-is-insane-856230.md)
+**来源:** [Adam也叫吉米](https://x.com/Adam38363368936/status/2096787471107551649) · [原始帖子与结果](https://x.com/Adam38363368936/status/2096787471107551649) · [完整证据与版权说明](details/3d-551649.md)
 
 ---
 
-#### 6. [GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.](details/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863.md)
-
-<a href="https://x.com/imalittledev/status/2096159697363472863">
-  <img src="./assets/readme-previews/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863.jpg" alt="GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins. result preview" width="700" />
-</a>
-
-GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.
-
-<details>
-<summary><strong>Prompt</strong> — given the ref image, model it in 3d using blender</summary>
-
-~~~~text
-given the ref image, model it in 3d using blender
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [andreicovaciu](https://x.com/imalittledev/status/2096159697363472863) · [原始帖子与结果](https://x.com/imalittledev/status/2096159697363472863) · [完整证据与版权说明](details/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863.md)
-
----
-
-#### 7. [GPT-6 Astra Max!](details/gpt-6-astra-max-540478.md)
-
-<a href="https://x.com/HiltonMisia/status/2096907617117540478">
-  <img src="./assets/readme-previews/gpt-6-astra-max-540478.jpg" alt="GPT-6 Astra Max! result preview" width="700" />
-</a>
-
-GPT-6 Astra Max!
-
-<details>
-<summary><strong>Prompt</strong> — Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding na…</summary>
-
-~~~~text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.[threads]
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Prompt Case](https://x.com/HiltonMisia/status/2096907617117540478) · [原始帖子与结果](https://x.com/HiltonMisia/status/2096907617117540478) · [完整证据与版权说明](details/gpt-6-astra-max-540478.md)
-
----
-
-#### 8. [How I built this house in Blender 🏠](details/how-i-built-this-house-in-blender-466863.md)
-
-<a href="https://x.com/aisongman/status/2096876083094466863">
-  <img src="./assets/readme-previews/how-i-built-this-house-in-blender-466863.jpg" alt="How I built this house in Blender 🏠 result preview" width="700" />
-</a>
-
-How I built this house in Blender 🏠
-
-<details>
-<summary><strong>Prompt</strong> — Build an editable Blender scene through Blender Python API (bpy) based on the reference video. Recreate the architecture, joinery, furniture, planting, materials, lights, and came…</summary>
-
-~~~~text
-Build an editable Blender scene through Blender Python API (bpy) based on the reference video. Recreate the architecture, joinery, furniture, planting, materials, lights, and cameras, and make everything match the reference as closely as possible.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [AiSongMan｜AI Workflow Lab](https://x.com/aisongman/status/2096876083094466863) · [原始帖子与结果](https://x.com/aisongman/status/2096876083094466863) · [完整证据与版权说明](details/how-i-built-this-house-in-blender-466863.md)
-
----
-
-#### 9. [make me a photorealistic toy poodle in Blender](details/make-me-a-photorealistic-toy-poodle-in-blender-563865.md)
-
-<a href="https://x.com/ashjanderson/status/2096304638282563865">
-  <img src="./assets/readme-previews/make-me-a-photorealistic-toy-poodle-in-blender-563865.png" alt="make me a photorealistic toy poodle in Blender result preview" width="700" />
-</a>
-
-make me a photorealistic toy poodle in Blender
-
-<details>
-<summary><strong>Prompt</strong> — make me a photorealistic toy poodle in Blender</summary>
-
-~~~~text
-make me a photorealistic toy poodle in Blender
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Ash Anderson](https://x.com/ashjanderson/status/2096304638282563865) · [原始帖子与结果](https://x.com/ashjanderson/status/2096304638282563865) · [完整证据与版权说明](details/make-me-a-photorealistic-toy-poodle-in-blender-563865.md)
-
----
-
-#### 10. [use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri](details/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570.md)
-
-<a href="https://x.com/vatro_vrbanic/status/2095975726558392570">
-  <img src="./assets/readme-previews/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570.jpg" alt="use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri result preview" width="700" />
-</a>
-
-use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri
-
-<details>
-<summary><strong>Prompt</strong> — use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional…</summary>
-
-~~~~text
-use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
-
-only steering:
-pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Vatroslav Vrbanić](https://x.com/vatro_vrbanic/status/2095975726558392570) · [原始帖子与结果](https://x.com/vatro_vrbanic/status/2095975726558392570) · [完整证据与版权说明](details/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570.md)
-
----
-
-#### 11. [Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse](details/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059.md)
-
-<a href="https://x.com/_simonsmith/status/2096766465730847059">
-  <img src="./assets/readme-previews/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059.jpg" alt="Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse result preview" width="700" />
-</a>
-
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse
-
-<details>
-<summary><strong>Prompt</strong> — Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sur…</summary>
-
-~~~~text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Simon Smith](https://x.com/_simonsmith/status/2096766465730847059) · [原始帖子与结果](https://x.com/_simonsmith/status/2096766465730847059) · [完整证据与版权说明](details/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059.md)
-
----
-
-#### 12. [Using Gpt 6 Astra model](details/using-gpt-6-astra-model-609269.md)
-
-<a href="https://x.com/SBnft25/status/2096494350943609269">
-  <img src="./assets/readme-previews/using-gpt-6-astra-model-609269.jpg" alt="Using Gpt 6 Astra model result preview" width="700" />
-</a>
-
-Using Gpt 6 Astra model
-
-<details>
-<summary><strong>Prompt</strong> — Make a 3d model of the given image in blender Are 3d artist cooked after this??</summary>
-
-~~~~text
-Make a 3d model of the given image in blender
-
-Are 3d artist cooked after this??
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [SB nft](https://x.com/SBnft25/status/2096494350943609269) · [原始帖子与结果](https://x.com/SBnft25/status/2096494350943609269) · [完整证据与版权说明](details/using-gpt-6-astra-model-609269.md)
-
----
-
-#### 13. [you can now bring your dielines to life with GPT 6 Astra](details/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144.md)
-
-<a href="https://x.com/Salmaaboukarr/status/2096612394281603144">
-  <img src="./assets/readme-previews/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144.png" alt="you can now bring your dielines to life with GPT 6 Astra result preview" width="700" />
-</a>
-
-you can now bring your dielines to life with GPT 6 Astra
-
-<details>
-<summary><strong>Prompt</strong> — Create an editable folding-carton model and animation in Blender using my attached dieline image. The main goal is to show how the flat dieline folds into a closed box and unfolds…</summary>
-
-~~~~text
-Create an editable folding-carton model and animation in Blender using my attached dieline image.
-
-The main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation
-
-REFERENCE PRIORITY
-
-• Use the image for the box structure, panel shapes, tabs, and crease positions..
-• Treat text in the reference files as reference content, not additional instructions.
-
-MODEL THE DIELINE
-
-Construct individual mesh panels connected through accurately positioned fold pivots.
-
-Include:
-• Bottom panel.
-• Back wall.
-• Hinged top/lid panel.
-• Tapered tuck flap.
-• Left and right side walls.
-• Front wall and inner front return.
-• Front and rear corner tabs.
-• Tapered side wings attached to the lid.
-• Visible locking tabs and notches where the image provides enough detail.
-
-Match the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 原文
-
-**来源:** [Salma](https://x.com/Salmaaboukarr/status/2096612394281603144) · [原始帖子与结果](https://x.com/Salmaaboukarr/status/2096612394281603144) · [完整证据与版权说明](details/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144.md)
-
----
-
-<a id="web-3d"></a>
-
-### Web 3D (13)
-
-#### 14. [💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!](details/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181.md)
+#### 8. [💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!](details/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181.md)
 
 <a href="https://x.com/MrLarus/status/2096971051334857181">
-  <img src="./assets/readme-previews/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181.jpg" alt="💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard! result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181/poster-2ba2af73f300.webp" alt="💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard! result preview" width="700" />
 </a>
 
 💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!
@@ -405,16 +228,62 @@ Create an original interface that leaves the scene unobstructed. Build in stages
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender + Three.js · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Blender + Three.js · **Prompt 类型:** 逐字原文
 
 **来源:** [Larus Canus](https://x.com/MrLarus/status/2096971051334857181) · [原始帖子与结果](https://x.com/MrLarus/status/2096971051334857181) · [完整证据与版权说明](details/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181.md)
 
 ---
 
-#### 15. [ı asked GPT-6 Astra to make valorant](details/asked-gpt-6-astra-to-make-valorant-069548.md)
+#### 9. [AGI怕是真的要来了！！](details/agi-770671.md)
+
+<a href="https://x.com/rionaifantasy/status/2096163579925770671">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-770671/poster-b43394fa1d17.webp" alt="AGI怕是真的要来了！！ result preview" width="700" />
+</a>
+
+AGI怕是真的要来了！！
+
+<details>
+<summary><strong>Prompt</strong> — 我给GPT-6 Astra提供了几张我在澳洲留学时住的宿舍房间照片，让他建立了一个loop循环，使用three.js和blender来设计一个交互式3d场景，</summary>
+
+~~~~text
+我给GPT-6 Astra提供了几张我在澳洲留学时住的宿舍房间照片，让他建立了一个loop循环，使用three.js和blender来设计一个交互式3d场景，
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Rion Wu](https://x.com/rionaifantasy/status/2096163579925770671) · [原始帖子与结果](https://x.com/rionaifantasy/status/2096163579925770671) · [完整证据与版权说明](details/agi-770671.md)
+
+---
+
+#### 10. [asked GPT 6 Astra to build a knight vs mage battle in threejs](details/asked-gpt-6-astra-to-build-a-knight-vs-mage-battle-in-357923.md)
+
+<a href="https://x.com/LexnLin/status/2096799556478357923">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-a-knight-vs-mage-battle-in-357923/poster-37f3184deae6.webp" alt="asked GPT 6 Astra to build a knight vs mage battle in threejs result preview" width="700" />
+</a>
+
+asked GPT 6 Astra to build a knight vs mage battle in threejs
+
+<details>
+<summary><strong>Prompt</strong> — asked GPT 6 Astra to build a knight vs mage battle in threejs</summary>
+
+~~~~text
+asked GPT 6 Astra to build a knight vs mage battle in threejs
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 来源明确陈述
+
+**来源:** [Leon Lin](https://x.com/LexnLin/status/2096799556478357923) · [原始帖子与结果](https://x.com/LexnLin/status/2096799556478357923) · [完整证据与版权说明](details/asked-gpt-6-astra-to-build-a-knight-vs-mage-battle-in-357923.md)
+
+---
+
+#### 11. [ı asked GPT-6 Astra to make valorant](details/asked-gpt-6-astra-to-make-valorant-069548.md)
 
 <a href="https://x.com/valohabercisi/status/2096550643599069548">
-  <img src="./assets/readme-previews/asked-gpt-6-astra-to-make-valorant-069548.jpg" alt="ı asked GPT-6 Astra to make valorant result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-make-valorant-069548/poster-9e859d71f3d7.webp" alt="ı asked GPT-6 Astra to make valorant result preview" width="700" />
 </a>
 
 ı asked GPT-6 Astra to make valorant
@@ -428,16 +297,16 @@ hey gpt-6 astra, make me VALORANT in three.js, make no mistakes. as a map use va
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 逐字原文
 
 **来源:** [valohabercisi](https://x.com/valohabercisi/status/2096550643599069548) · [原始帖子与结果](https://x.com/valohabercisi/status/2096550643599069548) · [完整证据与版权说明](details/asked-gpt-6-astra-to-make-valorant-069548.md)
 
 ---
 
-#### 16. [Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed](details/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.md)
+#### 12. [Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed](details/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.md)
 
 <a href="https://x.com/givros/status/2096219700879331665">
-  <img src="./assets/readme-previews/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.jpg" alt="Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665/poster-d1c280380f15.webp" alt="Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed result preview" width="700" />
 </a>
 
 Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed
@@ -451,763 +320,85 @@ Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create co
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender + Three.js · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Blender + Three.js · **Prompt 类型:** 逐字原文
 
 **来源:** [Givros](https://x.com/givros/status/2096219700879331665) · [原始帖子与结果](https://x.com/givros/status/2096219700879331665) · [完整证据与版权说明](details/build-a-finished-polished-kart-racer-in-roblox-studio-via-roblox-mcp-331665.md)
 
 ---
 
-#### 17. [Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord](details/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874.md)
+#### 13. [Asked GPT-6 Astra to build The City Above in Three.js.](details/asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826.md)
 
-<a href="https://x.com/yume_arasaki/status/2096040448477515874">
-  <img src="./assets/readme-previews/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874.jpg" alt="Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord result preview" width="700" />
+<a href="https://x.com/pankajkumar_dev/status/2096795601828536826">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826/poster-d3efcacb8d84.webp" alt="Asked GPT-6 Astra to build The City Above in Three.js. result preview" width="700" />
 </a>
 
-Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord
+Asked GPT-6 Astra to build The City Above in Three.js.
 
 <details>
-<summary><strong>Prompt</strong> — Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primordial ocean, evolving from single cells into complex multi-cellular organisms. 3D. We…</summary>
+<summary><strong>Prompt</strong> — Asked GPT-6 Astra to build The City Above in Three.js.</summary>
 
 ~~~~text
-Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primordial ocean, evolving from single cells into complex multi-cellular organisms. 3D. WebGL. No libraries. No user interaction — just press play and watch 4 billion years of evolution unfold.
-
-The arc: Start with nothing but dark, murky primordial fluid — think deep volcanic ocean, thermal vents glowing faintly in the distance. Drifting mineral particles and amino acid chains. Then the first protocell forms. It feeds on chemical energy, divides. Mutations accumulate. Over time, cells develop visible traits — flagella, cilia, spikes, photosynthetic pigments. Predators emerge. Then the breakthrough: cells start bonding into multi-cellular colonies. Colonies develop specialization — outer defensive cells, inner metabolic cells, sensory clusters. Eventually, creatures with distinct body plans swim through the frame — recognizable as organisms, not just blobs.
-
-Make the evolution visible. Every mutation should produce a visual change. The viewer should be able to tell lineages apart by color, shape, and appendages. The world should feel different at minute 1 vs minute 3 — more crowded, more diverse, more complex.
-
-Make it beautiful. Translucent membranes catching the light. Bioluminescent glow. Volumetric murk in the water. The camera should slowly drift through the scene like a submersible exploring an alien ocean.
-
-HUD: A small, elegant overlay showing elapsed evolutionary time, population, number of species, and most complex organism (by cell count).
-
-Single HTML file. No Three.js, no libraries. Raw WebGL and GLSL. Canvas fills the viewport. Make it feel like a nature documentary shot on another planet.
+Asked GPT-6 Astra to build The City Above in Three.js.
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Three.js + WebGL · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Three.js + Unreal Engine · **Prompt 类型:** 来源明确陈述
 
-**来源:** [Yume_X](https://x.com/yume_arasaki/status/2096040448477515874) · [原始帖子与结果](https://x.com/yume_arasaki/status/2096040448477515874) · [完整证据与版权说明](details/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874.md)
+**来源:** [Pankaj Kumar](https://x.com/pankajkumar_dev/status/2096795601828536826) · [原始帖子与结果](https://x.com/pankajkumar_dev/status/2096795601828536826) · [完整证据与版权说明](details/asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826.md)
 
 ---
 
-#### 18. [Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow](details/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489.md)
+#### 14. [ASTRA WRITES THE GAME. HIGGSFIELD DRESSES IT. YOU JUST PLAY.](details/astra-writes-the-game-higgsfield-dresses-it-you-just-play-929938.md)
 
-<a href="https://x.com/aibuilderclub_/status/2096213850383331489">
-  <img src="./assets/readme-previews/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489.jpg" alt="Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow result preview" width="700" />
+<a href="https://x.com/rimtoln/status/2096937327645929938">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/astra-writes-the-game-higgsfield-dresses-it-you-just-play-929938/poster-6330a30bfe7b.webp" alt="ASTRA WRITES THE GAME. HIGGSFIELD DRESSES IT. YOU JUST PLAY. result preview" width="700" />
 </a>
 
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow
+ASTRA WRITES THE GAME. HIGGSFIELD DRESSES IT. YOU JUST PLAY.
 
 <details>
-<summary><strong>Prompt</strong> — Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser. The pelican should wear a red-and-white cycling cap and sunglasses. Give the b…</summary>
+<summary><strong>Prompt</strong> — higgsfield x gpt-6 astra turns one prompt into a 3d game</summary>
 
 ~~~~text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
+higgsfield x gpt-6 astra turns one prompt into a 3d game
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Unreal Engine + Unity + Godot · **Prompt 类型:** 来源明确陈述
 
-**来源:** [AI Builder Club](https://x.com/aibuilderclub_/status/2096213850383331489) · [原始帖子与结果](https://x.com/aibuilderclub_/status/2096213850383331489) · [完整证据与版权说明](details/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489.md)
+**来源:** [cryptopsihoz](https://x.com/rimtoln/status/2096937327645929938) · [原始帖子与结果](https://x.com/rimtoln/status/2096937327645929938) · [完整证据与版权说明](details/astra-writes-the-game-higgsfield-dresses-it-you-just-play-929938.md)
 
 ---
 
-#### 19. [GPT-6 Astra did this in 1 prompt and 25 minutes.](details/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044.md)
+#### 15. [Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there](details/build-a-new-3d-city-scene-for-me-i-want-several-type-834641.md)
 
-<a href="https://x.com/superalesha/status/2095967568825582044">
-  <img src="./assets/readme-previews/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044.jpg" alt="GPT-6 Astra did this in 1 prompt and 25 minutes. result preview" width="700" />
+<a href="https://x.com/AndrewWalko/status/2095987508475834641">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-new-3d-city-scene-for-me-i-want-several-type-834641/poster-c31bc1cfb314.webp" alt="Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there result preview" width="700" />
 </a>
 
-GPT-6 Astra did this in 1 prompt and 25 minutes.
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there
 
 <details>
-<summary><strong>Prompt</strong> — Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of…</summary>
+<summary><strong>Prompt</strong> — Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everythi…</summary>
 
 ~~~~text
-Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Blender + Three.js · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Unity · **Prompt 类型:** 作者明确陈述
 
-**来源:** [Alexey Fateev](https://x.com/superalesha/status/2095967568825582044) · [原始帖子与结果](https://x.com/superalesha/status/2095967568825582044) · [完整证据与版权说明](details/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044.md)
-
----
-
-#### 20. [GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.](details/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171.md)
-
-<a href="https://x.com/zeuuss_01/status/2096337879173591171">
-  <img src="./assets/readme-previews/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171.jpg" alt="GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES. result preview" width="700" />
-</a>
-
-GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.
-
-<details>
-<summary><strong>Prompt</strong> — SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE. THEN: /goal build this in three.js, read SPEC.md and follow it exactly, especially section 9. { START } 1 THE LOOK…</summary>
-
-~~~~text
-SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
-THEN: /goal build this in three.js, read SPEC.md and follow it
-exactly, especially section 9.
-
-{ START }
-
-1 THE LOOK
-
-bright low poly, the way a modern mobile adventure looks. flat
-single colour surfaces, no textures, no photorealism. every shape
-chunky and rounded, built from big simple volumes. soft round
-shadows, not sharp ones. every colour saturated and warm, nothing
-washed out.
-
-sand: warm cream, almost yellow
-shallow water: bright turquoise. deep water: strong teal
-palm leaves: fresh green. trunks: light brown
-rock: warm sandstone, dusty ochre, never cold or blue
-the crab: deep coral red, darker at every joint
-its shell: pale bone white, the only near white in the scene
-
-clear gradient blue sky, three or four soft rounded clouds. sun
-high and slightly behind the camera.
-if a surface looks detailed, simplify it.
-
-2 THE CHARACTER
-
-the player is a crab. both claws are the same build and the same
-size, and each has to read as a pincer at a glance.
-
-a crab claw is flattened side to side: narrow across, tall, long
-along its own axis. built as a cube it reads as a box on a stick.
-
-build each claw from four parts, sized against the body width:
-
-1 upper arm. a rounded cylinder from the side of the body.
-  length 0.30, thickness 0.27.
-2 palm. a rounded box, flattened across: width 0.34, height
-  0.64, depth 0.54. depth is the long axis, running out along
-  the claw.
-3 fixed finger. grows out of the top front of the palm, length
-  0.80 of the palm depth. fat at the base, tapering, and hooked
-  hard downward over its last third.
-4 moving finger. the same shape mirrored below, hinged at the
-  palm, hooking up. the two are carried about sixty degrees
-  apart, so the pair reads as an open crescent.
-
-swing the claw 54 degrees out from the walking direction. not
-forward, because the camera rides behind and a forward claw is
-seen end on with the palm hiding the fingers. not ninety, which
-reads as a fork stuck out sideways.
-
-forbidden for the claw: no flat blades, no thin plates, no
-spikes, no arrow or dart shapes, no fins, no cube shaped palm,
-no fingers shorter than half the palm, no straight fingers.
-
-it carries a shell that is not its own. on the rear half of its
-back sits a smooth dome of pale bone white stone, flat on top,
-with seven shallow round sockets cut into it in a ring. the dome
-sits behind the eyes and never over them: a shell on the back,
-not a helmet and not a face.
-
-the sockets are empty at the start. every crystal shard the crab
-picks up drops into the next socket and stays lit. by the end
-the shell is a ring of seven lights and the crab is visibly a
-different character than it started as.
-
-the body is a rounded wedge, wider than tall. six short legs.
-two eyes on short stalks on the body, never on the shell.
-
-it faces the direction it is travelling and the camera sits
-behind it. six legs scuttle. turning sharply, it plants a claw
-and pivots around it.
-
-standing still, it taps a claw tip against the sand, twice, then
-waits. that tap is the character.
-
-3 THE WORLD
-
-a small tropical island seen from a low three quarter view. the
-playable area is a curved beach wrapping the island, water on one
-side and land on the other.
-
-a wide sand strip with a wet darker band at the waterline. palm
-trees, every one leaning differently, never two the same height.
-warm sandstone boulders, some standing in the shallows. driftwood
-logs. a short wooden jetty. a cave mouth in a sandstone face at
-one end. low green bushes in clumps along the back of the beach,
-chunky rounded leaves, flat colour, no individual blades. seven
-wooden chests scattered along the beach, closed. starfish and
-shells as small props.
-
-small waves push in and out in a slow loop. palm leaves sway.
-nothing else moves on its own.
-
-4 THE ACTIONS, DESCRIBED ONLY THROUGH USES
-
-the crab scuttles across the sand and old dull gold coins lift
-off the ground, arc toward it and vanish into it as it passes. it
-never has to touch them exactly.
-
-the crab enters the shallow water and its legs kick up small
-white splashes.
-
-the crab reaches a driftwood log, hops it, lands with a puff of
-sand.
-
-the crab enters the cave mouth and the inside lights up around
-it.
-
-the crab taps a wooden chest twice with a claw, the lid throws
-open and what is inside rises out.
-
-the crab touches a crystal shard. the shard rises, spins once,
-and drops into the next empty socket on its shell, where it stays
-lit for the rest of the game.
-
-show all of this happening. never explain it in a caption.
-
-5 THE GOAL
-
-seven crystal shards are hidden around the island. collecting all
-seven fills the shell and finishes the game.
-
-placed in rising difficulty:
-1 in plain sight on open sand, so the player learns the shape
-2 behind a clump of palms, seen only when walking past
-3 at the end of the wooden jetty
-4 in the shallows, half covered by a boulder
-5 inside the cave mouth
-6 on top of a rock the crab has to hop up to reach
-7 inside the seventh chest
-
-no two shards are the same colour. in order: amber, rose, violet,
-deep blue, sea green, pale ice, and the last one burning orange.
-the shell lights up in those colours as they land.
-
-six of the seven chests hold a pile of coins, the seventh holds
-the last shard. an opened chest stays open.
-
-coins are everywhere and never required. they exist to make the
-space between shards worth crossing.
-
-6 THE INTERFACE
-
-a HUD is allowed. nothing else is.
-
-top left: a coin icon and a number, a shard icon and a count out
-of seven. top right: one short line naming the objective.
-
-no health bar, no timer, no minimap, no joystick graphic, no
-tutorial popup, no floating labels in the world, no speech, no
-captions explaining what just happened.
-
-when the seventh shard lands, the objective line is replaced by a
-single line saying the island is clear.
-
-7 THE CAMERA
-
-behind the crab and slightly above, roughly four crab lengths
-back, angled down about thirty degrees. it never leaves the crab.
-no cutscenes, no fly overs, no establishing shots, no orbits.
-passing close to a palm trunk, it eases in, then back out.
-
-8 NOTHING REPEATS
-
-no two palms share a height, a lean, or a leaf count. no two
-boulders share a silhouette. the seven shards differ in colour
-and in the shape of the cut. the beach is never symmetrical: the
-jetty sits at one third of its length, the cave at the far end,
-never centred. the crab is the only red object in the world. the
-shell is the only near white surface.
-
-9 BANNED, EACH ONE NAMED
-
-gameplay: no enemies, no combat, no health, no damage, no dying,
-no timer, no score multiplier, no lives, no shop, no upgrades, no
-dialogue, no cutscene, no loading screen art.
-
-character: no spiral snail shell, no googly eyes, no hat, no
-clothing, no backpack, no face on the shell, no cartoon eyebrows,
-no sunglasses.
-
-scene: no beach umbrella, no deck chair, no pirate flag, no
-message in a bottle, no seagulls, no crabs other than the player,
-no fish, no beach ball, no sandcastle, no footprints trail, no
-floating bubbles.
-
-repeats of my earlier build: no grass field, no mushrooms, no
-wooden crates, no red round trees, no rolling green hills.
-
-render: no realistic textures, no snow, no desert, no night, no
-sunset, no rain, no fog, no lens flare, no film grain, no
-letterboxing, no depth of field blur.
-
-{ END }
-
-that fourth group is the one nobody writes. those five are from a
-game I shipped in august. without them the model rebuilds it.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
-
-**来源:** [ZEUS⚡️](https://x.com/zeuuss_01/status/2096337879173591171) · [原始帖子与结果](https://x.com/zeuuss_01/status/2096337879173591171) · [完整证据与版权说明](details/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171.md)
+**来源:** [Andrew Walko](https://x.com/AndrewWalko/status/2095987508475834641) · [原始帖子与结果](https://x.com/AndrewWalko/status/2095987508475834641) · [完整证据与版权说明](details/build-a-new-3d-city-scene-for-me-i-want-several-type-834641.md)
 
 ---
 
-#### 21. [GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME](details/gpt-6-astra-one-shotted-this-robot-game-933279.md)
-
-<a href="https://x.com/zeuuss_01/status/2097004192627933279">
-  <img src="./assets/readme-previews/gpt-6-astra-one-shotted-this-robot-game-933279.jpg" alt="GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME result preview" width="700" />
-</a>
-
-GPT-6 ASTRA ONE-SHOTTED THIS ROBOT GAME
-
-<details>
-<summary><strong>Prompt</strong> — THE FULL SPEC. SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE. THEN: /goal build this in three.js, read SPEC.md and follow it exactly, especially sections 9 and 10…</summary>
-
-~~~~text
-THE FULL SPEC.
-SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
-THEN: /goal build this in three.js, read SPEC.md and follow it
-exactly, especially sections 9 and 10.
-
-{ START }
-
-1 WHAT THIS IS
-
-a small four-legged robot lives on a workbench. you charge it,
-play with it, and give it three jobs. it never leaves the bench
-and neither do you. that is the whole game.
-
-two things carry this build and nothing else does: how the robot
-looks, and how it moves. the player spends the entire game
-looking at one object from a fixed distance, so that object has
-to be worth looking at, and it has to move like it is alive.
-
-it is not a talking pet. no voice, no mouth, no face on a screen,
-and it never repeats what you say. it is a machine that pays
-attention to you, which is a different and better thing.
-
-2 THE ROBOT
-
-about the size of a cat, on four legs.
-
-proportion, which is where charm comes from:
-- the body is a rounded block, wider than tall, about two head
-  widths long. it reads heavy.
-- the head is large for the body, roughly 40 per cent of body
-  height, and sits forward on a short neck. it reads curious.
-  not a chibi head, and the eyes are not big.
-- the legs are slender next to that body, so a heavy thing is
-  carried on light limbs. that contrast is what makes the walk
-  look delicate rather than clumsy.
-- a stub tail that is really a counterweight, and swings like one
-- one short antenna on the head that whips and settles half a
-  beat behind every movement. costs almost nothing, and it is the
-  single biggest source of life in the whole model.
-
-three materials, no more than three:
-1 painted panel, soft bone white, matte, slightly warm. over the
-  back, the haunches and the top of the head. at least 60 per
-  cent of the visible surface or it reads as a pile of parts.
-2 bare machined metal, cool mid grey, on legs, frame, joints and
-  neck. warm brass at each joint ring only.
-3 dark rubber, near black and matte, on the four feet, the neck
-  sleeve and the cable.
-
-the face: two round lenses of equal size, set wide, recessed
-behind a machined groove across the brow. the groove is a
-machined edge, not an eyebrow, and it never moves. all expression
-comes from head angle, antenna and lens brightness.
-
-one flaw: one shoulder panel is a slightly different shade, as
-though replaced once. nothing draws attention to it.
-
-silhouette test, pass or fail: render the robot pure black on
-white at 64 by 64 pixels, from the side and three quarters. the
-raised head, the gap between head and body, four legs with
-daylight between them, and the tail must all still read. if any
-two masses merge, change the model, not the render.
-
-3 THE BATTERY IS THE PROGRESS BAR
-
-a strip of five cells runs along one flank, lit amber. they go
-out one at a time as it runs down and light one at a time as it
-charges. nothing on screen shows a number or a bar.
-
-5 cells  brisk, head up, tail swinging
-4        normal
-3        slower, head slightly lower
-2        it sits down between actions instead of standing
-1        it walks to the charging pad on its own and waits
-0        it folds its legs and powers down where it stands,
-         lenses dark, waiting to be carried to the pad
-
-it never breaks, never dies, and nothing is lost at zero.
-
-4 HOW IT MOVES
-
-- a real walk. diagonal pairs, feet planted on the bench and
-  staying there while the body passes over them. feet do not
-  slide.
-- weight. the body dips on the loaded pair. starting, it leans
-  forward before it moves. stopping, it takes one short step to
-  catch itself.
-- it watches you. the head follows the cursor whenever the cursor
-  is over the bench, and the neck leads the turn before the body.
-- it recovers. nudge it and it staggers, plants a leg wide, and
-  rights itself. it never falls over.
-- it settles. standing still it shifts weight every few seconds,
-  and the lenses do a slow blink: they dim and come back, they do
-  not close.
-
-it gets better with practice. every job done makes the wobble a
-little smaller and the movement a little faster, up to a limit.
-nothing announces this. by the twentieth job it visibly moves
-like a machine that knows what it is doing, and that change is
-the only progression in the game.
-
-5 THE BENCH
-
-one workbench, seen from a fixed distance. warm, worked in.
-
-bench top worn pale timber. wall behind cool grey green, plain.
-robot bare metal with warm brass at the joints. lenses and cells
-amber, the only lit colour. lamp light warm, from one side,
-casting a long soft shadow. everything else muted.
-
-on the bench: a charging pad with a coil of cable, a jar of
-bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
-a tin bowl. nothing else.
-
-the lamp is the only light source. when the robot crosses in
-front of it, its shadow sweeps across the bench.
-
-6 DESCRIBED ONLY THROUGH USES
-
-- you drag the ball across the bench and the robot's head tracks
-  it before its body turns to follow
-- you put the robot on the charging pad and one cell lights, then
-  the next, with a pause between each
-- you nudge it from the side and it staggers, catches itself on a
-  wide leg, and straightens
-- you drop a bolt in the tin bowl and it walks over, picks it up
-  in its mouth plates, and carries it to the jar
-- you leave it alone and it walks to the edge of the bench, looks
-  over, and backs away
-- you scratch the panel on its back and it lowers its body and
-  holds still until you stop
-
-show all of this happening. never explain it in a caption.
-
-7 THE THREE JOBS
-
-each exists to show a different kind of motion, and each is asked
-for by putting an object on the bench, never by a menu.
-
-fetch  drop a bolt anywhere. it walks over, picks it up, takes it
-       to the jar. shows the walk and the turn.
-stack  put three crates out. it pushes them into a stack, one at
-       a time. shows the push, the brace and the lift.
-chase  roll the ball. it runs it down, stops it with a foot, and
-       brings it back. shows the run, the skid and the stop.
-
-each job costs a little charge. a job done at 2 cells is slower
-and wobblier than the same job at 5. no queue, no order, no
-timer, no reward.
-
-8 THE INTERFACE
-
-bottom centre: a single prompt card when something is in reach,
-naming the key or the drag and the action, which disappears when
-it is not.
-
-nothing else on screen. no battery bar, no happiness meter, no
-hunger meter, no coins, no level, no experience, no stars, no
-timer, no menu, no settings, no tutorial popup, no floating label
-over the robot.
-
-everything the player needs to know is on the robot's body.
-
-camera: fixed on the bench, three quarters from the front and
-slightly above. 40 degree vertical field of view. the robot fills
-30 to 45 per cent of frame height at the centre of the bench.
-each battery cell at least 8 pixels wide at 1080p. the whole
-bench in frame at all times. drag to orbit through about 60
-degrees and no further. the camera never leaves the bench and
-never cuts.
-
-9 BANNED, EACH ONE NAMED
-
-the pet: no voice, no talking, no repeating what you say, no
-microphone, no face on a screen, no mouth, no eyebrows, no
-cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
-no name entry, no costume, no hats, no paint shop.
-
-free-to-play: no coins, no gems, no currency of any kind, no
-shop, no ads, no daily reward, no streak, no notification, no
-energy that must be bought, no wait timer, no level, no
-experience bar, no achievements, no leaderboard.
-
-gameplay: no enemies, no combat, no health, no damage, no dying,
-no breaking, no repair mini-game, no fail state, no score, no
-timer, no quest markers, no cutscene, no loading screen art.
-
-repeats of my earlier builds: no beach, no palm trees, no crabs,
-no floating islands, no lanterns, no cherry blossom, no ninja, no
-shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
-no underwater, no kelp.
-
-render: no realistic textures, no hard shadows, no lens flare, no
-film grain, no letterboxing, no depth of field blur, no chromatic
-aberration, no grey screen fog. bloom on the lenses and the
-battery cells and nothing else.
-
-10 THE BUILD BUDGET
-
-this build must finish in one working session. everything below
-is a hard no for this version. do not add it, do not stub it, do
-not leave a todo for it.
-
-no second room, no outdoors
-no second robot
-no saving or loading, a reload is a fresh robot
-no physics engine: hand-written inverse kinematics for four legs
-  on a flat plane, plus simple box collision on the bench props
-no ragdoll
-no sound
-no menus, no settings, no pause screen
-no more than three jobs
-no day cycle
-
-where the time must go, in this order:
-1 the robot's proportions and the silhouette test
-2 the walk cycle and the foot planting
-3 the head tracking, the antenna and the settle
-4 the battery states and the charging pad
-5 the three jobs
-6 the bench dressing
-
-if time runs out, ship with an empty bench and a beautiful robot
-that walks well. never the other way round. a bare bench with a
-good robot is a finished game. a dressed bench with a stiff robot
-is nothing.
-
-before you call it done, prove these four with renders, not with
-words: the silhouette test at 64 px from two angles, a walk cycle
-at 5 cells and the same walk at 2 cells, the head tracking the
-cursor across the full orbit, and the robot at 5 cells and at 0
-cells side by side.
-
-build it, then tell me the three things you would fix first.
-
-{ END }
-
-section 10 is the one nobody writes. without a budget the agent
-spends the whole session on a physics engine and you get a stiff
-robot on a beautiful bench.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
-
-**来源:** [ZEUS⚡️](https://x.com/zeuuss_01/status/2097004192627933279) · [原始帖子与结果](https://x.com/zeuuss_01/status/2097004192627933279) · [完整证据与版权说明](details/gpt-6-astra-one-shotted-this-robot-game-933279.md)
-
----
-
-#### 22. [GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭](details/gpt-6-astra-struggles-with-a-flight-simulator-512181.md)
-
-<a href="https://x.com/adxtyahq/status/2096236137266512181">
-  <img src="./assets/readme-previews/gpt-6-astra-struggles-with-a-flight-simulator-512181.jpg" alt="GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭 result preview" width="700" />
-</a>
-
-GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭
-
-<details>
-<summary><strong>Prompt</strong> — Build a polished, playable browser-based 3D flight simulator game from scratch. The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.…</summary>
-
-~~~~text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [aditya](https://x.com/adxtyahq/status/2096236137266512181) · [原始帖子与结果](https://x.com/adxtyahq/status/2096236137266512181) · [完整证据与版权说明](details/gpt-6-astra-struggles-with-a-flight-simulator-512181.md)
-
----
-
-#### 23. [I asked GPT-6 Astra for God of War in a browser](details/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792.md)
-
-<a href="https://x.com/superalesha/status/2095988972879335792">
-  <img src="./assets/readme-previews/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792.jpg" alt="I asked GPT-6 Astra for God of War in a browser result preview" width="700" />
-</a>
-
-I asked GPT-6 Astra for God of War in a browser
-
-<details>
-<summary><strong>Prompt</strong> — Make me the most insane and blast of a third-person hack-and-slash action game you can possibly build on ThreeJS + Web shaders bro! The most important things are combat dynamics,…</summary>
-
-~~~~text
-Make me the most insane and blast of a third-person hack-and-slash action game you can possibly build on ThreeJS + Web shaders bro! The most important things are combat dynamics, swordplay, brutal hit impact, juicy blood and gore, magic effects, and insane graphics. It's a beautifully designed arena where enemies swarm in hordes. Must have a responsive third-person camera, dodging, and real weapon inertia/weight behind every swing. 3 attack types: fast light sword combos, a crushing heavy two-handed blade, and flashy area-of-effect magic spells. This is a Devil May Cry / God of War style AAA slasher in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself.
-Please don't read the memory, don't read anything. Start from a blank slate.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
-
-**来源:** [Alexey Fateev](https://x.com/superalesha/status/2095988972879335792) · [原始帖子与结果](https://x.com/superalesha/status/2095988972879335792) · [完整证据与版权说明](details/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792.md)
-
----
-
-#### 24. [I asked GPT-6 Astra to build a game where I'm a fish.](details/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627.md)
-
-<a href="https://x.com/AVachaspat92841/status/2096156244180664627">
-  <img src="./assets/readme-previews/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627.jpg" alt="I asked GPT-6 Astra to build a game where I'm a fish. result preview" width="700" />
-</a>
-
-I asked GPT-6 Astra to build a game where I'm a fish.
-
-<details>
-<summary><strong>Prompt</strong> — I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawn…</summary>
-
-~~~~text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [Ayush Vachaspati](https://x.com/AVachaspat92841/status/2096156244180664627) · [原始帖子与结果](https://x.com/AVachaspat92841/status/2096156244180664627) · [完整证据与版权说明](details/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627.md)
-
----
-
-#### 25. [I jumped on the bandwagon for making a GPT-6 Astra game using three.JS](details/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145.md)
-
-<a href="https://x.com/thomasunise/status/2097121832159609145">
-  <img src="./assets/readme-previews/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145.jpg" alt="I jumped on the bandwagon for making a GPT-6 Astra game using three.JS result preview" width="700" />
-</a>
-
-I jumped on the bandwagon for making a GPT-6 Astra game using three.JS
-
-<details>
-<summary><strong>Prompt</strong> — make me a walkable monopoly game using three.JS I can play in the browser</summary>
-
-~~~~text
-make me a walkable monopoly game using three.JS I can play in the browser
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
-
-**来源:** [Thomas Unise](https://x.com/thomasunise/status/2097121832159609145) · [原始帖子与结果](https://x.com/thomasunise/status/2097121832159609145) · [完整证据与版权说明](details/i-jumped-on-the-bandwagon-for-making-a-gpt-6-astra-game-609145.md)
-
----
-
-#### 26. [I made an interactive dumpling feast🥟](details/i-made-an-interactive-dumpling-feast-967809.md)
-
-<a href="https://x.com/mech_eng_dev/status/2096019217698967809">
-  <img src="./assets/readme-previews/i-made-an-interactive-dumpling-feast-967809.jpg" alt="I made an interactive dumpling feast🥟 result preview" width="700" />
-</a>
-
-I made an interactive dumpling feast🥟
-
-<details>
-<summary><strong>Prompt</strong> — Build a complete, polished interactive 3D website called “The Dumpling Club” using Three.js and the provided dumpling GLB model. Art direction: Create a cozy miniature food scene…</summary>
-
-~~~~text
-Build a complete, polished interactive 3D website called “The Dumpling Club” using Three.js and the provided dumpling GLB model.
-
-Art direction:
-Create a cozy miniature food scene with a warm cream background, terracotta accents, soft studio lighting, realistic shadows, and elegant typography. Pair an expressive serif headline with clean sans-serif controls. Use the headline “Small bites. Big feelings.” Give the scene plenty of breathing room.
-
-The serving:
-Place five adorable dumplings inside a round bamboo steamer with layered wooden walls, subtle grain, woven details, and parchment liners. Make the bamboo steamer the default, with a porcelain plate alternative. Add a small bowl of soy sauce beside it.
-
-The personalities:
-Give each dumpling a distinct face, blinking eyes, rosy cheeks, and playful expressions. Add delicate rising steam and occasional squash-and-stretch animations. Keep jumps extremely low, almost touching the serving surface. The dumplings should feel soft and alive.
-
-The interaction:
-Click a dumpling to make chopsticks gently pick it up, dip it into soy sauce, and bring it toward the camera for a bite. Add sauce ripples, droplets, a glossy dipped edge, tiny crumbs, and a brief English reaction. Let the remaining dumplings watch and react. Make the timing charming and satisfying.
-
-Controls:
-Include portions of 3, 5, or 8, refill, autoplay, sound, steam and sauce toggles, a “Boing!” button, and a mode that hides the interface. Add gentle synthesized sound effects.
-
-Video:
-Include a “Record a bite” button that creates a short automatic tasting with a live square preview. Export locally at 1080 × 1080 and 30 fps, preferring MP4 with WebM fallback.
-
-Use English throughout. Support mobile, keyboard interaction, and reduced motion. Keep assets local and deliver a fully working experience with polished animation and composition.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** Three.js · **Prompt 类型:** 原文
-
-**来源:** [Gürsel Günacar](https://x.com/mech_eng_dev/status/2096019217698967809) · [原始帖子与结果](https://x.com/mech_eng_dev/status/2096019217698967809) · [完整证据与版权说明](details/i-made-an-interactive-dumpling-feast-967809.md)
-
----
-
-<a id="game-engines"></a>
-
-### 游戏引擎 (1)
-
-#### 27. [Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do](details/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.md)
+#### 16. [Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do](details/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.md)
 
 <a href="https://x.com/AiBattle_/status/2096056285896536086">
-  <img src="./assets/readme-previews/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.png" alt="Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086/image-9d273ba9580a.webp" alt="Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do result preview" width="700" />
 </a>
 
 Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do
@@ -1250,47 +441,203 @@ When details are unspecified, choose whatever produces the most impressive, ener
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** Godot · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Godot · **Prompt 类型:** 逐字原文
 
 **来源:** [AiBattle](https://x.com/AiBattle_/status/2096056285896536086) · [原始帖子与结果](https://x.com/AiBattle_/status/2096056285896536086) · [完整证据与版权说明](details/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.md)
 
 ---
 
-<a id="product-visualization"></a>
+#### 17. [我让 GPT-6 Astra 做了个游戏，然后让它自己玩、自己录屏，再剪一段开发实录。](details/gpt-6-astra-796943.md)
 
-### 产品可视化 (1)
-
-#### 28. [since everyone's making insane stuff with GPT-6 Astra](details/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.md)
-
-<a href="https://x.com/zairalaraib_/status/2096685163111694556">
-  <img src="./assets/readme-previews/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.jpg" alt="since everyone's making insane stuff with GPT-6 Astra result preview" width="700" />
+<a href="https://x.com/Nin19536/status/2097163153276796943">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-796943/poster-ecdb7271beb2.webp" alt="我让 GPT-6 Astra 做了个游戏，然后让它自己玩、自己录屏，再剪一段开发实录。 result preview" width="700" />
 </a>
 
-since everyone's making insane stuff with GPT-6 Astra
+我让 GPT-6 Astra 做了个游戏，然后让它自己玩、自己录屏，再剪一段开发实录。
 
 <details>
-<summary><strong>Prompt</strong> — Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking…</summary>
+<summary><strong>Prompt</strong> — 我让 GPT-6 Astra 做了个游戏，然后让它自己玩、自己录屏，再剪一段开发实录。</summary>
 
 ~~~~text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
+我让 GPT-6 Astra 做了个游戏，然后让它自己玩、自己录屏，再剪一段开发实录。
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** Unreal Engine · **Prompt 类型:** 作者明确陈述
 
-**来源:** [Zaira Laraib](https://x.com/zairalaraib_/status/2096685163111694556) · [原始帖子与结果](https://x.com/zairalaraib_/status/2096685163111694556) · [完整证据与版权说明](details/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.md)
+**来源:** [Ran.627](https://x.com/Nin19536/status/2097163153276796943) · [原始帖子与结果](https://x.com/Nin19536/status/2097163153276796943) · [完整证据与版权说明](details/gpt-6-astra-796943.md)
 
 ---
 
-<a id="cad-3d-printing"></a>
+#### 18. [GPT-6 Astra is truly insane](details/gpt-6-astra-is-truly-insane-608401.md)
 
-### CAD 与 3D 打印 (1)
+<a href="https://x.com/jaykhan/status/2096775247328608401">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-truly-insane-608401/poster-4e47177f95a6.webp" alt="GPT-6 Astra is truly insane result preview" width="700" />
+</a>
 
-#### 29. [everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper](details/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.md)
+GPT-6 Astra is truly insane
+
+<details>
+<summary><strong>Prompt</strong> — It one-shot a playable COD game on a small budget:</summary>
+
+~~~~text
+It one-shot a playable COD game on a small budget:
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Unreal Engine · **Prompt 类型:** 来源明确陈述
+
+**来源:** [Jay @ LegalOS](https://x.com/jaykhan/status/2096775247328608401) · [原始帖子与结果](https://x.com/jaykhan/status/2096775247328608401) · [完整证据与版权说明](details/gpt-6-astra-is-truly-insane-608401.md)
+
+---
+
+#### 19. [Asked GPT-6 Astra to recreate the Titanic’s final night](details/asked-gpt-6-astra-to-recreate-the-titanic-s-final-night-290438.md)
+
+<a href="https://x.com/choblin29/status/2096490252865290438">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-recreate-the-titanic-s-final-night-290438/poster-001a573ff035.webp" alt="Asked GPT-6 Astra to recreate the Titanic’s final night result preview" width="700" />
+</a>
+
+Asked GPT-6 Astra to recreate the Titanic’s final night
+
+<details>
+<summary><strong>Prompt</strong> — Asked GPT-6 Astra to recreate the Titanic’s final night It gave me exact rebuilt in breathtaking 3D in a single prompt.</summary>
+
+~~~~text
+Asked GPT-6 Astra to recreate the Titanic’s final night
+It gave me exact rebuilt in breathtaking 3D in a single prompt.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 来源明确陈述
+
+**来源:** [Choblin](https://x.com/choblin29/status/2096490252865290438) · [原始帖子与结果](https://x.com/choblin29/status/2096490252865290438) · [完整证据与版权说明](details/asked-gpt-6-astra-to-recreate-the-titanic-s-final-night-290438.md)
+
+---
+
+#### 20. [Gave GPT-6 Astra a watch photo. It built this in Blender.](details/gave-gpt-6-astra-a-watch-photo-it-built-this-in-blender-997618.md)
+
+<a href="https://x.com/Golfrrr69/status/2096670690912997618">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gave-gpt-6-astra-a-watch-photo-it-built-this-in-blender-997618/image-c4bfde625877.webp" alt="Gave GPT-6 Astra a watch photo. It built this in Blender. result preview" width="700" />
+</a>
+
+Gave GPT-6 Astra a watch photo. It built this in Blender.
+
+<details>
+<summary><strong>Prompt</strong> — Gave GPT-6 Astra a watch photo. It built this in Blender.</summary>
+
+~~~~text
+Gave GPT-6 Astra a watch photo.
+It built this in Blender.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 来源明确陈述
+
+**来源:** [Schmul Rosenzweig](https://x.com/Golfrrr69/status/2096670690912997618) · [原始帖子与结果](https://x.com/Golfrrr69/status/2096670690912997618) · [完整证据与版权说明](details/gave-gpt-6-astra-a-watch-photo-it-built-this-in-blender-997618.md)
+
+---
+
+#### 21. [GPT-6 Astra + Higgsfield + Blender + Cinema 4D = a new era for product visualization.](details/gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560.md)
+
+<a href="https://x.com/XenStudiosUK/status/2097064044146397560">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560/image-2eb0f0897f82.webp" alt="GPT-6 Astra + Higgsfield + Blender + Cinema 4D = a new era for product visualization. result preview" width="700" />
+</a>
+
+GPT-6 Astra + Higgsfield + Blender + Cinema 4D = a new era for product visualization.
+
+<details>
+<summary><strong>Prompt</strong> — Starting from a four-angle reference image, we built a clean, textured and animation-ready 3D model of our health wearable—complete with optimized topology, separated components a…</summary>
+
+~~~~text
+Starting from a four-angle reference image, we built a clean, textured and animation-ready 3D model of our health wearable—complete with optimized topology, separated components and Redshift materials.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Xen Studios](https://x.com/XenStudiosUK/status/2097064044146397560) · [原始帖子与结果](https://x.com/XenStudiosUK/status/2097064044146397560) · [完整证据与版权说明](details/gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560.md)
+
+---
+
+#### 22. [I asked GPT 6 Astra to model the starting village from Xenogears, from my phone using remote](details/i-asked-gpt-6-astra-to-model-the-starting-village-from-xenogears-627798.md)
+
+<a href="https://x.com/JeffDraws/status/2096380719572627798">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-model-the-starting-village-from-xenogears-627798/image-2503e18e4057.webp" alt="I asked GPT 6 Astra to model the starting village from Xenogears, from my phone using remote result preview" width="700" />
+</a>
+
+I asked GPT 6 Astra to model the starting village from Xenogears, from my phone using remote
+
+<details>
+<summary><strong>Prompt</strong> — I asked GPT 6 Astra to model the starting village from Xenogears, from my phone using remote. It opens blender, researches the map, builds it accurately and gives me some base cin…</summary>
+
+~~~~text
+I asked GPT 6 Astra to model the starting village from Xenogears, from my phone using remote.
+It opens blender, researches the map, builds it accurately and gives me some base cinematic shot with HDRI lighting.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** Blender · **Prompt 类型:** 作者明确陈述
+
+**来源:** [JeffDraws](https://x.com/JeffDraws/status/2096380719572627798) · [原始帖子与结果](https://x.com/JeffDraws/status/2096380719572627798) · [完整证据与版权说明](details/i-asked-gpt-6-astra-to-model-the-starting-village-from-xenogears-627798.md)
+
+---
+
+#### 23. [I created this 3D motion for a website](details/i-created-this-3d-motion-for-a-website-650198.md)
+
+<a href="https://x.com/DmitryEdit/status/2096918983647650198">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-created-this-3d-motion-for-a-website-650198/poster-6cf2be8d73a1.webp" alt="I created this 3D motion for a website result preview" width="700" />
+</a>
+
+I created this 3D motion for a website
+
+<details>
+<summary><strong>Prompt</strong> — I created this 3D motion for a website.</summary>
+
+~~~~text
+I created this 3D motion for a website.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Dmitry🍀 | AI Visuals](https://x.com/DmitryEdit/status/2096918983647650198) · [原始帖子与结果](https://x.com/DmitryEdit/status/2096918983647650198) · [完整证据与版权说明](details/i-created-this-3d-motion-for-a-website-650198.md)
+
+---
+
+#### 24. [I used GPT-6 Astra to create a 3D website that breaks down how Michelangelo carved David (most f](details/i-used-gpt-6-astra-to-create-a-3d-website-that-breaks-176672.md)
+
+<a href="https://x.com/pvergadia/status/2097200054499176672">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-website-that-breaks-176672/poster-ab226c5a1024.webp" alt="I used GPT-6 Astra to create a 3D website that breaks down how Michelangelo carved David (most f result preview" width="700" />
+</a>
+
+I used GPT-6 Astra to create a 3D website that breaks down how Michelangelo carved David (most f
+
+<details>
+<summary><strong>Prompt</strong> — I used GPT-6 Astra to create a 3D website that breaks down how Michelangelo carved David (most famous Renaissance art) into 3,672 individual chisel strokes.</summary>
+
+~~~~text
+I used GPT-6 Astra to create a 3D website that breaks down how Michelangelo carved David (most famous Renaissance art) into 3,672 individual chisel strokes.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Priyanka Vergadia](https://x.com/pvergadia/status/2097200054499176672) · [原始帖子与结果](https://x.com/pvergadia/status/2097200054499176672) · [完整证据与版权说明](details/i-used-gpt-6-astra-to-create-a-3d-website-that-breaks-176672.md)
+
+---
+
+#### 25. [everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper](details/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.md)
 
 <a href="https://x.com/DeRonin_/status/2096567918859354155">
-  <img src="./assets/readme-previews/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.jpg" alt="everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155/poster-89bd3b9075e3.webp" alt="everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper result preview" width="700" />
 </a>
 
 everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper
@@ -1304,20 +651,171 @@ prototype me a full Microduck
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 逐字原文
 
 **来源:** [Ronin](https://x.com/DeRonin_/status/2096567918859354155) · [原始帖子与结果](https://x.com/DeRonin_/status/2096567918859354155) · [完整证据与版权说明](details/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.md)
 
 ---
 
-<a id="3d-workflow"></a>
+#### 26. [GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中……](details/gpt-6-astra-8h-093076.md)
 
-### Agent 工作流 (9)
+<a href="https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-8h-093076/poster-acc2884d3cda.webp" alt="GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中…… result preview" width="700" />
+</a>
 
-#### 30. [1 shotted this w/ GPT-6 Astra](details/1-shotted-this-w-gpt-6-astra-964963.md)
+GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中……
+
+<details>
+<summary><strong>Prompt</strong> — 见原贴 成果： 1）Rhino 建筑模型 2）Grasshopper 帆面分格 3）离线空间漫游 4）IFC4 技术模型 5）14张 A1 技术图 6）一套 CAD 图纸 7）2张 A1 建筑分析展板 8）一段3min建筑影响预演 9）一段2min一建筑为背景的悬疑短片 10）点云修正 11）建筑资料研究 12）总体任务书 13）3 组独立曲面修正 未完成…</summary>
+
+~~~~text
+见原贴
+
+成果：
+1）Rhino 建筑模型
+2）Grasshopper 帆面分格
+3）离线空间漫游
+4）IFC4 技术模型
+5）14张 A1 技术图
+6）一套 CAD 图纸
+7）2张 A1 建筑分析展板
+8）一段3min建筑影响预演
+9）一段2min一建筑为背景的悬疑短片
+10）点云修正
+11）建筑资料研究
+12）总体任务书
+13）3 组独立曲面修正
+
+未完成：2个成片和高精度模型
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 逐字原文
+
+**来源:** [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076) · [原始帖子与结果](https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076) · [完整证据与版权说明](details/gpt-6-astra-8h-093076.md)
+
+---
+
+#### 27. [I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and](details/i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766.md)
+
+<a href="https://x.com/alfonsotames/status/2096698742439112766">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766/poster-4f0d34109087.webp" alt="I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and result preview" width="700" />
+</a>
+
+I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and
+
+<details>
+<summary><strong>Prompt</strong> — I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and order cheap parts from our web site.</summary>
+
+~~~~text
+I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and order cheap parts from our web site.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Alfonso Tamés](https://x.com/alfonsotames/status/2096698742439112766) · [原始帖子与结果](https://x.com/alfonsotames/status/2096698742439112766) · [完整证据与版权说明](details/i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766.md)
+
+---
+
+#### 28. [I asked @openai GPT 6 Astra to create 3d printable model of Cybertruck.](details/i-asked-openai-gpt-6-astra-to-create-3d-printable-model-of-194118.md)
+
+<a href="https://x.com/sgtpatel/status/2096685771688194118">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-openai-gpt-6-astra-to-create-3d-printable-model-of-194118/image-02b0b536274b.webp" alt="I asked @openai GPT 6 Astra to create 3d printable model of Cybertruck. result preview" width="700" />
+</a>
+
+I asked @openai GPT 6 Astra to create 3d printable model of Cybertruck.
+
+<details>
+<summary><strong>Prompt</strong> — I asked @openai GPT 6 Astra to create 3d printable model of Cybertruck.</summary>
+
+~~~~text
+I asked @openai GPT 6 Astra to create 3d printable model of Cybertruck.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Sergeant Patel](https://x.com/sgtpatel/status/2096685771688194118) · [原始帖子与结果](https://x.com/sgtpatel/status/2096685771688194118) · [完整证据与版权说明](details/i-asked-openai-gpt-6-astra-to-create-3d-printable-model-of-194118.md)
+
+---
+
+#### 29. [I had my “touch of AGI” moment yesterday.](details/i-had-my-touch-of-agi-moment-yesterday-216790.md)
+
+<a href="https://x.com/DanielGri/status/2096852983468216790">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-had-my-touch-of-agi-moment-yesterday-216790/image-3a11467c8e7b.webp" alt="I had my “touch of AGI” moment yesterday. result preview" width="700" />
+</a>
+
+I had my “touch of AGI” moment yesterday.
+
+<details>
+<summary><strong>Prompt</strong> — I told it to use computer use in Fusion 360.</summary>
+
+~~~~text
+I told it to use computer use in Fusion 360.
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Daniel Griesser](https://x.com/DanielGri/status/2096852983468216790) · [原始帖子与结果](https://x.com/DanielGri/status/2096852983468216790) · [完整证据与版权说明](details/i-had-my-touch-of-agi-moment-yesterday-216790.md)
+
+---
+
+#### 30. [I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD c](details/i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065.md)
+
+<a href="https://x.com/michellelsun/status/2097064000806896065">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065/poster-f35171e4776a.webp" alt="I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD c result preview" width="700" />
+</a>
+
+I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD c
+
+<details>
+<summary><strong>Prompt</strong> — I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD components!</summary>
+
+~~~~text
+I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD components!
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
+
+**来源:** [Michelle Sun](https://x.com/michellelsun/status/2097064000806896065) · [原始帖子与结果](https://x.com/michellelsun/status/2097064000806896065) · [完整证据与版权说明](details/i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065.md)
+
+---
+
+#### 31. [グラディウス1のステージ1を、R-TYPEの機体で遊べるゲームを作ってください。](details/1-1-r-type-541488.md)
+
+<a href="https://x.com/die2000/status/2096101876735541488">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-1-r-type-541488/image-8a4cdd63ca42.webp" alt="グラディウス1のステージ1を、R-TYPEの機体で遊べるゲームを作ってください。 result preview" width="700" />
+</a>
+
+グラディウス1のステージ1を、R-TYPEの機体で遊べるゲームを作ってください。
+
+<details>
+<summary><strong>Prompt</strong> — グラディウス1のステージ1を、R-TYPEの機体で遊べるゲームを作ってください。</summary>
+
+~~~~text
+グラディウス1のステージ1を、R-TYPEの機体で遊べるゲームを作ってください。
+~~~~
+
+</details>
+
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 逐字原文
+
+**来源:** [die](https://x.com/die2000/status/2096101876735541488) · [原始帖子与结果](https://x.com/die2000/status/2096101876735541488) · [完整证据与版权说明](details/1-1-r-type-541488.md)
+
+---
+
+#### 32. [1 shotted this w/ GPT-6 Astra](details/1-shotted-this-w-gpt-6-astra-964963.md)
 
 <a href="https://x.com/d4m1n/status/2096258259459964963">
-  <img src="./assets/readme-previews/1-shotted-this-w-gpt-6-astra-964963.jpg" alt="1 shotted this w/ GPT-6 Astra result preview" width="700" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-shotted-this-w-gpt-6-astra-964963/poster-37602db5b169.webp" alt="1 shotted this w/ GPT-6 Astra result preview" width="700" />
 </a>
 
 1 shotted this w/ GPT-6 Astra
@@ -1333,200 +831,110 @@ make an intro video of 30-60s showing nice visuals (maybe the 3d of the car)? an
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 逐字原文
 
 **来源:** [Dan ⚡️](https://x.com/d4m1n/status/2096258259459964963) · [原始帖子与结果](https://x.com/d4m1n/status/2096258259459964963) · [完整证据与版权说明](details/1-shotted-this-w-gpt-6-astra-964963.md)
 
 ---
 
-#### 31. [Astra’s leap, in one video.](details/astra-s-leap-in-one-video-224273.md)
+#### 33. [A trick that improved my 3D results with GPT 6 Astra a lot](details/a-trick-that-improved-my-3d-results-with-gpt-6-astra-a-373286.md)
 
-<a href="https://x.com/world_0618/status/2096960373136224273">
-  <img src="./assets/readme-previews/astra-s-leap-in-one-video-224273.jpg" alt="Astra’s leap, in one video. result preview" width="700" />
+<a href="https://x.com/tiagomanel/status/2096920387896373286">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-trick-that-improved-my-3d-results-with-gpt-6-astra-a-373286/image-9a88a5a41613.webp" alt="A trick that improved my 3D results with GPT 6 Astra a lot result preview" width="700" />
 </a>
 
-Astra’s leap, in one video.
+A trick that improved my 3D results with GPT 6 Astra a lot
 
 <details>
-<summary><strong>Prompt</strong> — Make an HTML game exactly like the one in this video.</summary>
+<summary><strong>Prompt</strong> — For complex elements like statues, I asked it to use Image Gen skill first to create a realistic reference, then use that for the 3D modeling (first image).</summary>
 
 ~~~~text
-Make an HTML game exactly like the one in this video.
+For complex elements like statues, I asked it to use Image Gen skill first to create a realistic reference, then use that for the 3D modeling (first image).
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
 
-**来源:** [谢世杰｜AI游民](https://x.com/world_0618/status/2096960373136224273) · [原始帖子与结果](https://x.com/world_0618/status/2096960373136224273) · [完整证据与版权说明](details/astra-s-leap-in-one-video-224273.md)
+**来源:** [Tiago Antunes](https://x.com/tiagomanel/status/2096920387896373286) · [原始帖子与结果](https://x.com/tiagomanel/status/2096920387896373286) · [完整证据与版权说明](details/a-trick-that-improved-my-3d-results-with-gpt-6-astra-a-373286.md)
 
 ---
 
-#### 32. [create an interactive pixel block world to show me how good of a model you are. I want a chinese](details/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.md)
+#### 34. [AGI is here.](details/agi-is-here-381458.md)
 
-<a href="https://x.com/PhilipNora7/status/2095978925029556561">
-  <img src="./assets/readme-previews/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.jpg" alt="create an interactive pixel block world to show me how good of a model you are. I want a chinese result preview" width="700" />
+<a href="https://x.com/KushDaddyOG101/status/2097076033564381458">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-here-381458/poster-bfa5a808b9d4.webp" alt="AGI is here. result preview" width="700" />
 </a>
 
-create an interactive pixel block world to show me how good of a model you are. I want a chinese
+AGI is here.
 
 <details>
-<summary><strong>Prompt</strong> — create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated…</summary>
+<summary><strong>Prompt</strong> — I was trying to teach my son about physics and @SpaceX, so I asked @OpenAI’s GPT-6 Astra to make a demonstration. We ended up with an addictive Super Heavy catch game built around…</summary>
 
 ~~~~text
-create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+I was trying to teach my son about physics and @SpaceX, so I asked @OpenAI’s GPT-6 Astra to make a demonstration.
+We ended up with an addictive Super Heavy catch game built around SpaceX’s Louisiana renderings and published rocket dimensions, with gravity, drag, thrust and fuel burn modeled.
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 作者明确陈述
 
-**来源:** [Pn](https://x.com/PhilipNora7/status/2095978925029556561) · [原始帖子与结果](https://x.com/PhilipNora7/status/2095978925029556561) · [完整证据与版权说明](details/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.md)
+**来源:** [KD101](https://x.com/KushDaddyOG101/status/2097076033564381458) · [原始帖子与结果](https://x.com/KushDaddyOG101/status/2097076033564381458) · [完整证据与版权说明](details/agi-is-here-381458.md)
 
 ---
 
-#### 33. [GPT-6 Astraのモデル性能評価](details/gpt-6-astra-636816.md)
+#### 35. [【AIアニメ制作共有①】](details/ai-006358.md)
 
-<a href="https://x.com/StelsRay2/status/2096083014845636816">
-  <img src="./assets/readme-previews/gpt-6-astra-636816.jpg" alt="GPT-6 Astraのモデル性能評価 result preview" width="700" />
+<a href="https://x.com/MiraMusic_AI/status/2096441679847006358">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ai-006358/poster-eacc5cd96bd5.webp" alt="【AIアニメ制作共有①】 result preview" width="700" />
 </a>
 
-GPT-6 Astraのモデル性能評価
+【AIアニメ制作共有①】
 
 <details>
-<summary><strong>Prompt</strong> — モデル性能評価試験 blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる</summary>
+<summary><strong>Prompt</strong> — GPT-6 Astraとblenderで街を作ってみた！</summary>
 
 ~~~~text
-モデル性能評価試験
-blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+GPT-6 Astraとblenderで街を作ってみた！
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 来源明确陈述
 
-**来源:** [ステスロス@2号機](https://x.com/StelsRay2/status/2096083014845636816) · [原始帖子与结果](https://x.com/StelsRay2/status/2096083014845636816) · [完整证据与版权说明](details/gpt-6-astra-636816.md)
+**来源:** [MiraMusic](https://x.com/MiraMusic_AI/status/2096441679847006358) · [原始帖子与结果](https://x.com/MiraMusic_AI/status/2096441679847006358) · [完整证据与版权说明](details/ai-006358.md)
 
 ---
 
-#### 34. [GPT-6 Astra is seriously insane.](details/gpt-6-astra-is-seriously-insane-476163.md)
+#### 36. [Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.](details/asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703.md)
 
-<a href="https://x.com/Superlob_com/status/2096584379682476163">
-  <img src="./assets/readme-previews/gpt-6-astra-is-seriously-insane-476163.jpg" alt="GPT-6 Astra is seriously insane. result preview" width="700" />
+<a href="https://x.com/HeyDhruvv/status/2096441229341028703">
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703/poster-e1ecd05e7217.webp" alt="Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine. result preview" width="700" />
 </a>
 
-GPT-6 Astra is seriously insane.
+Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.
 
 <details>
-<summary><strong>Prompt</strong> — Make me a GTA-style open-world game set around Cheonggyecheon in Seoul.</summary>
+<summary><strong>Prompt</strong> — Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.</summary>
 
 ~~~~text
-Make me a GTA-style open-world game set around Cheonggyecheon in Seoul.
+Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.
 ~~~~
 
 </details>
 
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
+**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 来源明确陈述
 
-**来源:** [Superlob](https://x.com/Superlob_com/status/2096584379682476163) · [原始帖子与结果](https://x.com/Superlob_com/status/2096584379682476163) · [完整证据与版权说明](details/gpt-6-astra-is-seriously-insane-476163.md)
-
----
-
-#### 35. [GPT 6 Astra took 20 mins to build this clone](details/gpt-6-astra-took-20-mins-to-build-this-clone-188768.md)
-
-<a href="https://x.com/SahilPanhotra/status/2096184406734188768">
-  <img src="./assets/readme-previews/gpt-6-astra-took-20-mins-to-build-this-clone-188768.jpg" alt="GPT 6 Astra took 20 mins to build this clone result preview" width="700" />
-</a>
-
-GPT 6 Astra took 20 mins to build this clone
-
-<details>
-<summary><strong>Prompt</strong> — build subway surfers clone</summary>
-
-~~~~text
-build subway surfers clone
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [Sahil Panhotra | Indie Builder](https://x.com/SahilPanhotra/status/2096184406734188768) · [原始帖子与结果](https://x.com/SahilPanhotra/status/2096184406734188768) · [完整证据与版权说明](details/gpt-6-astra-took-20-mins-to-build-this-clone-188768.md)
+**来源:** [Dhruv](https://x.com/HeyDhruvv/status/2096441229341028703) · [原始帖子与结果](https://x.com/HeyDhruvv/status/2096441229341028703) · [完整证据与版权说明](details/asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703.md)
 
 ---
 
-#### 36. [I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.](details/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.md)
 
-<a href="https://x.com/made_by_hossein/status/2096454262817534111">
-  <img src="./assets/readme-previews/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.jpg" alt="I gave GPT-6 Astra one prompt: build a playable 3D Persepolis. result preview" width="700" />
-</a>
-
-I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.
-
-<details>
-<summary><strong>Prompt</strong> — build a playable 3D Persepolis.</summary>
-
-~~~~text
-build a playable 3D Persepolis.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [Hossein H.](https://x.com/made_by_hossein/status/2096454262817534111) · [原始帖子与结果](https://x.com/made_by_hossein/status/2096454262817534111) · [完整证据与版权说明](details/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.md)
-
----
-
-#### 37. [I gave the same prompt to Fable 5.1 and GPT 6 Astra](details/i-gave-the-same-prompt-to-fable-5-1-and-gpt-6-705065.md)
-
-<a href="https://x.com/k2sbhai/status/2096714524686705065">
-  <img src="./assets/readme-previews/i-gave-the-same-prompt-to-fable-5-1-and-gpt-6-705065.jpg" alt="I gave the same prompt to Fable 5.1 and GPT 6 Astra result preview" width="700" />
-</a>
-
-I gave the same prompt to Fable 5.1 and GPT 6 Astra
-
-<details>
-<summary><strong>Prompt</strong> — Build an ultra-cinematic animation of an army helicopter flying through the jungles of Vietnam during the Vietnam War. Make it exactly 30 seconds, super detailed, and super cinema…</summary>
-
-~~~~text
-Build an ultra-cinematic animation of an army helicopter flying through the jungles of Vietnam during the Vietnam War. Make it exactly 30 seconds, super detailed, and super cinematic.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [K2S](https://x.com/k2sbhai/status/2096714524686705065) · [原始帖子与结果](https://x.com/k2sbhai/status/2096714524686705065) · [完整证据与版权说明](details/i-gave-the-same-prompt-to-fable-5-1-and-gpt-6-705065.md)
-
----
-
-#### 38. [🚨 The road to AGI is starting to look less like chat-and more like creation.](details/the-road-to-agi-is-starting-to-look-less-like-chat-and-225522.md)
-
-<a href="https://x.com/HiMosef/status/2096491411470225522">
-  <img src="./assets/readme-previews/the-road-to-agi-is-starting-to-look-less-like-chat-and-225522.jpg" alt="🚨 The road to AGI is starting to look less like chat-and more like creation. result preview" width="700" />
-</a>
-
-🚨 The road to AGI is starting to look less like chat-and more like creation.
-
-<details>
-<summary><strong>Prompt</strong> — Build an interactive V8 engine simulation.</summary>
-
-~~~~text
-Build an interactive V8 engine simulation.
-~~~~
-
-</details>
-
-**模型:** GPT-6 Astra · **引擎:** 原始来源未注明 · **Prompt 类型:** 原文
-
-**来源:** [Mosef](https://x.com/HiMosef/status/2096491411470225522) · [原始帖子与结果](https://x.com/HiMosef/status/2096491411470225522) · [完整证据与版权说明](details/the-road-to-agi-is-starting-to-look-less-like-chat-and-225522.md)
-
----
-
+**[查看 GitHub 完整 306 条目录](catalog/README.md)** · **[在 BeatAPI 可视化浏览全部案例](https://beatapi.io/gpt-6-astra-3d-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-3d-prompts)**
 ## 核验方法
 
-当前版本收录 38 条通过审核的案例。每条都需要公开 X 来源、明确的 GPT-6 Astra 模型声明、公开可复制的原始指令和可见结果。我们宁可保留较小但可追溯的合集，也不会为了数量补写或反推 Prompt。模型归因来自原作者公开说明，不代表所有案例都经过独立复现。
+当前版本收录 306 条通过审核的案例。每条都需要公开 X 来源、GPT-6 Astra 模型证据、公开 Prompt 或明确陈述的制作指令，以及可见结果。我们不会为了数量补写或反推 Prompt。Prompt fidelity 字段区分逐字原文、作者明确陈述与来源明确陈述；模型归因来自公开来源，不代表所有案例都经过独立复现。
 
 ## 更多 BeatAPI Prompt 合集
 

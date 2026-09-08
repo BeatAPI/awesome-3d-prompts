@@ -3,7 +3,7 @@
 # you can now bring your dielines to life with GPT 6 Astra
 
 <a href="https://x.com/Salmaaboukarr/status/2096612394281603144">
-  <img src="../assets/readme-previews/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144.png" alt="you can now bring your dielines to life with GPT 6 Astra result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/you-can-now-bring-your-dielines-to-life-with-gpt-6-astra-603144/image-1a555a92d8e4.webp" alt="you can now bring your dielines to life with GPT 6 Astra result preview" width="900" />
 </a>
 
 you can now bring your dielines to life with GPT 6 Astra
@@ -11,7 +11,7 @@ you can now bring your dielines to life with GPT 6 Astra
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Salma](https://x.com/Salmaaboukarr/status/2096612394281603144)
 - **Rights:** review-required; preview and prompt retain source attribution

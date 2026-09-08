@@ -3,7 +3,7 @@
 # Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do
 
 <a href="https://x.com/AiBattle_/status/2096056285896536086">
-  <img src="../assets/readme-previews/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086.png" alt="Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086/image-9d273ba9580a.webp" alt="Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do result preview" width="900" />
 </a>
 
 Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do
@@ -11,7 +11,7 @@ Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical sl
 - **Model:** GPT-6 Astra
 - **Engine:** Godot
 - **Category:** Game Engines
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [AiBattle](https://x.com/AiBattle_/status/2096056285896536086)
 - **Rights:** review-required; preview and prompt retain source attribution

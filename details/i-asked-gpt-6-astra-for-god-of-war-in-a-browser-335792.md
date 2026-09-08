@@ -3,7 +3,7 @@
 # I asked GPT-6 Astra for God of War in a browser
 
 <a href="https://x.com/superalesha/status/2095988972879335792">
-  <img src="../assets/readme-previews/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792.jpg" alt="I asked GPT-6 Astra for God of War in a browser result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792/poster-9bd10af2bdcd.webp" alt="I asked GPT-6 Astra for God of War in a browser result preview" width="900" />
 </a>
 
 I asked GPT-6 Astra for God of War in a browser
@@ -11,7 +11,7 @@ I asked GPT-6 Astra for God of War in a browser
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Alexey Fateev](https://x.com/superalesha/status/2095988972879335792)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -26,6 +26,8 @@ Please don't read the memory, don't read anything. Start from a blank slate.
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/superalesha/status/2095988972879335792)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-for-god-of-war-in-a-browser-335792/video-96251e41b88a.webm)
 
 ## Run it with GPT-6 Astra
 
