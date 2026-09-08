@@ -3,7 +3,7 @@
 # GPT-6 Astra + ChatCut + Blender is insane.
 
 <a href="https://x.com/chatcutapp/status/2096925943575330908">
-  <img src="../assets/readme-previews/gpt-6-astra-chatcut-blender-is-insane-330908.jpg" alt="GPT-6 Astra + ChatCut + Blender is insane. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-chatcut-blender-is-insane-330908/poster-b87086a53e7e.webp" alt="GPT-6 Astra + ChatCut + Blender is insane. result preview" width="900" />
 </a>
 
 GPT-6 Astra + ChatCut + Blender is insane.
@@ -11,7 +11,7 @@ GPT-6 Astra + ChatCut + Blender is insane.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [ChatCut](https://x.com/chatcutapp/status/2096925943575330908)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -27,6 +27,8 @@ Carefully analyze each shot's modeling, materials, lighting, camera placement, m
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/chatcutapp/status/2096925943575330908)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-chatcut-blender-is-insane-330908/video-7909d5e7ce36.webm)
 
 ## Run it with GPT-6 Astra
 

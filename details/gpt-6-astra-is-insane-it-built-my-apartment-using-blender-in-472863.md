@@ -3,7 +3,7 @@
 # GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.
 
 <a href="https://x.com/imalittledev/status/2096159697363472863">
-  <img src="../assets/readme-previews/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863.jpg" alt="GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863/poster-ac73128e6677.webp" alt="GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins. result preview" width="900" />
 </a>
 
 GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.
@@ -11,7 +11,7 @@ GPT-6 Astra is insane. It built my apartment using Blender in less than 20mins.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [andreicovaciu](https://x.com/imalittledev/status/2096159697363472863)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ given the ref image, model it in 3d using blender
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/imalittledev/status/2096159697363472863)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-it-built-my-apartment-using-blender-in-472863/video-01fc043d3a58.webm)
 
 ## Run it with GPT-6 Astra
 

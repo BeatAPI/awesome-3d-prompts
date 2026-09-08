@@ -3,7 +3,7 @@
 # GPT 6 Astra took 20 mins to build this clone
 
 <a href="https://x.com/SahilPanhotra/status/2096184406734188768">
-  <img src="../assets/readme-previews/gpt-6-astra-took-20-mins-to-build-this-clone-188768.jpg" alt="GPT 6 Astra took 20 mins to build this clone result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-took-20-mins-to-build-this-clone-188768/poster-f612e8b98504.webp" alt="GPT 6 Astra took 20 mins to build this clone result preview" width="900" />
 </a>
 
 GPT 6 Astra took 20 mins to build this clone
@@ -11,7 +11,7 @@ GPT 6 Astra took 20 mins to build this clone
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Sahil Panhotra | Indie Builder](https://x.com/SahilPanhotra/status/2096184406734188768)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ build subway surfers clone
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/SahilPanhotra/status/2096184406734188768)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-took-20-mins-to-build-this-clone-188768/video-dbb6ed86f90d.webm)
 
 ## Run it with GPT-6 Astra
 

@@ -3,7 +3,7 @@
 # make me a photorealistic toy poodle in Blender
 
 <a href="https://x.com/ashjanderson/status/2096304638282563865">
-  <img src="../assets/readme-previews/make-me-a-photorealistic-toy-poodle-in-blender-563865.png" alt="make me a photorealistic toy poodle in Blender result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/make-me-a-photorealistic-toy-poodle-in-blender-563865/image-ecbb0bf83d3b.webp" alt="make me a photorealistic toy poodle in Blender result preview" width="900" />
 </a>
 
 make me a photorealistic toy poodle in Blender
@@ -11,7 +11,7 @@ make me a photorealistic toy poodle in Blender
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Ash Anderson](https://x.com/ashjanderson/status/2096304638282563865)
 - **Rights:** review-required; preview and prompt retain source attribution

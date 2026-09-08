@@ -3,7 +3,7 @@
 # since everyone's making insane stuff with GPT-6 Astra
 
 <a href="https://x.com/zairalaraib_/status/2096685163111694556">
-  <img src="../assets/readme-previews/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556.jpg" alt="since everyone's making insane stuff with GPT-6 Astra result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556/poster-e18a27d3e4ce.webp" alt="since everyone's making insane stuff with GPT-6 Astra result preview" width="900" />
 </a>
 
 since everyone's making insane stuff with GPT-6 Astra
@@ -11,7 +11,7 @@ since everyone's making insane stuff with GPT-6 Astra
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Product Visualization
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Zaira Laraib](https://x.com/zairalaraib_/status/2096685163111694556)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Build an interactive 3D exploded-view visualization of a modern smartphone. Sepa
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/zairalaraib_/status/2096685163111694556)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/since-everyone-s-making-insane-stuff-with-gpt-6-astra-694556/video-e413c82ba51d.webm)
 
 ## Run it with GPT-6 Astra
 

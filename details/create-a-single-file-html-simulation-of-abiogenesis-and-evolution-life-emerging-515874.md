@@ -3,7 +3,7 @@
 # Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord
 
 <a href="https://x.com/yume_arasaki/status/2096040448477515874">
-  <img src="../assets/readme-previews/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874.jpg" alt="Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874/poster-7167219dd34e.webp" alt="Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord result preview" width="900" />
 </a>
 
 Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord
@@ -11,7 +11,7 @@ Create a single-file HTML simulation of abiogenesis and evolution — life emerg
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js + WebGL
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Yume_X](https://x.com/yume_arasaki/status/2096040448477515874)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -35,6 +35,8 @@ Single HTML file. No Three.js, no libraries. Raw WebGL and GLSL. Canvas fills th
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/yume_arasaki/status/2096040448477515874)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874/video-0c32d9bd573b.webm)
 
 ## Run it with GPT-6 Astra
 

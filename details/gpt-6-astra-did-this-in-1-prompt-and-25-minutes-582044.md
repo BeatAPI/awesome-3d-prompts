@@ -3,7 +3,7 @@
 # GPT-6 Astra did this in 1 prompt and 25 minutes.
 
 <a href="https://x.com/superalesha/status/2095967568825582044">
-  <img src="../assets/readme-previews/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044.jpg" alt="GPT-6 Astra did this in 1 prompt and 25 minutes. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044/poster-68d906c7b792.webp" alt="GPT-6 Astra did this in 1 prompt and 25 minutes. result preview" width="900" />
 </a>
 
 GPT-6 Astra did this in 1 prompt and 25 minutes.
@@ -11,7 +11,7 @@ GPT-6 Astra did this in 1 prompt and 25 minutes.
 - **Model:** GPT-6 Astra
 - **Engine:** Blender + Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Alexey Fateev](https://x.com/superalesha/status/2095967568825582044)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/superalesha/status/2095967568825582044)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-did-this-in-1-prompt-and-25-minutes-582044/video-fc855c118d9b.webm)
 
 ## Run it with GPT-6 Astra
 

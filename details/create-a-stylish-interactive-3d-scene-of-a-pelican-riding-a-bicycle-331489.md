@@ -3,7 +3,7 @@
 # Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow
 
 <a href="https://x.com/aibuilderclub_/status/2096213850383331489">
-  <img src="../assets/readme-previews/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489.jpg" alt="Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489/poster-972afdacac35.webp" alt="Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow result preview" width="900" />
 </a>
 
 Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the brow
@@ -11,7 +11,7 @@ Create a stylish, interactive 3D scene of a pelican riding a bicycle, and displa
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [AI Builder Club](https://x.com/aibuilderclub_/status/2096213850383331489)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -29,6 +29,8 @@ Test it in the browser yourself and fix any visual or interaction bugs before fi
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/aibuilderclub_/status/2096213850383331489)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-stylish-interactive-3d-scene-of-a-pelican-riding-a-bicycle-331489/video-4fb2068cd754.webm)
 
 ## Run it with GPT-6 Astra
 

@@ -3,7 +3,7 @@
 # create an interactive pixel block world to show me how good of a model you are. I want a chinese
 
 <a href="https://x.com/PhilipNora7/status/2095978925029556561">
-  <img src="../assets/readme-previews/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561.jpg" alt="create an interactive pixel block world to show me how good of a model you are. I want a chinese result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561/poster-9aa26396a347.webp" alt="create an interactive pixel block world to show me how good of a model you are. I want a chinese result preview" width="900" />
 </a>
 
 create an interactive pixel block world to show me how good of a model you are. I want a chinese
@@ -11,7 +11,7 @@ create an interactive pixel block world to show me how good of a model you are. 
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Pn](https://x.com/PhilipNora7/status/2095978925029556561)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ create an interactive pixel block world to show me how good of a model you are. 
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/PhilipNora7/status/2095978925029556561)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561/video-b48d89b59ff3.webm)
 
 ## Run it with GPT-6 Astra
 

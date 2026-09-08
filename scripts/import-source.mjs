@@ -8,6 +8,9 @@ const portable = source.map((item) => {
   const {
     local_preview: localPreview,
     local_video: localVideo,
+    poster_candidates: _posterCandidates,
+    poster_contact_sheet: _posterContactSheet,
+    video_source_url_used: _videoSourceUrlUsed,
     ...result
   } = item.result;
   return {

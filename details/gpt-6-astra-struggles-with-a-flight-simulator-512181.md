@@ -3,7 +3,7 @@
 # GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭
 
 <a href="https://x.com/adxtyahq/status/2096236137266512181">
-  <img src="../assets/readme-previews/gpt-6-astra-struggles-with-a-flight-simulator-512181.jpg" alt="GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭 result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-struggles-with-a-flight-simulator-512181/poster-8005a1b84096.webp" alt="GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭 result preview" width="900" />
 </a>
 
 GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭
@@ -11,7 +11,7 @@ GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [aditya](https://x.com/adxtyahq/status/2096236137266512181)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -65,6 +65,8 @@ Create a start screen with:
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/adxtyahq/status/2096236137266512181)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-struggles-with-a-flight-simulator-512181/video-d243e36f2cf1.webm)
 
 ## Run it with GPT-6 Astra
 

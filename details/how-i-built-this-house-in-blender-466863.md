@@ -3,7 +3,7 @@
 # How I built this house in Blender 🏠
 
 <a href="https://x.com/aisongman/status/2096876083094466863">
-  <img src="../assets/readme-previews/how-i-built-this-house-in-blender-466863.jpg" alt="How I built this house in Blender 🏠 result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/how-i-built-this-house-in-blender-466863/poster-6bbb443a6afe.webp" alt="How I built this house in Blender 🏠 result preview" width="900" />
 </a>
 
 How I built this house in Blender 🏠
@@ -11,7 +11,7 @@ How I built this house in Blender 🏠
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [AiSongMan｜AI Workflow Lab](https://x.com/aisongman/status/2096876083094466863)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ Build an editable Blender scene through Blender Python API (bpy) based on the re
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/aisongman/status/2096876083094466863)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/how-i-built-this-house-in-blender-466863/video-47fd53a05e6a.webm)
 
 ## Run it with GPT-6 Astra
 

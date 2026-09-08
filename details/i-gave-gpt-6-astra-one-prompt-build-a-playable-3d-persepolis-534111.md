@@ -3,7 +3,7 @@
 # I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.
 
 <a href="https://x.com/made_by_hossein/status/2096454262817534111">
-  <img src="../assets/readme-previews/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111.jpg" alt="I gave GPT-6 Astra one prompt: build a playable 3D Persepolis. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111/poster-031e98c0aba8.webp" alt="I gave GPT-6 Astra one prompt: build a playable 3D Persepolis. result preview" width="900" />
 </a>
 
 I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.
@@ -11,7 +11,7 @@ I gave GPT-6 Astra one prompt: build a playable 3D Persepolis.
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** Agent Workflows
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Hossein H.](https://x.com/made_by_hossein/status/2096454262817534111)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ build a playable 3D Persepolis.
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/made_by_hossein/status/2096454262817534111)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-gpt-6-astra-one-prompt-build-a-playable-3d-persepolis-534111/video-87fad6211a3f.webm)
 
 ## Run it with GPT-6 Astra
 

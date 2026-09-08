@@ -3,7 +3,7 @@
 # everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper
 
 <a href="https://x.com/DeRonin_/status/2096567918859354155">
-  <img src="../assets/readme-previews/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155.jpg" alt="everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155/poster-89bd3b9075e3.webp" alt="everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper result preview" width="900" />
 </a>
 
 everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper
@@ -11,7 +11,7 @@ everyone is using GPT-6 Astra to make games... i had it build me a robot prototy
 - **Model:** GPT-6 Astra
 - **Engine:** Not specified in source
 - **Category:** CAD & 3D Printing
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Ronin](https://x.com/DeRonin_/status/2096567918859354155)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -25,6 +25,8 @@ prototype me a full Microduck
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/DeRonin_/status/2096567918859354155)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155/video-83276eb68915.webm)
 
 ## Run it with GPT-6 Astra
 

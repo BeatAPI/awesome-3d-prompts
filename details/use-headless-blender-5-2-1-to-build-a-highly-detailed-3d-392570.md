@@ -3,7 +3,7 @@
 # use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri
 
 <a href="https://x.com/vatro_vrbanic/status/2095975726558392570">
-  <img src="../assets/readme-previews/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570.jpg" alt="use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570/poster-aea7e0a1042c.webp" alt="use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri result preview" width="900" />
 </a>
 
 use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this bluepri
@@ -11,7 +11,7 @@ use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based
 - **Model:** GPT-6 Astra
 - **Engine:** Blender
 - **Category:** Blender Scenes
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Vatroslav Vrbanić](https://x.com/vatro_vrbanic/status/2095975726558392570)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -28,6 +28,8 @@ pick best suited reference images, don't favor the blueprint just because it was
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/vatro_vrbanic/status/2095975726558392570)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-headless-blender-5-2-1-to-build-a-highly-detailed-3d-392570/video-56bb1e025c4a.webm)
 
 ## Run it with GPT-6 Astra
 

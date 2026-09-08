@@ -3,7 +3,7 @@
 # GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.
 
 <a href="https://x.com/zeuuss_01/status/2096337879173591171">
-  <img src="../assets/readme-previews/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171.jpg" alt="GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES. result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171/poster-aa1fce33273b.webp" alt="GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES. result preview" width="900" />
 </a>
 
 GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.
@@ -11,7 +11,7 @@ GPT-6 ASTRA ONE-SHOTTED THIS GAME IN 43 MINUTES.
 - **Model:** GPT-6 Astra
 - **Engine:** Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [ZEUS⚡️](https://x.com/zeuuss_01/status/2096337879173591171)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -223,6 +223,8 @@ game I shipped in august. without them the model rebuilds it.
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/zeuuss_01/status/2096337879173591171)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shotted-this-game-in-43-minutes-591171/video-52d732a9803a.webm)
 
 ## Run it with GPT-6 Astra
 

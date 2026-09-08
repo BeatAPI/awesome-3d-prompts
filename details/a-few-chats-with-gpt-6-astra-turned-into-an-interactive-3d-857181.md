@@ -3,7 +3,7 @@
 # 💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!
 
 <a href="https://x.com/MrLarus/status/2096971051334857181">
-  <img src="../assets/readme-previews/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181.jpg" alt="💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard! result preview" width="900" />
+  <img src="https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181/poster-2ba2af73f300.webp" alt="💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard! result preview" width="900" />
 </a>
 
 💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!
@@ -11,7 +11,7 @@
 - **Model:** GPT-6 Astra
 - **Engine:** Blender + Three.js
 - **Category:** Web 3D
-- **Prompt fidelity:** Exact source instruction
+- **Prompt fidelity:** Verbatim source instruction
 - **Source checked:** 2026-09-08
 - **Creator:** [Larus Canus](https://x.com/MrLarus/status/2096971051334857181)
 - **Rights:** review-required; preview and prompt retain source attribution
@@ -31,6 +31,8 @@ Create an original interface that leaves the scene unobstructed. Build in stages
 ## Original result and attribution
 
 [View the original post and result on X](https://x.com/MrLarus/status/2096971051334857181)
+
+[Watch the optimized WebM result](https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181/video-59479f233d0b.webm)
 
 ## Run it with GPT-6 Astra
 
